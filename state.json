@@ -32,7 +32,12 @@
    "0059b568a7",
    "f0f142e5f1",
    "43c72b00af",
-   "294bcd14c6"
+   "294bcd14c6",
+   "235c12a090",
+   "f09c871159",
+   "f455143262",
+   "6dddf79d3a",
+   "237c7d91d5"
   ],
   "started": [
    "Sportando",
@@ -42,7 +47,7 @@
  },
  "reports": {
   "euroleague-injury-report-round-4-el2627": {
-   "done": false,
+   "done": true,
    "published": "2026-10-09T13:14:00.000Z",
    "round": 4,
    "teams": {
@@ -55,8 +60,8 @@
     "Barcelona": {
      "n": [
       "c436dbd475",
-      "172118f056",
-      "9f8ababe83",
+      "aa5fa0a413",
+      "12c7657b4c",
       "c80a99ec33"
      ],
      "s": "8c6ca5fc41"

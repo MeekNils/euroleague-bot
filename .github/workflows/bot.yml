@@ -1,0 +1,39 @@
+name: EuroLeague Bot
+
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "4,14,24,34,44,54 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: euroleague-bot
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Bot starten
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
+          SEND_TEST: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
+        run: python3 bot.py
+
+      - name: Gedaechtnis speichern
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ ! -f state.json ]; then exit 0; fi
+          git add state.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -q -m "Bot-Status aktualisiert"
+          git pull -q --rebase
+          git push -q

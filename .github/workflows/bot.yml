@@ -2,8 +2,8 @@ name: EuroLeague Bot
 
 on:
   workflow_dispatch:
-  # schedule:
-  #   - cron: "4,14,24,34,44,54 * * * *"
+  schedule:
+    - cron: "4,14,24,34,44,54 * * * *"
 
 permissions:
   contents: write
@@ -23,7 +23,6 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
-          SEND_TEST: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
         run: python3 bot.py
 
       - name: Gedaechtnis speichern

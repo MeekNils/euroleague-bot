@@ -51,7 +51,9 @@
    "9d21320b22",
    "8e6f23fc0f",
    "6d39f58741",
-   "74ff0e1d06"
+   "74ff0e1d06",
+   "68ce5a21a5",
+   "6c3f450d95"
   ],
   "started": [
    "Sportando",
@@ -450,7 +452,7 @@
    }
   },
   "pregame-quotes-and-injury-report-round-2-ec2627": {
-   "done": false,
+   "done": true,
    "published": "2026-10-07T14:41:36.987Z",
    "round": 2,
    "teams": {

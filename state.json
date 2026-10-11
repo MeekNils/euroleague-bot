@@ -68,7 +68,11 @@
    "60a3f73b04",
    "7bbc14c90c",
    "223c390379",
-   "da76ebec0b"
+   "da76ebec0b",
+   "8296305ea0",
+   "59f642fb48",
+   "31a3d32326",
+   "4b54e7eee7"
   ],
   "started": [
    "Sportando",
@@ -76,7 +80,8 @@
   ],
   "titles": [
    "Markus Howard set to leave Baskonia, Zenit move on the horizon",
-   "Gabriel Deck’s shoulder injury more serious than Real Madrid expected"
+   "Gabriel Deck’s shoulder injury more serious than Real Madrid expected",
+   "Real Madrid concerned over Gaby Deck injury: “More serious than we thought”"
   ]
  },
  "reports": {
@@ -646,9 +651,10 @@
   }
  },
  "schedule": {
-  "checked": "2026-10-11T13:06:33+00:00",
+  "checked": "2026-10-11T21:50:33+00:00",
   "rounds": [
-   5
+   5,
+   6
   ],
   "season": "E2026"
  }

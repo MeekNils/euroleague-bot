@@ -407,6 +407,12 @@ def is_injury_article(article):
     title = str((article.get("heroMedia") or {}).get("title") or "").lower()
     if "eurocup" in slug or "eurocup" in title:
         return False
+    # Kategorien und Verknuepfungen pruefen: EuroCup-Artikel fliegen raus
+    meta = json.dumps(
+        [article.get(key) for key in ("categories", "displayCategory", "linkedIds", "tags")]
+    ).lower()
+    if "eurocup" in meta or re.search(r'"u20\d\d', meta):
+        return False
     return "injury-report" in slug or "injury report" in title
 
 
@@ -570,53 +576,86 @@ NAME_RE = re.compile(
 )
 
 
+LEAD_RE = re.compile(
+    r"^(meanwhile|additionally|in addition|also|however|moreover|furthermore"
+    r"|elsewhere|on the other hand|both|guards?|forwards?|centers?)[,\s]+",
+    re.I,
+)
+
+
 def split_names(text):
-    text = re.sub(r"^(both|guards?|forwards?|centers?)\s+", "", text.strip(), flags=re.I)
+    text = LEAD_RE.sub("", text.strip())
     names = [
         squash(part)
         for part in re.split(r"\s*,\s*(?:and\s+)?|\s+and\s+|\s*&\s*", text)
         if squash(part)
     ]
     for name in names:
-        if len(name.split()) > 5 or not NAME_RE.match(name):
+        if not 2 <= len(name.split()) <= 5 or not NAME_RE.match(name):
             return None
     return names or None
+
+
+def status_kinds(text):
+    return [
+        kind
+        for kind, pattern in (("OUT", OUT_RE), ("GTD", GTD_RE), ("OK", OK_RE))
+        if pattern.search(text)
+    ]
 
 
 def parse_statement(statement):
     """Liest Namen und Status aus dem Satz des Klubs.
 
-    Ergebnis: {"OUT": [...], "GTD": [...], "OK": [...]} oder {"none": True}.
+    Ergebnis: {"OUT": [...], "GTD": [...], "OK": [...]} oder {"none": True},
+    dazu bei Bedarf "extra": weitere Saetze ohne Status (z. B. Neuzugaenge).
     Gibt None zurueck, wenn der Satz nicht sicher zu verstehen ist. Dann
     postet der Bot lieber den Originalsatz als etwas Falsches.
     """
-    text = re.sub(
-        r",?\s*the club (has )?(confirmed|announced|said)\.?\s*$", "", statement.strip(),
-        flags=re.I,
-    )
-    if not text:
-        return None
-    if NONE_RE.search(text):
-        return {"none": True}
+    ending = r",?\s*the club (has )?(confirmed|announced|said)\s*$"
     result = {}
-    for clause in re.split(r"\s+while\s+|;\s+|,\s+but\s+|\.\s+(?=[A-Z])", text):
-        clause = clause.strip(" .")
-        if not clause:
+    extra = []
+    sentences = re.split(r"(?<=[.!?])\s+(?=[A-Z])", statement.strip())
+    for index, sentence in enumerate(sentences):
+        sentence = re.sub(ending, "", sentence.strip().rstrip("."), flags=re.I)
+        if not sentence:
             continue
-        kinds = [
-            kind
-            for kind, pattern in (("OUT", OUT_RE), ("GTD", GTD_RE), ("OK", OK_RE))
-            if pattern.search(clause)
-        ]
-        verb = VERB_RE.search(clause)
-        if len(kinds) != 1 or not verb:
+        if NONE_RE.search(sentence):
+            if result:
+                return None
+            result["none"] = True
+            continue
+        if not status_kinds(sentence):
+            if index == 0:
+                return None
+            extra.append(LEAD_RE.sub("", sentence).strip())
+            continue
+        if result.get("none"):
             return None
-        names = split_names(clause[: verb.start()])
-        if not names:
-            return None
-        bucket = result.setdefault(kinds[0], [])
-        bucket += [name for name in names if name not in bucket]
-    return result or None
+        for clause in re.split(r"\s+while\s+|;\s+|,\s+but\s+", sentence):
+            clause = clause.strip(" .")
+            if not clause:
+                continue
+            kinds = status_kinds(clause)
+            verb = VERB_RE.search(clause)
+            if len(kinds) != 1 or not verb:
+                return None
+            names = split_names(clause[: verb.start()])
+            if not names:
+                return None
+            bucket = result.setdefault(kinds[0], [])
+            bucket += [name for name in names if name not in bucket]
+    if not result:
+        return None
+    extra = [part[:1].upper() + part[1:] + "." for part in extra if part]
+    if extra:
+        result["extra"] = extra
+    return result
+
+
+def shorten(text, limit=280):
+    text = squash(text)
+    return text if len(text) <= limit else text[: limit - 1].rstrip() + "…"
 
 
 def status_lines(tag, entry, notes=None):
@@ -626,17 +665,19 @@ def status_lines(tag, entry, notes=None):
     else:
         parsed = parse_statement(entry["statement"])
         if parsed is None:
-            lines = [f"ℹ️ {tag}: {esc(entry['statement'])}"]
-        elif parsed.get("none"):
-            lines = [f"✅ {tag}: no injuries reported"]
+            lines = [f"ℹ️ {tag}: {esc(shorten(entry['statement']))}"]
         else:
             lines = []
+            if parsed.get("none"):
+                lines.append(f"✅ {tag}: no injuries reported")
             if parsed.get("OUT"):
                 lines.append(f"\U0001f6ab {tag}: {esc(', '.join(parsed['OUT']))} <b>OUT</b>")
             if parsed.get("GTD"):
                 lines.append(f"❓ {tag}: {esc(', '.join(parsed['GTD']))} <b>GTD</b>")
             if parsed.get("OK"):
                 lines.append(f"✅ {tag}: {esc(', '.join(parsed['OK']))} available")
+            for sentence in parsed.get("extra") or []:
+                lines.append(f"• {esc(shorten(sentence))}")
     for note in notes or []:
         lines.append(f"• {esc(note)}")
     return lines
@@ -703,7 +744,16 @@ def is_changed(old, new, pending):
     return any(note not in (old.get("n") or []) for note in new["n"])
 
 
-def run_injuries(state, season, now):
+def match_report(teams, games):
+    """Ordnet jedem Team sein Spiel zu. Gibt die Zahl der Treffer zurueck."""
+    hits = 0
+    for name, entry in teams.items():
+        entry["match"], entry["side"] = match_team(name, games)
+        hits += 1 if entry["match"] else 0
+    return hits
+
+
+def run_injuries(state, season, now, rounds):
     """Postet neue Reports und Aenderungen. Gibt {Runde: Teams} zurueck."""
     reports = state.setdefault("reports", {})
     first_run = not reports
@@ -724,17 +774,33 @@ def run_injuries(state, season, now):
         if not teams:
             continue
         round_number = article_round(article)
-        published = parse_time(article.get("publishDate"))
         games = round_games(season, round_number) if round_number else []
-        open_names = []
-        for name, entry in teams.items():
-            entry["match"], entry["side"] = match_team(name, games)
-            if entry["match"] and game_time(entry["match"]):
-                still_open = game_time(entry["match"]) > now
-            else:
-                still_open = bool(published) and now - published < timedelta(days=3)
-            if still_open:
-                open_names.append(name)
+        hits = match_report(teams, games)
+        if hits * 2 < len(teams):
+            # Rundennummer fehlt oder passt nicht: aktuelle Runden probieren
+            games = [g for r in rounds for g in round_games(season, r)]
+            hits = match_report(teams, games)
+        if not games:
+            continue  # Spielplan gerade leer: beim naechsten Lauf neu pruefen
+        if hits * 2 < len(teams):
+            # Das ist kein EuroLeague-Report (z. B. EuroCup): nie posten
+            log(f"Uebersprungen, kein EuroLeague-Report: {slug}")
+            reports[slug] = {
+                "round": round_number,
+                "published": article.get("publishDate"),
+                "teams": {},
+                "done": True,
+            }
+            save_state(state)
+            continue
+        # Nur Teams mit einem echten, noch nicht gestarteten EuroLeague-Spiel
+        open_names = [
+            name
+            for name, entry in teams.items()
+            if entry["match"]
+            and game_time(entry["match"])
+            and game_time(entry["match"]) > now
+        ]
         prints = {
             name: {
                 "s": fingerprint(entry["statement"]),
@@ -775,8 +841,8 @@ def run_injuries(state, season, now):
                 log(f"Injury-Update gepostet: {slug} ({', '.join(changed)})")
         reports[slug] = record
         save_state(state)
-        if round_number and open_names:
-            by_round[round_number] = teams
+        for name in open_names:
+            by_round.setdefault(teams[name]["match"].get("round"), {})[name] = teams[name]
 
     # Nur die neuesten Reports im Gedaechtnis behalten
     if len(reports) > 12:
@@ -1055,12 +1121,13 @@ def main():
 
     problems = []
     by_round = {}
+    rounds = []
     try:
-        by_round = run_injuries(state, season, now)
+        rounds = active_rounds(state, season, now)
+        by_round = run_injuries(state, season, now, rounds)
     except RuntimeError as error:
         problems.append(f"Injury Report: {error}")
     try:
-        rounds = active_rounds(state, season, now)
         run_games(state, season, now, rounds, by_round)
     except RuntimeError as error:
         problems.append(f"Spiele: {error}")

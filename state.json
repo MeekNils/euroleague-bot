@@ -76,7 +76,17 @@
    "1822d75ef4",
    "a93c7ec69c",
    "69b5813583",
-   "56eaf544d1"
+   "56eaf544d1",
+   "9cf41c369e",
+   "951252ae3a",
+   "2cbdd40a11",
+   "c0a6d46758",
+   "6c12d839dc",
+   "0406d4bf32",
+   "2df0b54190",
+   "0cf4a7afa0",
+   "9ce7d00ed8",
+   "aa1e55ecb5"
   ],
   "started": [
    "Sportando",
@@ -85,7 +95,9 @@
   "titles": [
    "Markus Howard set to leave Baskonia, Zenit move on the horizon",
    "Gabriel Deck’s shoulder injury more serious than Real Madrid expected",
-   "Real Madrid concerned over Gaby Deck injury: “More serious than we thought”"
+   "Real Madrid concerned over Gaby Deck injury: “More serious than we thought”",
+   "Izundu injury leaves Crvena Zvezda with depleted frontcourt: “The club is looking for a player”",
+   "Gabriel Deck to undergo shoulder surgery"
   ]
  },
  "reports": {
@@ -312,6 +324,161 @@
       "750167bf86"
      ],
      "s": "da39a3ee5e"
+    }
+   }
+  },
+  "injury-report-round-5-el2627": {
+   "done": false,
+   "published": "2026-10-12T14:26:56.044Z",
+   "round": 5,
+   "teams": {
+    "ASVEL": {
+     "n": [
+      "4ad41faee3",
+      "6e720183cd",
+      "1f99df24b3"
+     ],
+     "s": "68dfeea426"
+    },
+    "Barcelona": {
+     "n": [
+      "ba461f7af3",
+      "74aa88e04b",
+      "654dad5cdc",
+      "709f5b92de"
+     ],
+     "s": "ec552d574b"
+    },
+    "Baskonia": {
+     "n": [
+      "7f2597505d"
+     ],
+     "s": "ef0fae829a"
+    },
+    "Bayern": {
+     "n": [
+      "377a9e53bb",
+      "d72074e38b",
+      "8a28248124"
+     ],
+     "s": "f2af8041da"
+    },
+    "Besiktas": {
+     "n": [
+      "2b5c4c286d"
+     ],
+     "s": "1e8911cad4"
+    },
+    "Crvena Zvezda": {
+     "n": [
+      "e657950307",
+      "a6be83545f",
+      "d43bd447b8",
+      "4ea6e26759"
+     ],
+     "s": "842190472f"
+    },
+    "Dubai": {
+     "n": [
+      "a9ef7ae304",
+      "9ce00bb7e7",
+      "efbee08da3"
+     ],
+     "s": "99b4c904c5"
+    },
+    "Efes": {
+     "n": [
+      "b642ab080d",
+      "4492faa90b",
+      "dad5b88c9e",
+      "d57f251371"
+     ],
+     "s": "92806afc6f"
+    },
+    "Fenerbahce": {
+     "n": [
+      "e5da73e8ec",
+      "d99783bef1"
+     ],
+     "s": "a96c01adff"
+    },
+    "Hapoel": {
+     "n": [
+      "25199f8eb7"
+     ],
+     "s": "36185fffda"
+    },
+    "Maccabi": {
+     "n": [
+      "94d5a8e91a",
+      "29b6f1d6c8"
+     ],
+     "s": "aac2937305"
+    },
+    "Milan": {
+     "n": [
+      "a5bd20fada"
+     ],
+     "s": "c3930e1901"
+    },
+    "Olympiacos": {
+     "n": [
+      "db8722cdbe",
+      "d598510e66"
+     ],
+     "s": "6977afdba3"
+    },
+    "Panathinaikos": {
+     "n": [
+      "0f0ba4d0d5",
+      "3666117c80",
+      "c13b9db2f3"
+     ],
+     "s": "7eb10eb433"
+    },
+    "Paris": {
+     "n": [
+      "50447d982d",
+      "ed7bd441ac",
+      "258fea0c22"
+     ],
+     "s": "357483936c"
+    },
+    "Partizan": {
+     "n": [
+      "7195067580",
+      "91a9d65feb",
+      "a7a0668519"
+     ],
+     "s": "81b2b73d10"
+    },
+    "Real Madrid": {
+     "n": [
+      "cc1c1b635f",
+      "2264b6f139"
+     ],
+     "s": "62a60d32af"
+    },
+    "Valencia": {
+     "n": [
+      "a5f5677f0c"
+     ],
+     "s": "27c5da24c2"
+    },
+    "Virtus": {
+     "n": [
+      "66623ce9a1"
+     ],
+     "s": "1fe0e90537"
+    },
+    "Zalgiris": {
+     "n": [
+      "2dffdba5f0",
+      "ddafd414a4",
+      "53fe9ad657",
+      "a48ae22203"
+     ],
+     "s": "1763d0da4d"
     }
    }
   },
@@ -652,10 +819,61 @@
      "s": "eceb3e1d8c"
     }
    }
+  },
+  "pregame-quotes-injury-report-round-3-ec2627": {
+   "done": false,
+   "published": "2026-10-12T11:39:42.874Z",
+   "round": 3,
+   "teams": {
+    "Alessandro Magro, Roma head coach": {
+     "n": [],
+     "s": "70607b07fa"
+    },
+    "Andrea Mezzanotte, Roma forward": {
+     "n": [],
+     "s": "f1758cf583"
+    },
+    "Andrea Trinchieri, PAOK head coach": {
+     "n": [],
+     "s": "de80d4e7d6"
+    },
+    "Charlie Brown, Trento forward": {
+     "n": [],
+     "s": "1d819205ec"
+    },
+    "Klavs Cavars, Riga Zelli center": {
+     "n": [],
+     "s": "56a79b86a0"
+    },
+    "Marcus Foster, PAOK guard": {
+     "n": [],
+     "s": "a6dea4cfc2"
+    },
+    "Nazareno Lombardi, Trento assistant coach": {
+     "n": [],
+     "s": "a13cdf9058"
+    },
+    "Oluwasimisola Shittu, Ulm center": {
+     "n": [],
+     "s": "d299b20c39"
+    },
+    "Rokas Kondratavicius, Riga Zelli head coach": {
+     "n": [],
+     "s": "2a1d668491"
+    },
+    "Trento injury report:": {
+     "n": [],
+     "s": "b39fd547d9"
+    },
+    "Ty Harrelson, Ulm head coach": {
+     "n": [],
+     "s": "f873145b44"
+    }
+   }
   }
  },
  "schedule": {
-  "checked": "2026-10-12T06:38:26+00:00",
+  "checked": "2026-10-12T16:06:52+00:00",
   "rounds": [
    5,
    6

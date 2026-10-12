@@ -86,7 +86,13 @@
    "2df0b54190",
    "0cf4a7afa0",
    "9ce7d00ed8",
-   "aa1e55ecb5"
+   "aa1e55ecb5",
+   "8d40dbb625",
+   "9b3cee074a",
+   "2f0785bdbe",
+   "a4683f9fc8",
+   "c6215ce5f8",
+   "746b629103"
   ],
   "started": [
    "Sportando",
@@ -329,7 +335,7 @@
   },
   "injury-report-round-5-el2627": {
    "done": false,
-   "published": "2026-10-12T14:26:56.044Z",
+   "published": "2026-10-12T20:08:33.467Z",
    "round": 5,
    "teams": {
     "ASVEL": {
@@ -404,9 +410,10 @@
     },
     "Hapoel": {
      "n": [
-      "25199f8eb7"
+      "52de3be59b",
+      "c4f57d3a91"
      ],
-     "s": "36185fffda"
+     "s": "14a510b4da"
     },
     "Maccabi": {
      "n": [
@@ -417,16 +424,16 @@
     },
     "Milan": {
      "n": [
-      "a5bd20fada"
+      "0f4b464347"
      ],
-     "s": "c3930e1901"
+     "s": "f9b1623751"
     },
     "Olympiacos": {
      "n": [
       "db8722cdbe",
       "d598510e66"
      ],
-     "s": "6977afdba3"
+     "s": "b58a8089d4"
     },
     "Panathinaikos": {
      "n": [
@@ -438,7 +445,7 @@
     },
     "Paris": {
      "n": [
-      "50447d982d",
+      "ce06c068bd",
       "ed7bd441ac",
       "258fea0c22"
      ],
@@ -446,11 +453,11 @@
     },
     "Partizan": {
      "n": [
-      "7195067580",
+      "31e37f14b0",
       "91a9d65feb",
       "a7a0668519"
      ],
-     "s": "81b2b73d10"
+     "s": "d02158cf2f"
     },
     "Real Madrid": {
      "n": [
@@ -461,9 +468,9 @@
     },
     "Valencia": {
      "n": [
-      "a5f5677f0c"
+      "66db52092a"
      ],
-     "s": "27c5da24c2"
+     "s": "729d1c011a"
     },
     "Virtus": {
      "n": [
@@ -821,59 +828,14 @@
    }
   },
   "pregame-quotes-injury-report-round-3-ec2627": {
-   "done": false,
+   "done": true,
    "published": "2026-10-12T11:39:42.874Z",
    "round": 3,
-   "teams": {
-    "Alessandro Magro, Roma head coach": {
-     "n": [],
-     "s": "70607b07fa"
-    },
-    "Andrea Mezzanotte, Roma forward": {
-     "n": [],
-     "s": "f1758cf583"
-    },
-    "Andrea Trinchieri, PAOK head coach": {
-     "n": [],
-     "s": "de80d4e7d6"
-    },
-    "Charlie Brown, Trento forward": {
-     "n": [],
-     "s": "1d819205ec"
-    },
-    "Klavs Cavars, Riga Zelli center": {
-     "n": [],
-     "s": "56a79b86a0"
-    },
-    "Marcus Foster, PAOK guard": {
-     "n": [],
-     "s": "a6dea4cfc2"
-    },
-    "Nazareno Lombardi, Trento assistant coach": {
-     "n": [],
-     "s": "a13cdf9058"
-    },
-    "Oluwasimisola Shittu, Ulm center": {
-     "n": [],
-     "s": "d299b20c39"
-    },
-    "Rokas Kondratavicius, Riga Zelli head coach": {
-     "n": [],
-     "s": "2a1d668491"
-    },
-    "Trento injury report:": {
-     "n": [],
-     "s": "b39fd547d9"
-    },
-    "Ty Harrelson, Ulm head coach": {
-     "n": [],
-     "s": "f873145b44"
-    }
-   }
+   "teams": {}
   }
  },
  "schedule": {
-  "checked": "2026-10-12T16:06:52+00:00",
+  "checked": "2026-10-12T22:56:31+00:00",
   "rounds": [
    5,
    6

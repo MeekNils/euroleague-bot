@@ -92,7 +92,13 @@
    "2f0785bdbe",
    "a4683f9fc8",
    "c6215ce5f8",
-   "746b629103"
+   "746b629103",
+   "153d81a903",
+   "f45a3252fb",
+   "149afc3d7b",
+   "952b9c6735",
+   "485df7fae1",
+   "4bf8b874e4"
   ],
   "started": [
    "Sportando",
@@ -103,7 +109,8 @@
    "Gabriel Deck’s shoulder injury more serious than Real Madrid expected",
    "Real Madrid concerned over Gaby Deck injury: “More serious than we thought”",
    "Izundu injury leaves Crvena Zvezda with depleted frontcourt: “The club is looking for a player”",
-   "Gabriel Deck to undergo shoulder surgery"
+   "Gabriel Deck to undergo shoulder surgery",
+   "Lonnie Walker IV considering EuroLeague return, Besiktas leads race"
   ]
  },
  "reports": {
@@ -335,7 +342,7 @@
   },
   "injury-report-round-5-el2627": {
    "done": false,
-   "published": "2026-10-12T20:08:33.467Z",
+   "published": "2026-10-13T09:30:50.583Z",
    "round": 5,
    "teams": {
     "ASVEL": {
@@ -835,7 +842,7 @@
   }
  },
  "schedule": {
-  "checked": "2026-10-12T22:56:31+00:00",
+  "checked": "2026-10-13T10:58:07+00:00",
   "rounds": [
    5,
    6

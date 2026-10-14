@@ -159,7 +159,12 @@
    "8c10ae91eb",
    "bf7fbeca3a",
    "5862d31ee1",
-   "66b6cccc98"
+   "66b6cccc98",
+   "f605a96c1d",
+   "0eeb8cf72d",
+   "1f86518978",
+   "943037ea7b",
+   "dcacdaf083"
   ],
   "started": [
    "Sportando",
@@ -404,7 +409,7 @@
    }
   },
   "injury-report-round-5-el2627": {
-   "done": false,
+   "done": true,
    "published": "2026-10-14T09:01:12.246Z",
    "round": 5,
    "teams": {
@@ -905,7 +910,7 @@
   }
  },
  "schedule": {
-  "checked": "2026-10-14T12:22:31+00:00",
+  "checked": "2026-10-14T20:51:05+00:00",
   "rounds": [
    5,
    6

@@ -143,7 +143,10 @@
    "7eb245a9f8",
    "78b01b22d7",
    "560e9d9651",
-   "345f87386f"
+   "345f87386f",
+   "3d86349ff7",
+   "5dd39c2783",
+   "aab80fa8a2"
   ],
   "started": [
    "Sportando",
@@ -388,7 +391,7 @@
   },
   "injury-report-round-5-el2627": {
    "done": false,
-   "published": "2026-10-13T13:47:01.089Z",
+   "published": "2026-10-14T09:01:12.246Z",
    "round": 5,
    "teams": {
     "ASVEL": {
@@ -452,7 +455,7 @@
       "dad5b88c9e",
       "d57f251371"
      ],
-     "s": "92806afc6f"
+     "s": "56977df756"
     },
     "Fenerbahce": {
      "n": [
@@ -464,9 +467,9 @@
     "Hapoel": {
      "n": [
       "52de3be59b",
-      "c4f57d3a91"
+      "5948d1e6ae"
      ],
-     "s": "14a510b4da"
+     "s": "aca245ef3c"
     },
     "Maccabi": {
      "n": [
@@ -498,7 +501,7 @@
     },
     "Paris": {
      "n": [
-      "ce06c068bd",
+      "1fed0d6339",
       "ed7bd441ac",
       "258fea0c22"
      ],
@@ -888,7 +891,7 @@
   }
  },
  "schedule": {
-  "checked": "2026-10-14T01:24:51+00:00",
+  "checked": "2026-10-14T12:22:31+00:00",
   "rounds": [
    5,
    6

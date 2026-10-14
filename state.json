@@ -30,6 +30,10 @@
   "E2026_47": {
    "squad": 1,
    "t": "2026-10-13T18:30+00:00"
+  },
+  "E2026_49": {
+   "squad": 1,
+   "t": "2026-10-14T17:30+00:00"
   }
  },
  "news": {
@@ -146,7 +150,16 @@
    "345f87386f",
    "3d86349ff7",
    "5dd39c2783",
-   "aab80fa8a2"
+   "aab80fa8a2",
+   "f75acd9a28",
+   "8ed66620e9",
+   "d4a3c20db1",
+   "9058490609",
+   "e041fc71ae",
+   "8c10ae91eb",
+   "bf7fbeca3a",
+   "5862d31ee1",
+   "66b6cccc98"
   ],
   "started": [
    "Sportando",
@@ -159,7 +172,8 @@
    "Izundu injury leaves Crvena Zvezda with depleted frontcourt: “The club is looking for a player”",
    "Gabriel Deck to undergo shoulder surgery",
    "Lonnie Walker IV considering EuroLeague return, Besiktas leads race",
-   "Payton Pritchard agrees to $44.2 million Celtics extension"
+   "Payton Pritchard agrees to $44.2 million Celtics extension",
+   "Markus Howard leaves Baskonia and joins Zenit"
   ]
  },
  "reports": {

@@ -164,11 +164,27 @@
    "0eeb8cf72d",
    "1f86518978",
    "943037ea7b",
-   "dcacdaf083"
+   "dcacdaf083",
+   "72b93e423f",
+   "ab9c72b391",
+   "f68f1e3224",
+   "d17d32754b",
+   "68fe6f389e",
+   "60f3b9557f",
+   "00e95e3857",
+   "5803c169cb",
+   "2d234f1c51",
+   "bd370ae1d6",
+   "6b4aeca2ee",
+   "f2752387ed",
+   "0862f7e84e",
+   "51801c5901",
+   "b4aef44407"
   ],
   "started": [
    "Sportando",
-   "Eurohoops"
+   "Eurohoops",
+   "EuroLeague"
   ],
   "titles": [
    "Markus Howard set to leave Baskonia, Zenit move on the horizon",
@@ -909,6 +925,7 @@
    "teams": {}
   }
  },
+ "roundups": [],
  "schedule": {
   "checked": "2026-10-14T20:51:05+00:00",
   "rounds": [

@@ -32,22 +32,49 @@ from zoneinfo import ZoneInfo
 # ---------------------------------------------------------------------------
 # Einstellungen (diese Werte darfst du aendern)
 # ---------------------------------------------------------------------------
-KADER_MINUTEN_VORHER = 65         # Kader-Post so viele Minuten vor Spielbeginn
+VORLAUF_MINUTEN = 60              # So viele Minuten vor dem ersten Spiel eines
+                                  # Tages kommen alle Kader dieses Tages, und vor
+                                  # dem ersten Spiel einer Runde der komplette
+                                  # Injury Report der Runde
 ZEITZONE = "Europe/Berlin"        # Uhrzeiten in den Posts
-NEWS_AN = True                    # False = keine News von Sportando/Eurohoops
+NEWS_AN = True                    # False = keine News
 NEWS_QUELLEN = [
     # (Name im Post, Adresse des Feeds, Pflicht-Kategorie oder None)
     ("Sportando", "https://sportando.basketball/en/feed/", "euroleague"),
     ("Eurohoops", "https://www.eurohoops.net/en/euroleague/feed/", None),
 ]
-# Nur News, deren Ueberschrift eines dieser Muster enthaelt, werden gepostet
+NEWS_LIGA = True                  # auch Meldungen von der offiziellen EuroLeague-Seite
+NEWS_MAX_STUNDEN = 12             # aeltere Meldungen werden nicht mehr gepostet
+# Gepostet wird nur, wenn die Ueberschrift eines dieser Muster enthaelt:
 NEWS_MUSTER = (
+    # Verletzungen und Ausfaelle
     r"injur|ruled out|sidelined|surgery|\bto miss\b|\bwill miss\b|\bmiss(es|ed)?\b"
     r"|\bout (for|with|until|indefinitely)\b|doubtful|questionable|game-time"
-    r"|\breturns?\b|\bback in action\b|suspend|\bsign(s|ed|ing)?\b|\bjoins?\b"
-    r"|parts ways|\bleaves?\b|\bloan|buyout|\bwaive|\breleases?\b|extension"
-    r"|\bextends?\b|\bagree|\btransfer|\breplac|fracture|sprain|\btear\b|\btorn\b"
-    r"|strain|\bacl\b|achilles|hamstring"
+    r"|fracture|sprain|\btear\b|\btorn\b|strain|\bacl\b|achilles|hamstring|\bknee\b"
+    r"|\bankle\b|\bfoot\b|\bshoulder\b|\bconcussion|\bill(ness)?\b|\bmri\b|recover"
+    r"|\breturns?\b|\bback in action\b|\bcomeback\b"
+    # Transfers und Vertraege
+    r"|\bsign(s|ed|ing)?\b|\bjoins?\b|parts ways|\bleaves?\b|\bleaving\b|\bloan"
+    r"|buyout|\bwaive|\breleases?\b|\bcut(s)?\b|extension|\bextends?\b|\bagree"
+    r"|\btransfer|\breplac|\bregister|\boffer\b|\bsuitor|\btarget|\binterest"
+    r"|\btalks\b|negotiat|\bdeal\b|contract|close to|set to|on the verge|reportedly"
+    r"|\blinked\b|\bmove\b|\bdeparture|\brumou?r"
+    # Trainer, Strafen, Liga
+    r"|\bfired\b|\bsacked\b|dismiss|appoint|\bhired?\b|new (head )?coach|steps? down"
+    r"|resign|suspend|suspension|\bbann?ed\b|\bfine[sd]?\b|postpon|disciplin"
+)
+# Ueberschriften mit diesen Mustern sind Berichte, Interviews oder Fantasy: weg damit
+NEWS_NICHT = (
+    r"injury report|fantasy|roundup|recap|breakdown|power rankings|preview|quotes"
+    r"|highlights|\bvideo\b|\bwatch\b|podcast|column|game center|winners and losers"
+    r"|\bmvp\b|player of the|top \d+|\branking|takeaways|stories you can|backdoor"
+    r"|by the numbers|stat of the|\bq&a\b|interview"
+)
+NBA_TEAMS = (
+    r"\bnba\b|celtics|\bnets\b|knicks|76ers|sixers|raptors|\bbulls\b|cavaliers|\bcavs\b"
+    r"|pistons|pacers|\bbucks\b|\bhawks\b|hornets|\bheat\b|\bmagic\b|wizards|nuggets"
+    r"|timberwolves|thunder|blazers|\bjazz\b|warriors|clippers|lakers|\bsuns\b|\bkings\b"
+    r"|mavericks|\bmavs\b|rockets|grizzlies|pelicans|\bspurs\b"
 )
 # ---------------------------------------------------------------------------
 
@@ -64,6 +91,7 @@ WEEKDAYS = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
           "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 PENDING_TEXT = "has not yet sent an injury report"
+SPIELBOGEN_AB_MINUTEN = 65        # ab dann wird nach den Final 12 geschaut
 
 TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 CHANNEL_RAW = os.environ.get("TELEGRAM_CHANNEL", "").strip()
@@ -431,12 +459,17 @@ def article_round(article):
     return int(match.group(1)) if match else None
 
 
+_latest_articles = []
+
+
 def scan_articles(pages):
     """Sucht in den neuesten News der Liga nach Injury Reports."""
     found = {}
     for page in range(pages):
         data = get_json(f"{CMS}/articles?clientId=EUROLEAGUE&page={page}&size=30")
         articles = ((data or {}).get("data") or {}).get("articles") or []
+        if page == 0:
+            _latest_articles[:] = articles
         if not articles:
             break
         for article in articles:
@@ -701,13 +734,22 @@ def game_tags(game, report_teams=None):
     return f"{club_tag(game, 'local', report_teams)} vs {club_tag(game, 'road', report_teams)}"
 
 
-def build_overview(round_number, slug, teams, names):
+def build_overview(round_number, slug, teams, names, extra_title=""):
     label = f" · Round {round_number}" if round_number else ""
-    blocks = [f"\U0001f4cb <b>Injury Report{label}</b>"]
+    blocks = [f"\U0001f4cb <b>Injury Report{label}</b>{extra_title}"]
     headings = []
     for name in names:
         if teams[name]["game"] not in headings:
             headings.append(teams[name]["game"])
+
+    def heading_time(heading):
+        for name in names:
+            game = teams[name].get("match")
+            if teams[name]["game"] == heading and game and game_time(game):
+                return game_time(game)
+        return datetime.max.replace(tzinfo=timezone.utc)
+
+    headings.sort(key=heading_time)
     for heading in headings:
         members = [n for n in names if teams[n]["game"] == heading]
         game = teams[members[0]].get("match")
@@ -842,7 +884,32 @@ def run_injuries(state, season, now, rounds):
         reports[slug] = record
         save_state(state)
         for name in open_names:
+            teams[name]["slug"] = slug
             by_round.setdefault(teams[name]["match"].get("round"), {})[name] = teams[name]
+
+    # Kompletter Report einmal kurz vor dem ersten Spiel der Runde
+    roundups = state.setdefault("roundups", [])
+    for round_number, round_teams in sorted(by_round.items(), key=lambda i: str(i[0])):
+        key = f"{season}_{round_number}"
+        games = [g for g in round_games(season, round_number) if game_time(g)]
+        if key in roundups or not games or not round_teams:
+            continue
+        first = min(game_time(g) for g in games)
+        if now < first - timedelta(minutes=VORLAUF_MINUTEN):
+            continue
+        if now < first:
+            slug = next(iter(round_teams.values()))["slug"]
+            send(
+                build_overview(
+                    round_number, slug, round_teams, list(round_teams),
+                    extra_title=" · before tip-off",
+                )
+            )
+            log(f"Kompletter Injury Report gepostet: Runde {round_number}")
+        roundups.append(key)
+        state["roundups"] = roundups[-20:]
+        roundups = state["roundups"]
+        save_state(state)
 
     # Nur die neuesten Reports im Gedaechtnis behalten
     if len(reports) > 12:
@@ -962,47 +1029,60 @@ def build_final_post(game, box, report_teams, starters_only=False):
     return "\n\n".join(blocks)
 
 
+def local_day(moment):
+    return moment.astimezone(ZoneInfo(ZEITZONE)).date().isoformat()
+
+
+def is_off(game):
+    status = str(game.get("gameStatus") or "").lower()
+    return any(word in status for word in ("postpon", "cancel", "suspend"))
+
+
 def run_games(state, season, now, rounds, by_round):
     memory = state.setdefault("games", {})
-    for round_number in rounds:
-        games = [g for g in round_games(season, round_number) if game_time(g)]
-        report_teams = by_round.get(round_number)
-        for game in sorted(games, key=game_time):
-            identifier = game_id(game, season)
-            flags = memory.get(identifier) or {}
-            flags["t"] = game_time(game).isoformat(timespec="minutes")
-            minutes = (game_time(game) - now).total_seconds() / 60
-            if not -30 <= minutes <= KADER_MINUTEN_VORHER:
-                continue
-            status = str(game.get("gameStatus") or "").lower()
-            if any(word in status for word in ("postpon", "cancel", "suspend")):
-                continue
+    all_games = [
+        g for r in rounds for g in round_games(season, r) if game_time(g) and not is_off(g)
+    ]
+    first_of_day = {}
+    for game in all_games:
+        day = local_day(game_time(game))
+        first_of_day[day] = min(first_of_day.get(day, game_time(game)), game_time(game))
+    for game in sorted(all_games, key=game_time):
+        report_teams = by_round.get(game.get("round"))
+        identifier = game_id(game, season)
+        flags = memory.get(identifier) or {}
+        flags["t"] = game_time(game).isoformat(timespec="minutes")
+        minutes = (game_time(game) - now).total_seconds() / 60
+        day_start = first_of_day[local_day(game_time(game))]
+        squad_due = minutes > 0 and now >= day_start - timedelta(minutes=VORLAUF_MINUTEN)
 
-            if not flags.get("squad") and minutes > 0:
-                text, complete = build_squad_post(game, season, report_teams)
-                if complete or minutes <= 30:
-                    send(text)
-                    log(f"Kader gepostet: {identifier}")
-                    flags["squad"] = 1
-                    memory[identifier] = flags
-                    save_state(state)
+        if not flags.get("squad") and squad_due:
+            text, complete = build_squad_post(game, season, report_teams)
+            if complete or minutes <= 30:
+                send(text)
+                log(f"Kader gepostet: {identifier}")
+                flags["squad"] = 1
+                memory[identifier] = flags
+                save_state(state)
 
-            if not (flags.get("final") and flags.get("start")):
-                box = read_boxscore(game, season)
-                if box:
-                    starters = has_starters(box)
-                    if not flags.get("final"):
-                        send(build_final_post(game, box, report_teams))
-                        log(f"Final 12 gepostet: {identifier}")
-                        flags["final"] = 1
-                        if starters:
-                            flags["start"] = 1
-                    elif starters:
-                        send(build_final_post(game, box, report_teams, starters_only=True))
-                        log(f"Starting 5 gepostet: {identifier}")
+        if -30 <= minutes <= SPIELBOGEN_AB_MINUTEN and not (
+            flags.get("final") and flags.get("start")
+        ):
+            box = read_boxscore(game, season)
+            if box:
+                starters = has_starters(box)
+                if not flags.get("final"):
+                    send(build_final_post(game, box, report_teams))
+                    log(f"Final 12 gepostet: {identifier}")
+                    flags["final"] = 1
+                    if starters:
                         flags["start"] = 1
-                    memory[identifier] = flags
-                    save_state(state)
+                elif starters:
+                    send(build_final_post(game, box, report_teams, starters_only=True))
+                    log(f"Starting 5 gepostet: {identifier}")
+                    flags["start"] = 1
+                memory[identifier] = flags
+                save_state(state)
     if len(memory) > 80:
         oldest = sorted(memory, key=lambda k: str(memory[k].get("t")))
         for key in oldest[: len(memory) - 80]:
@@ -1049,25 +1129,95 @@ def title_words(title):
     return {word for word in norm(title).split() if len(word) > 3}
 
 
-def is_duplicate(title, recent):
+PAIR_STOP = {
+    "the", "and", "for", "with", "after", "from", "over", "into", "will", "has", "have",
+    "set", "his", "her", "its", "new", "out", "off", "back", "head", "coach", "says",
+    "euroleague", "eurocup", "nba", "round", "game", "season", "club", "team",
+}
+
+
+def name_pairs(title, clubs=()):
+    """Zwei grossgeschriebene Woerter direkt hintereinander, meist ein Spielername."""
+    words = re.findall(r"[\w'’\-]+", strip_accents(title))
+    pairs = set()
+    for first, second in zip(words, words[1:]):
+        if not (first[:1].isupper() and second[:1].isupper()):
+            continue
+        low = (first.lower(), second.lower())
+        if any(len(w) < 3 or w in PAIR_STOP or w in clubs for w in low):
+            continue
+        pairs.add(" ".join(low))
+    return pairs
+
+
+def is_duplicate(title, recent, now, clubs=()):
     words = title_words(title)
-    if not words:
-        return False
-    for other in recent:
+    pairs = name_pairs(title, clubs)
+    for entry in recent:
+        other, when = (entry, None) if isinstance(entry, str) else (entry[0], entry[1])
         other_words = title_words(other)
-        if other_words and len(words & other_words) / len(words | other_words) >= 0.6:
+        if words and other_words and len(words & other_words) / len(words | other_words) >= 0.5:
+            return True
+        moment = parse_time(when)
+        if moment and now - moment < timedelta(hours=12) and pairs & name_pairs(other, clubs):
             return True
     return False
 
 
-def run_news(state, now):
+def league_items():
+    """Die neuesten Meldungen von der offiziellen EuroLeague-Seite."""
+    items = []
+    for article in _latest_articles:
+        slug = article.get("slug")
+        title = squash((article.get("heroMedia") or {}).get("title"))
+        if not slug or not title or not is_league_article(article):
+            continue
+        items.append(
+            {
+                "title": title,
+                "link": NEWS_URL.format(slug=urllib.parse.quote(slug)),
+                "published": parse_time(article.get("publishDate")),
+                "categories": ["euroleague"],
+            }
+        )
+    return items
+
+
+def is_league_article(article):
+    slug = str(article.get("slug") or "").lower()
+    meta = json.dumps(
+        [article.get(key) for key in ("categories", "displayCategory", "linkedIds", "tags")]
+    ).lower()
+    return "eurocup" not in slug and "eurocup" not in meta and not re.search(r'"u20\d\d', meta)
+
+
+def club_words(games):
+    words = set()
+    for game in games:
+        for side in ("local", "road"):
+            club = club_of(game, side)
+            for field in ("name", "abbreviatedName", "editorialName"):
+                for word in norm(club.get(field)).split():
+                    if len(word) >= 5 and word not in ("basket", "basketball", "istanbul",
+                                                       "belgrade", "athens", "piraeus"):
+                        words.add(word)
+    return words
+
+
+def run_news(state, now, clubs):
     memory = state.setdefault("news", {})
     started = memory.setdefault("started", [])
     seen = memory.setdefault("seen", [])
     titles = memory.setdefault("titles", [])
-    pattern = re.compile(NEWS_MUSTER, flags=re.I)
-    for source, url, category in NEWS_QUELLEN:
-        items = feed_items(fetch(url, soft=True))
+    wanted = re.compile(NEWS_MUSTER, flags=re.I)
+    unwanted = re.compile(NEWS_NICHT, flags=re.I)
+    nba = re.compile(NBA_TEAMS, flags=re.I)
+    sources = [(name, lambda url=url: feed_items(fetch(url, soft=True)), category)
+               for name, url, category in NEWS_QUELLEN]
+    if NEWS_LIGA:
+        sources.append(("EuroLeague", league_items, None))
+    for source, load, category in sources:
+        items = load()
         if not items:
             log(f"News: {source} liefert gerade nichts.")
             continue
@@ -1079,27 +1229,30 @@ def run_news(state, now):
             seen.append(key)
             if fresh:
                 continue  # beim ersten Mal nur merken, nichts Altes posten
+            title = item["title"]
             if category and not any(category in c for c in item["categories"]):
                 continue
-            if item["published"] and now - item["published"] > timedelta(hours=6):
+            if item["published"] and now - item["published"] > timedelta(hours=NEWS_MAX_STUNDEN):
                 continue
-            if "injury report" in item["title"].lower():
-                continue  # den Report posten wir schon selbst
-            if not pattern.search(item["title"]):
+            if unwanted.search(title) or not wanted.search(title):
                 continue
-            if is_duplicate(item["title"], titles):
+            # NBA-Meldungen nur, wenn ein EuroLeague-Klub drinsteckt
+            text = norm(title + " " + " ".join(item["categories"]))
+            if nba.search(text) and not any(f" {w} " in f" {text} " for w in clubs):
+                continue
+            if is_duplicate(title, titles, now, clubs | {"real", "madrid"}):
                 continue
             send(
-                f"\U0001f6a8 <b>{esc(source)}:</b> {esc(item['title'])}\n"
+                f"\U0001f6a8 <b>{esc(source)}:</b> {esc(title)}\n"
                 f'<a href="{html.escape(item["link"], quote=True)}">Read more</a>'
             )
-            log(f"News gepostet: {source}: {item['title']}")
-            titles.append(item["title"])
+            log(f"News gepostet: {source}: {title}")
+            titles.append([title, now.isoformat(timespec="minutes")])
             save_state(state)
         if fresh:
             started.append(source)
-    memory["seen"] = seen[-400:]
-    memory["titles"] = titles[-40:]
+    memory["seen"] = seen[-600:]
+    memory["titles"] = titles[-60:]
 
 
 # ---------------------------------------------------------------------------
@@ -1133,7 +1286,8 @@ def main():
         problems.append(f"Spiele: {error}")
     if NEWS_AN:
         try:
-            run_news(state, now)
+            clubs = club_words([g for r in rounds for g in round_games(season, r)])
+            run_news(state, now, clubs)
         except RuntimeError as error:
             problems.append(f"News: {error}")
 

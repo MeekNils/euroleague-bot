@@ -629,7 +629,7 @@
   },
   "injury-report-round-6-el2627": {
    "done": false,
-   "published": "2026-10-15T13:18:58.502Z",
+   "published": "2026-10-15T14:56:17.573Z",
    "round": 6,
    "teams": {
     "ASVEL": {
@@ -664,7 +664,7 @@
      "n": [
       "60806e049a"
      ],
-     "s": "b67f47bd62"
+     "s": "7a0bdbad21"
     },
     "Crvena Zvezda": {
      "n": [
@@ -672,7 +672,7 @@
       "77894d99f7",
       "1984972777"
      ],
-     "s": "b59005da62"
+     "s": "1af40d118c"
     },
     "Dubai": {
      "n": [
@@ -723,10 +723,11 @@
     },
     "Panathinaikos": {
      "n": [
-      "71d1c607e0",
+      "fb5e94e623",
+      "cc878709d7",
       "c13b9db2f3"
      ],
-     "s": "8e124261fa"
+     "s": "ae3362b5b3"
     },
     "Paris": {
      "n": [

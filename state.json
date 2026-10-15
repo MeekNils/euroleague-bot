@@ -621,7 +621,7 @@
   },
   "injury-report-round-6-el2627": {
    "done": false,
-   "published": "2026-10-15T12:00:59.904Z",
+   "published": "2026-10-15T13:18:58.502Z",
    "round": 6,
    "teams": {
     "ASVEL": {
@@ -751,9 +751,9 @@
     },
     "Virtus": {
      "n": [
-      "f8526ce186"
+      "250ff154d0"
      ],
-     "s": "797c740252"
+     "s": "2a7b25fea0"
     },
     "Zalgiris": {
      "n": [

@@ -593,7 +593,7 @@
   },
   "injury-report-round-6-el2627": {
    "done": false,
-   "published": "2026-10-15T07:37:37.066Z",
+   "published": "2026-10-15T09:15:56.574Z",
    "round": 6,
    "teams": {
     "ASVEL": {
@@ -620,9 +620,7 @@
     },
     "Bayern": {
      "n": [
-      "377a9e53bb",
-      "d72074e38b",
-      "8a28248124"
+      "9801d3f788"
      ],
      "s": "750930806b"
     },

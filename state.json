@@ -607,7 +607,7 @@
   },
   "injury-report-round-6-el2627": {
    "done": false,
-   "published": "2026-10-15T09:15:56.574Z",
+   "published": "2026-10-15T12:00:59.904Z",
    "round": 6,
    "teams": {
     "ASVEL": {
@@ -621,10 +621,10 @@
     },
     "Barcelona": {
      "n": [
-      "9fea88eb8a",
-      "ac8efeff99"
+      "95518d4d82",
+      "8f0d6c5017"
      ],
-     "s": "96742ee3c5"
+     "s": "c85e6acf73"
     },
     "Baskonia": {
      "n": [
@@ -665,7 +665,7 @@
       "dad5b88c9e",
       "d57f251371"
      ],
-     "s": "76caf17a2c"
+     "s": "af5bc011c5"
     },
     "Fenerbahce": {
      "n": [

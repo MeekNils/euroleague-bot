@@ -1263,7 +1263,7 @@
   },
   "injury-report-round-7-fantasy": {
    "done": false,
-   "published": "2026-10-20T15:30:03.448Z",
+   "published": "2026-10-21T14:37:45.513Z",
    "round": 7,
    "teams": {
     "ASVEL": {
@@ -1282,7 +1282,7 @@
       "56c5b581df",
       "21a131ff03"
      ],
-     "s": "abd74020c1"
+     "s": "4d122b281c"
     },
     "Baskonia": {
      "n": [
@@ -1301,7 +1301,7 @@
       "912f2a5de3",
       "60806e049a"
      ],
-     "s": "bd65fbac8f"
+     "s": "3a4e4a0fe9"
     },
     "Crvena Zvezda": {
      "n": [
@@ -1326,7 +1326,7 @@
       "dad5b88c9e",
       "d57f251371"
      ],
-     "s": "9badf297d1"
+     "s": "cd7186859f"
     },
     "Fenerbahce": {
      "n": [
@@ -1349,9 +1349,9 @@
     },
     "Milan": {
      "n": [
-      "ac3567a3fe"
+      "c292a58f0e"
      ],
-     "s": "2b9ec6a4cf"
+     "s": "84c81f4fd3"
     },
     "Olympiacos": {
      "n": [
@@ -1377,12 +1377,12 @@
     },
     "Partizan": {
      "n": [
+      "0cbaf23af1",
       "ca468407e0",
-      "8673291e0c",
-      "91a9d65feb",
+      "0d865f2153",
       "a7a0668519"
      ],
-     "s": "75928275f3"
+     "s": "c09e38afdc"
     },
     "Real Madrid": {
      "n": [

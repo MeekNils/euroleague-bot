@@ -1368,7 +1368,7 @@
   },
   "injury-report-round-7-fantasy": {
    "done": false,
-   "published": "2026-10-22T11:20:00.000Z",
+   "published": "2026-10-22T21:47:14.353Z",
    "round": 7,
    "teams": {
     "ASVEL": {
@@ -1435,9 +1435,9 @@
     },
     "Fenerbahce": {
      "n": [
-      "4a48b86ef1"
+      "b0d9133241"
      ],
-     "s": "a9abd119e1"
+     "s": "e84cfe984e"
     },
     "Hapoel": {
      "n": [
@@ -1514,7 +1514,7 @@
       "073a478b52",
       "a0a679a7e7"
      ],
-     "s": "2f8a001794"
+     "s": "a1517ab420"
     }
    }
   },

@@ -1438,7 +1438,7 @@
    }
   },
   "injury-report-round-7-fantasy": {
-   "done": false,
+   "done": true,
    "published": "2026-10-22T21:47:14.353Z",
    "round": 7,
    "teams": {

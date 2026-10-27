@@ -1754,7 +1754,7 @@
   },
   "injury-report-round-8-fantasy": {
    "done": false,
-   "published": "2026-10-27T09:05:26.389Z",
+   "published": "2026-10-27T09:17:34.825Z",
    "round": 8,
    "teams": {
     "ASVEL": {
@@ -1860,12 +1860,12 @@
     "Panathinaikos": {
      "n": [
       "f7def18d93",
-      "c32d697f9a",
+      "ef206c8edd",
       "a25c5a7ab0",
       "89547abf56",
-      "188dee64b8"
+      "501c856601"
      ],
-     "s": "1f3157e080"
+     "s": "64fc0fd3e6"
     },
     "Paris": {
      "n": [

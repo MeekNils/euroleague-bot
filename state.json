@@ -1754,7 +1754,7 @@
   },
   "injury-report-round-8-fantasy": {
    "done": false,
-   "published": "2026-10-26T19:52:03.873Z",
+   "published": "2026-10-27T09:05:11.752Z",
    "round": 8,
    "teams": {
     "ASVEL": {
@@ -1842,10 +1842,11 @@
     },
     "Milan": {
      "n": [
+      "b11960d426",
       "2b65ee561b",
       "6dcca236df"
      ],
-     "s": "cbc3aefe0e"
+     "s": "e26ca7be4e"
     },
     "Olympiacos": {
      "n": [

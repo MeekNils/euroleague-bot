@@ -194,7 +194,6 @@
  },
  "news": {
   "seen": [
-   "858e45cfa1",
    "7f7c32c77d",
    "8eb04205f0",
    "dc83f3ac08",
@@ -793,7 +792,8 @@
    "b8bbf9fdfe",
    "39c6fa3185",
    "b9c83910f0",
-   "97f99573db"
+   "97f99573db",
+   "b90a28007e"
   ],
   "started": [
    "Sportando",
@@ -980,6 +980,10 @@
    [
     "Nadir Hifi’s return sparks Paris in Dubai",
     "2026-10-27T18:45+00:00"
+   ],
+   [
+    "EuroLeague official injury updates, key returns and absences in Round 8",
+    "2026-10-28T10:15+00:00"
    ]
   ]
  },

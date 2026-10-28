@@ -210,13 +210,14 @@
    "t": "2026-10-28T17:30+00:00"
   },
   "E2026_80": {
+   "final": 1,
    "squad": 1,
+   "start": 1,
    "t": "2026-10-28T19:30+00:00"
   }
  },
  "news": {
   "seen": [
-   "7baac49bf6",
    "f012a7ea1b",
    "76b91fac14",
    "bdac90ff84",
@@ -815,7 +816,8 @@
    "d0dd2135c2",
    "e274341973",
    "f7451ab427",
-   "c05ffb415f"
+   "c05ffb415f",
+   "1461687f2c"
   ],
   "started": [
    "Sportando",
@@ -1845,7 +1847,7 @@
    }
   },
   "injury-report-round-8-fantasy": {
-   "done": false,
+   "done": true,
    "published": "2026-10-28T09:55:56.566Z",
    "round": 8,
    "teams": {

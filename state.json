@@ -218,7 +218,6 @@
  },
  "news": {
   "seen": [
-   "95dad262bc",
    "4987297a9f",
    "23203c5b61",
    "dd9de359e4",
@@ -817,7 +816,8 @@
    "933cb4b0bb",
    "fdb8cc2cb3",
    "cb90e71a8d",
-   "b8c8b15d8e"
+   "b8c8b15d8e",
+   "f897fd776f"
   ],
   "started": [
    "Sportando",
@@ -1016,6 +1016,10 @@
    [
     "Nikola Mirotic sidelined with adductor injury",
     "2026-10-29T12:10+00:00"
+   ],
+   [
+    "Barcelona: Juan Núñez suffers right ankle sprain, expected to miss around 10 days",
+    "2026-10-29T14:25+00:00"
    ]
   ]
  },

@@ -218,8 +218,6 @@
  },
  "news": {
   "seen": [
-   "bf7fbeca3a",
-   "5862d31ee1",
    "66b6cccc98",
    "f605a96c1d",
    "0eeb8cf72d",
@@ -817,7 +815,9 @@
    "80d43d3167",
    "f09fdd05f5",
    "b6a21258ab",
-   "62a6e71bcc"
+   "62a6e71bcc",
+   "c3f1e22b46",
+   "6ce96124d0"
   ],
   "started": [
    "Sportando",

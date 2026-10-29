@@ -218,8 +218,6 @@
  },
  "news": {
   "seen": [
-   "8ed66620e9",
-   "d4a3c20db1",
    "9058490609",
    "e041fc71ae",
    "8c10ae91eb",
@@ -817,7 +815,9 @@
    "595390b7a0",
    "77d6709366",
    "6353650323",
-   "df9131da12"
+   "df9131da12",
+   "4c26dc94a5",
+   "80d43d3167"
   ],
   "started": [
    "Sportando",
@@ -1020,6 +1020,10 @@
    [
     "Barcelona: Juan Núñez suffers right ankle sprain, expected to miss around 10 days",
     "2026-10-29T14:25+00:00"
+   ],
+   [
+    "Sloukas and Rogkavopoulos will miss the game against Anadolu Efes",
+    "2026-10-29T16:30+00:00"
    ]
   ]
  },

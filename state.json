@@ -218,7 +218,6 @@
  },
  "news": {
   "seen": [
-   "485df7fae1",
    "4bf8b874e4",
    "e945e395d6",
    "bcb305b906",
@@ -817,7 +816,8 @@
    "710068f188",
    "0e8a308e25",
    "16bb1a055f",
-   "b7ad61f555"
+   "b7ad61f555",
+   "71e6ec9db1"
   ],
   "started": [
    "Sportando",
@@ -1012,6 +1012,10 @@
    [
     "Olimpia Milano reportedly targets Nico Laprovittola",
     "2026-10-29T07:10+00:00"
+   ],
+   [
+    "Nikola Mirotic sidelined with adductor injury",
+    "2026-10-29T12:10+00:00"
    ]
   ]
  },

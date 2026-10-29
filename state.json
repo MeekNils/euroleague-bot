@@ -236,8 +236,6 @@
  },
  "news": {
   "seen": [
-   "ab9c72b391",
-   "f68f1e3224",
    "d17d32754b",
    "68fe6f389e",
    "60f3b9557f",
@@ -835,7 +833,9 @@
    "131525693d",
    "5e231d6ccd",
    "1ec367f3bf",
-   "7739ed2c57"
+   "7739ed2c57",
+   "ba7b9a6510",
+   "ccc81c62ca"
   ],
   "started": [
    "Sportando",
@@ -1042,6 +1042,10 @@
    [
     "Sloukas and Rogkavopoulos will miss the game against Anadolu Efes",
     "2026-10-29T16:30+00:00"
+   ],
+   [
+    "Olympiacos, Bartzokas provides injury update: Milutinov and Fournier still being evaluated",
+    "2026-10-29T20:50+00:00"
    ]
   ]
  },

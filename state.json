@@ -218,7 +218,6 @@
  },
  "news": {
   "seen": [
-   "9ce7d00ed8",
    "aa1e55ecb5",
    "8d40dbb625",
    "9b3cee074a",
@@ -817,7 +816,8 @@
    "42204c85b8",
    "10fccc2eef",
    "bfae872fc5",
-   "0ddef33da8"
+   "0ddef33da8",
+   "4914831b64"
   ],
   "started": [
    "Sportando",
@@ -2531,7 +2531,7 @@
   "E2026_8"
  ],
  "schedule": {
-  "checked": "2026-10-29T05:05:19+00:00",
+  "checked": "2026-10-29T11:05:20+00:00",
   "rounds": [
    9
   ],

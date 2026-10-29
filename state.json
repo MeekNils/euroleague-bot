@@ -218,8 +218,6 @@
  },
  "news": {
   "seen": [
-   "9cf41c369e",
-   "951252ae3a",
    "2cbdd40a11",
    "c0a6d46758",
    "6c12d839dc",
@@ -817,7 +815,9 @@
    "1be2f68504",
    "6f7a77fde5",
    "7f4107ce11",
-   "1e070ba9b2"
+   "1e070ba9b2",
+   "afd295e11e",
+   "5013ce072d"
   ],
   "started": [
    "Sportando",
@@ -2014,6 +2014,169 @@
       "a3d67f7181"
      ],
      "s": "4b1c874cbd"
+    }
+   }
+  },
+  "injury-report-round-9-fantasy": {
+   "done": false,
+   "published": "2026-10-29T09:55:36.690Z",
+   "round": 9,
+   "teams": {
+    "ASVEL": {
+     "n": [
+      "56ee26a5d0",
+      "1f64533a08",
+      "1a04df7c89",
+      "6e720183cd"
+     ],
+     "s": "60fcfbd954"
+    },
+    "Barcelona": {
+     "n": [
+      "12358f1d9e",
+      "21a131ff03"
+     ],
+     "s": "2fecd110c7"
+    },
+    "Baskonia": {
+     "n": [
+      "52b3fda015",
+      "14e23aca26",
+      "7f048d2b1f"
+     ],
+     "s": "55f6ffca2a"
+    },
+    "Bayern": {
+     "n": [
+      "dd38d0c4ae",
+      "6e83d2ccd7",
+      "0eee54830e"
+     ],
+     "s": "109c944f14"
+    },
+    "Besiktas": {
+     "n": [
+      "ac856804c7",
+      "7c961473e3",
+      "1c88b7fe35"
+     ],
+     "s": "316f200a9b"
+    },
+    "Crvena Zvezda": {
+     "n": [
+      "8a83121519",
+      "5496a2b6e3"
+     ],
+     "s": "1d3180f1c8"
+    },
+    "Dubai": {
+     "n": [
+      "dfebe1c132",
+      "6e4119488f",
+      "05addfbd06"
+     ],
+     "s": "ed1592a169"
+    },
+    "Efes": {
+     "n": [
+      "20a9db6730",
+      "bacbfb28e8",
+      "4492faa90b",
+      "dad5b88c9e"
+     ],
+     "s": "2065f65117"
+    },
+    "Fenerbahce": {
+     "n": [
+      "01fb563062",
+      "73222af2a0"
+     ],
+     "s": "c69a2ee16c"
+    },
+    "Hapoel": {
+     "n": [
+      "e3966146e7"
+     ],
+     "s": "a809d51cdc"
+    },
+    "Maccabi": {
+     "n": [
+      "513a649213",
+      "0d17f7a331"
+     ],
+     "s": "69e8f872bc"
+    },
+    "Milan": {
+     "n": [
+      "aecb56a1cc"
+     ],
+     "s": "8e8deddf30"
+    },
+    "Olympiacos": {
+     "n": [
+      "146dae5b0b",
+      "4d1a0ee6de",
+      "5f889ac785",
+      "9e190b6e45"
+     ],
+     "s": "c391671eae"
+    },
+    "Panathinaikos": {
+     "n": [
+      "2946aa7907",
+      "27841f60d1",
+      "486fec9daf"
+     ],
+     "s": "5e8ae55adb"
+    },
+    "Paris": {
+     "n": [
+      "a2aacbf197",
+      "2a90572a1b",
+      "acd2f237b3",
+      "bfb2c8f604"
+     ],
+     "s": "2e76f964f4"
+    },
+    "Partizan": {
+     "n": [
+      "b2d8ce848b",
+      "ee69796a9e",
+      "602b28c5f9",
+      "0d865f2153",
+      "a7a0668519"
+     ],
+     "s": "81c5957411"
+    },
+    "Real Madrid": {
+     "n": [
+      "d2995163d6",
+      "67a2f118b7",
+      "7035268184",
+      "af54b238d8",
+      "2264b6f139"
+     ],
+     "s": "f27056e80e"
+    },
+    "Valencia": {
+     "n": [
+      "cae0bf1e01"
+     ],
+     "s": "2e1881ad24"
+    },
+    "Virtus": {
+     "n": [
+      "f37517acaa"
+     ],
+     "s": "1a66b2efae"
+    },
+    "Zalgiris": {
+     "n": [
+      "6cfaef60d0",
+      "c201b485b3",
+      "6e41473cec"
+     ],
+     "s": "d87f3834e7"
     }
    }
   },

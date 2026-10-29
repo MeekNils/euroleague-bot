@@ -218,7 +218,6 @@
  },
  "news": {
   "seen": [
-   "4b54e7eee7",
    "1822d75ef4",
    "a93c7ec69c",
    "69b5813583",
@@ -817,7 +816,8 @@
    "a5207b1287",
    "b71457573b",
    "f8953e0b7f",
-   "78fc0eeaac"
+   "78fc0eeaac",
+   "7c048b1c21"
   ],
   "started": [
    "Sportando",
@@ -1008,6 +1008,10 @@
    [
     "EuroLeague official injury updates, key returns and absences in Round 8",
     "2026-10-28T10:15+00:00"
+   ],
+   [
+    "Olimpia Milano reportedly targets Nico Laprovittola",
+    "2026-10-29T07:10+00:00"
    ]
   ]
  },

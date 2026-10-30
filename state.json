@@ -278,7 +278,6 @@
  },
  "news": {
   "seen": [
-   "41259735fa",
    "ac2554e909",
    "52400659ab",
    "87f892c9eb",
@@ -877,7 +876,8 @@
    "415b6d5f83",
    "f20d41c3b6",
    "850475706f",
-   "4e260d681d"
+   "4e260d681d",
+   "6e6d507ba7"
   ],
   "started": [
    "Sportando",
@@ -885,7 +885,6 @@
    "EuroLeague"
   ],
   "titles": [
-   "Gabriel Deck to undergo shoulder surgery",
    "Lonnie Walker IV considering EuroLeague return, Besiktas leads race",
    "Payton Pritchard agrees to $44.2 million Celtics extension",
    "Markus Howard leaves Baskonia and joins Zenit",
@@ -1112,6 +1111,10 @@
    [
     "EuroLeague, scary fall for Tomas Satoransky: Czech guard leaves court on stretcher",
     "2026-10-30T18:45+00:00"
+   ],
+   [
+    "Lonnie Walker erupts for a EuroLeague career high in Besiktas’ comeback win",
+    "2026-10-30T22:05+00:00"
    ]
   ]
  },

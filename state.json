@@ -236,7 +236,6 @@
  },
  "news": {
   "seen": [
-   "f2752387ed",
    "0862f7e84e",
    "51801c5901",
    "b4aef44407",
@@ -835,7 +834,8 @@
    "bc1a5ee088",
    "8ca32802c4",
    "4b107c3b42",
-   "01146e3be0"
+   "01146e3be0",
+   "a76c68b335"
   ],
   "started": [
    "Sportando",
@@ -1050,6 +1050,10 @@
    [
     "Mikael Jantunen injury clouds Real Madrid’s winning streak",
     "2026-10-30T05:05+00:00"
+   ],
+   [
+    "Olimpia Milano and Leandro Bolmaro reached an agreement on a contract extension",
+    "2026-10-30T07:20+00:00"
    ]
   ]
  },

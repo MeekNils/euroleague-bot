@@ -236,7 +236,6 @@
  },
  "news": {
   "seen": [
-   "72982092c1",
    "642fe909a9",
    "d18c2adeae",
    "68d84775b1",
@@ -835,7 +834,8 @@
    "bc136fddfd",
    "08dfb848f8",
    "d0e45d8fa1",
-   "5ba212e0b1"
+   "5ba212e0b1",
+   "7c5cc93513"
   ],
   "started": [
    "Sportando",
@@ -2065,14 +2065,13 @@
   },
   "injury-report-round-9-fantasy": {
    "done": false,
-   "published": "2026-10-29T09:55:36.690Z",
+   "published": "2026-10-30T10:49:48.403Z",
    "round": 9,
    "teams": {
     "ASVEL": {
      "n": [
       "56ee26a5d0",
       "1f64533a08",
-      "1a04df7c89",
       "6e720183cd"
      ],
      "s": "60fcfbd954"
@@ -2086,11 +2085,12 @@
     },
     "Baskonia": {
      "n": [
-      "52b3fda015",
-      "14e23aca26",
-      "7f048d2b1f"
+      "20c52b4096",
+      "6c44437762",
+      "dede3a5eeb",
+      "c574c3229a"
      ],
-     "s": "55f6ffca2a"
+     "s": "139caf616f"
     },
     "Bayern": {
      "n": [
@@ -2102,11 +2102,11 @@
     },
     "Besiktas": {
      "n": [
-      "ac856804c7",
+      "04d0b80304",
       "7c961473e3",
       "1c88b7fe35"
      ],
-     "s": "316f200a9b"
+     "s": "d946bd8b71"
     },
     "Crvena Zvezda": {
      "n": [
@@ -2160,12 +2160,12 @@
     },
     "Olympiacos": {
      "n": [
-      "146dae5b0b",
+      "a27032fb7c",
       "4d1a0ee6de",
       "5f889ac785",
-      "9e190b6e45"
+      "faaf809342"
      ],
-     "s": "c391671eae"
+     "s": "91064b313f"
     },
     "Panathinaikos": {
      "n": [

@@ -236,7 +236,6 @@
  },
  "news": {
   "seen": [
-   "c925c0cfb7",
    "27284805cd",
    "fe564da124",
    "9691ad43bd",
@@ -835,7 +834,8 @@
    "669e5ff85f",
    "59aaeaf1fc",
    "f557d4b3fd",
-   "2e4bc9e9ac"
+   "2e4bc9e9ac",
+   "ea95f7377c"
   ],
   "started": [
    "Sportando",
@@ -1054,6 +1054,10 @@
    [
     "Olimpia Milano and Leandro Bolmaro reached an agreement on a contract extension",
     "2026-10-30T07:20+00:00"
+   ],
+   [
+    "Fenerbahce is set to add Dwight Powell to EuroLeague roster",
+    "2026-10-30T09:40+00:00"
    ]
   ]
  },

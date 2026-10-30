@@ -270,7 +270,6 @@
  },
  "news": {
   "seen": [
-   "f0bf7c5075",
    "91aeb06bbb",
    "767e4c0e1e",
    "b9e285deec",
@@ -869,7 +868,8 @@
    "5cf5c3bdb4",
    "0b00944076",
    "c82fd67e5c",
-   "8a24b41251"
+   "8a24b41251",
+   "de15049896"
   ],
   "started": [
    "Sportando",
@@ -877,7 +877,6 @@
    "EuroLeague"
   ],
   "titles": [
-   "Izundu injury leaves Crvena Zvezda with depleted frontcourt: “The club is looking for a player”",
    "Gabriel Deck to undergo shoulder surgery",
    "Lonnie Walker IV considering EuroLeague return, Besiktas leads race",
    "Payton Pritchard agrees to $44.2 million Celtics extension",
@@ -1101,6 +1100,10 @@
    [
     "Real Madrid’s Théo Maledon suffers right knee sprain",
     "2026-10-30T13:35+00:00"
+   ],
+   [
+    "EuroLeague, scary fall for Tomas Satoransky: Czech guard leaves court on stretcher",
+    "2026-10-30T18:45+00:00"
    ]
   ]
  },

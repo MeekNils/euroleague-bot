@@ -236,7 +236,6 @@
  },
  "news": {
   "seen": [
-   "a8b684b10c",
    "fda6c1f338",
    "5b0176c9c4",
    "5a66d84d3e",
@@ -835,7 +834,8 @@
    "7c5cc93513",
    "a760b93098",
    "277ccad398",
-   "c9d425f53b"
+   "c9d425f53b",
+   "4b29ca1d8e"
   ],
   "started": [
    "Sportando",
@@ -843,7 +843,6 @@
    "EuroLeague"
   ],
   "titles": [
-   "Gabriel Deck’s shoulder injury more serious than Real Madrid expected",
    "Real Madrid concerned over Gaby Deck injury: “More serious than we thought”",
    "Izundu injury leaves Crvena Zvezda with depleted frontcourt: “The club is looking for a player”",
    "Gabriel Deck to undergo shoulder surgery",
@@ -1061,6 +1060,10 @@
    [
     "EuroLeague releases official injury updates to close two-game week",
     "2026-10-30T12:10+00:00"
+   ],
+   [
+    "Olympiacos-Olimpia Milan, Jean Montero out: possible meniscus surgery",
+    "2026-10-30T13:25+00:00"
    ]
   ]
  },

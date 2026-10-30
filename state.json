@@ -236,7 +236,6 @@
  },
  "news": {
   "seen": [
-   "642fe909a9",
    "d18c2adeae",
    "68d84775b1",
    "a8b684b10c",
@@ -835,7 +834,8 @@
    "08dfb848f8",
    "d0e45d8fa1",
    "5ba212e0b1",
-   "7c5cc93513"
+   "7c5cc93513",
+   "a760b93098"
   ],
   "started": [
    "Sportando",
@@ -843,7 +843,6 @@
    "EuroLeague"
   ],
   "titles": [
-   "Markus Howard set to leave Baskonia, Zenit move on the horizon",
    "Gabriel Deck’s shoulder injury more serious than Real Madrid expected",
    "Real Madrid concerned over Gaby Deck injury: “More serious than we thought”",
    "Izundu injury leaves Crvena Zvezda with depleted frontcourt: “The club is looking for a player”",
@@ -1058,6 +1057,10 @@
    [
     "Fenerbahce is set to add Dwight Powell to EuroLeague roster",
     "2026-10-30T09:40+00:00"
+   ],
+   [
+    "EuroLeague releases official injury updates to close two-game week",
+    "2026-10-30T12:10+00:00"
    ]
   ]
  },

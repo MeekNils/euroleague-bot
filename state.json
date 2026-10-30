@@ -236,7 +236,6 @@
  },
  "news": {
   "seen": [
-   "6b4aeca2ee",
    "f2752387ed",
    "0862f7e84e",
    "51801c5901",
@@ -835,7 +834,8 @@
    "217a67e887",
    "bc1a5ee088",
    "8ca32802c4",
-   "4b107c3b42"
+   "4b107c3b42",
+   "01146e3be0"
   ],
   "started": [
    "Sportando",
@@ -1046,6 +1046,10 @@
    [
     "Olympiacos, Bartzokas provides injury update: Milutinov and Fournier still being evaluated",
     "2026-10-29T20:50+00:00"
+   ],
+   [
+    "Mikael Jantunen injury clouds Real Madrid’s winning streak",
+    "2026-10-30T05:05+00:00"
    ]
   ]
  },

@@ -278,7 +278,6 @@
  },
  "news": {
   "seen": [
-   "90f424f72f",
    "32cc44f251",
    "8d706579ed",
    "1e8de0ada0",
@@ -877,7 +876,8 @@
    "aa679c36ea",
    "880b426279",
    "e3dff9e8bd",
-   "4a55d834cb"
+   "4a55d834cb",
+   "3d032279c6"
   ],
   "started": [
    "Sportando",
@@ -885,7 +885,6 @@
    "EuroLeague"
   ],
   "titles": [
-   "Markus Howard leaves Baskonia and joins Zenit",
    [
     "Besiktas officially confirms the signing of Lonnie Walker IV",
     "2026-10-15T08:45+00:00"
@@ -1121,6 +1120,10 @@
    [
     "Marinkovic is back for Partizan, Willis and Jekiri eye November returns",
     "2026-10-31T11:30+00:00"
+   ],
+   [
+    "Oded Kattash on Killian Hayes: “We agreed to all his conditions”",
+    "2026-10-31T18:05+00:00"
    ]
   ]
  },

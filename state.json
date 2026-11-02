@@ -278,7 +278,6 @@
  },
  "news": {
   "seen": [
-   "42855bd959",
    "25848f2e5f",
    "7857a44cc1",
    "0e136a1ddc",
@@ -877,7 +876,8 @@
    "75763ab8b5",
    "4311fbd74f",
    "64894a8173",
-   "db32d670a7"
+   "db32d670a7",
+   "6e6c85f1d7"
   ],
   "started": [
    "Sportando",
@@ -885,10 +885,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Yankuba Sima parts ways with Valencia after one-year stint",
-    "2026-10-16T08:30+00:00"
-   ],
    [
     "Anadolu Efes, PJ Dozier Suffers Injury: Coach Laso Comments on His Condition",
     "2026-10-16T19:50+00:00"
@@ -1124,6 +1120,10 @@
    [
     "Chris Duarte expected to return against Fenerbahce",
     "2026-11-02T16:25+00:00"
+   ],
+   [
+    "Baskonia reportedly targeting Zach Perrin and Ignas Brazdeikis",
+    "2026-11-02T17:15+00:00"
    ]
   ]
  },

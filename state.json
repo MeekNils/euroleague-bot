@@ -278,7 +278,6 @@
  },
  "news": {
   "seen": [
-   "3b80ae5ed3",
    "5e28a5577e",
    "51eae1e90a",
    "e6e83f1f9f",
@@ -877,7 +876,8 @@
    "2cbaed8238",
    "d3803ac430",
    "e1e1a12e33",
-   "c4b2b6ff01"
+   "c4b2b6ff01",
+   "0908772532"
   ],
   "started": [
    "Sportando",
@@ -885,10 +885,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Panathinaikos without Nunn, Sloukas and Rogkavopoulos vs Hapoel, Bonga questionable",
-    "2026-10-15T12:50+00:00"
-   ],
    [
     "Besiktas demands public apology from Kutluay over Walker transfer claims",
     "2026-10-16T06:20+00:00"
@@ -1124,6 +1120,10 @@
    [
     "Real Madrid’s Facundo Campazzo suffers muscle injury: tests pending",
     "2026-11-02T11:30+00:00"
+   ],
+   [
+    "Claudio Coldebella shuts down coaching rumors: “I take full responsibility”",
+    "2026-11-02T13:00+00:00"
    ]
   ]
  },

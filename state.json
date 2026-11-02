@@ -278,8 +278,6 @@
  },
  "news": {
   "seen": [
-   "206c717118",
-   "02e83bc11b",
    "b46f17feff",
    "5966850563",
    "059da1aa4b",
@@ -877,7 +875,9 @@
    "c15a2ff5cd",
    "602f162e66",
    "dfc322db74",
-   "8f7718a477"
+   "8f7718a477",
+   "5e66ac447b",
+   "9f0d571527"
   ],
   "started": [
    "Sportando",
@@ -885,10 +885,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Besiktas demands public apology from Kutluay over Walker transfer claims",
-    "2026-10-16T06:20+00:00"
-   ],
    [
     "Yankuba Sima parts ways with Valencia after one-year stint",
     "2026-10-16T08:30+00:00"
@@ -1124,6 +1120,10 @@
    [
     "Claudio Coldebella shuts down coaching rumors: “I take full responsibility”",
     "2026-11-02T13:00+00:00"
+   ],
+   [
+    "Chris Duarte expected to return against Fenerbahce",
+    "2026-11-02T16:25+00:00"
    ]
   ]
  },

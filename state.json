@@ -278,7 +278,6 @@
  },
  "news": {
   "seen": [
-   "3272d50c0a",
    "9e65e6f45a",
    "d03aa7e6f9",
    "3b80ae5ed3",
@@ -877,7 +876,8 @@
    "56e0fd197b",
    "951c75a292",
    "0686bbd628",
-   "2cbaed8238"
+   "2cbaed8238",
+   "d3803ac430"
   ],
   "started": [
    "Sportando",
@@ -885,10 +885,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Besiktas officially confirms the signing of Lonnie Walker IV",
-    "2026-10-15T08:45+00:00"
-   ],
    [
     "Panathinaikos without Nunn, Sloukas and Rogkavopoulos vs Hapoel, Bonga questionable",
     "2026-10-15T12:50+00:00"
@@ -1124,6 +1120,10 @@
    [
     "Oded Kattash on Killian Hayes: “We agreed to all his conditions”",
     "2026-10-31T18:05+00:00"
+   ],
+   [
+    "Real Madrid’s Facundo Campazzo suffers muscle injury: tests pending",
+    "2026-11-02T11:30+00:00"
    ]
   ]
  },

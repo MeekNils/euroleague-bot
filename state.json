@@ -278,7 +278,6 @@
  },
  "news": {
   "seen": [
-   "a0452b0d66",
    "767e2d7c3c",
    "7fe7b6b8c7",
    "90b0f773ae",
@@ -877,7 +876,8 @@
    "d80eefee13",
    "e48c0d0e36",
    "0684d99374",
-   "d35a30c11c"
+   "d35a30c11c",
+   "26b124e7a5"
   ],
   "started": [
    "Sportando",
@@ -885,10 +885,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Anadolu Efes, PJ Dozier Suffers Injury: Coach Laso Comments on His Condition",
-    "2026-10-16T19:50+00:00"
-   ],
    [
     "Besiktas survives Bayern's 28-point comeback",
     "2026-10-16T20:25+00:00"
@@ -1124,6 +1120,10 @@
    [
     "Baskonia reportedly targeting Zach Perrin and Ignas Brazdeikis",
     "2026-11-02T17:15+00:00"
+   ],
+   [
+    "Real Madrid, Campazzo out indefinitely: coach Martinez offers no return timeline",
+    "2026-11-03T13:30+00:00"
    ]
   ]
  },

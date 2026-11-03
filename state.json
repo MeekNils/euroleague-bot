@@ -278,7 +278,6 @@
  },
  "news": {
   "seen": [
-   "90b0f773ae",
    "8b8bdb2e6e",
    "db8c56c76b",
    "860032400d",
@@ -877,7 +876,8 @@
    "d35a30c11c",
    "26b124e7a5",
    "e05b396e11",
-   "7559c68633"
+   "7559c68633",
+   "9d8480b503"
   ],
   "started": [
    "Sportando",
@@ -885,10 +885,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Besiktas survives Bayern's 28-point comeback",
-    "2026-10-16T20:25+00:00"
-   ],
    [
     "Valiant Virtus resists Baskonia comeback, goes four in a row",
     "2026-10-16T21:40+00:00"
@@ -1124,6 +1120,10 @@
    [
     "Real Madrid, Campazzo out indefinitely: coach Martinez offers no return timeline",
     "2026-11-03T13:30+00:00"
+   ],
+   [
+    "Panathinaikos reportedly make a move for Virtus Bologna’s Aliou Diarra",
+    "2026-11-03T14:55+00:00"
    ]
   ]
  },

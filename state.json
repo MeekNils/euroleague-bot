@@ -278,10 +278,6 @@
  },
  "news": {
   "seen": [
-   "3d2ffe06dc",
-   "b152480858",
-   "44ba9badd2",
-   "7841933abd",
    "70c2597f38",
    "cd3360a748",
    "0fe250473f",
@@ -877,7 +873,11 @@
    "39d9feb0cc",
    "4a2b4086ff",
    "e88e36ce4b",
-   "cf64d2c2ca"
+   "cf64d2c2ca",
+   "58b93de1f0",
+   "855c0f53ae",
+   "ae6329e27b",
+   "96143d37bb"
   ],
   "started": [
    "Sportando",
@@ -1279,7 +1279,7 @@
   },
   "injury-report-round-10-fantasy": {
    "done": false,
-   "published": "2026-11-04T08:19:00.000Z",
+   "published": "2026-11-04T09:59:00.000Z",
    "round": 10,
    "teams": {
     "ASVEL": {

@@ -278,8 +278,6 @@
  },
  "news": {
   "seen": [
-   "0fe250473f",
-   "9f6d0161aa",
    "b34e947f1c",
    "865c27638c",
    "d8df9e893b",
@@ -877,7 +875,9 @@
    "ae6329e27b",
    "96143d37bb",
    "7b5dd9a5ef",
-   "5716d38930"
+   "5716d38930",
+   "558f146c8e",
+   "64e5e33446"
   ],
   "started": [
    "Sportando",
@@ -885,10 +885,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Valiant Virtus resists Baskonia comeback, goes four in a row",
-    "2026-10-16T21:40+00:00"
-   ],
    [
     "EuroLeague reportedly set to approve Valencia, Paris, Dubai and PAOK as first new franchises",
     "2026-10-17T10:00+00:00"
@@ -1124,6 +1120,10 @@
    [
     "Panathinaikos reportedly make a move for Virtus Bologna’s Aliou Diarra",
     "2026-11-03T14:55+00:00"
+   ],
+   [
+    "Olympiacos, Jean Montero undergoes knee surgery and faces lengthy absence",
+    "2026-11-04T11:05+00:00"
    ]
   ]
  },

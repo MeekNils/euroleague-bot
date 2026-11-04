@@ -278,7 +278,6 @@
  },
  "news": {
   "seen": [
-   "93d7094392",
    "a532834498",
    "519f32e40c",
    "71d2b3e673",
@@ -877,7 +876,8 @@
    "64e5e33446",
    "5991f5c264",
    "eecb1c523e",
-   "390ec6cb15"
+   "390ec6cb15",
+   "1b6aed2628"
   ],
   "started": [
    "Sportando",
@@ -885,10 +885,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "EuroLeague reportedly set to approve Valencia, Paris, Dubai and PAOK as first new franchises",
-    "2026-10-17T10:00+00:00"
-   ],
    [
     "Partizan, Tonye Jekiri sidelined for at least two weeks",
     "2026-10-17T13:25+00:00"
@@ -1124,6 +1120,10 @@
    [
     "Olympiacos, Jean Montero undergoes knee surgery and faces lengthy absence",
     "2026-11-04T11:05+00:00"
+   ],
+   [
+    "Olimpia Milan, Devin Booker suffers tendon injury: recovery timetable pending",
+    "2026-11-04T14:15+00:00"
    ]
   ]
  },

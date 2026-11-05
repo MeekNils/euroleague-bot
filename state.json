@@ -284,7 +284,6 @@
  },
  "news": {
   "seen": [
-   "96e95bc673",
    "c72e75b57a",
    "67cd8c1051",
    "53c5b01fe5",
@@ -883,7 +882,8 @@
    "97538b883d",
    "098f6fa816",
    "c440be4644",
-   "e6b98d8f62"
+   "e6b98d8f62",
+   "1618806474"
   ],
   "started": [
    "Sportando",
@@ -891,10 +891,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Crvena zvezda signs a deal with Christian Koloko",
-    "2026-10-18T07:50+00:00"
-   ],
    [
     "PJ Dozier injury: guard expected to miss 2-3 weeks",
     "2026-10-18T17:35+00:00"
@@ -1130,6 +1126,10 @@
    [
     "Hapoel Tel Aviv reportedly makes move for Tyler Dorsey",
     "2026-11-05T13:50+00:00"
+   ],
+   [
+    "Navarro leaves Motley in Belgrade, Koloko in the team for Olympiacos",
+    "2026-11-05T15:50+00:00"
    ]
   ]
  },

@@ -284,7 +284,6 @@
  },
  "news": {
   "seen": [
-   "9ac79f5b43",
    "715713385d",
    "10c252e766",
    "a5fba07fde",
@@ -883,7 +882,8 @@
    "59e6304e3d",
    "23edc0e253",
    "72a6152a6c",
-   "4f86174a8c"
+   "4f86174a8c",
+   "e2bb2d3e48"
   ],
   "started": [
    "Sportando",
@@ -891,10 +891,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Partizan, Tonye Jekiri sidelined for at least two weeks",
-    "2026-10-17T13:25+00:00"
-   ],
    [
     "Crvena zvezda signs a deal with Christian Koloko",
     "2026-10-18T07:50+00:00"
@@ -1130,6 +1126,10 @@
    [
     "Olimpia Milan, Devin Booker suffers tendon injury: recovery timetable pending",
     "2026-11-04T14:15+00:00"
+   ],
+   [
+    "Hapoel Tel Aviv reportedly makes move for Tyler Dorsey",
+    "2026-11-05T13:50+00:00"
    ]
   ]
  },
@@ -1439,9 +1439,9 @@
     },
     "Virtus": {
      "n": [
-      "689c2f2ac1"
+      "76bd54138c"
      ],
-     "s": "4bca19a336"
+     "s": "da39a3ee5e"
     },
     "Zalgiris": {
      "n": [

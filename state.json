@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "5707fa41dc",
    "101e8dcddc",
    "6182fbc7ac",
    "c855b5f24f",
@@ -937,7 +936,8 @@
    "7078a2d602",
    "2028b4dd24",
    "85bacbaf82",
-   "96f9cd22ee"
+   "96f9cd22ee",
+   "62f6748d7e"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Olympiacos reportedly more active in the market: Robinson-Earl and Poulakidas on the radar",
-    "2026-10-20T09:55+00:00"
-   ],
    [
     "Baskonia reportedly paying Markus Howard around €2 million in compensation",
     "2026-10-20T10:15+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Alimpijevic cuts short timeout question after Besiktas defeat: “Next question, please?”",
     "2026-11-06T21:25+00:00"
+   ],
+   [
+    "Zvezda's defensive wall leaves Olympiacos stunned",
+    "2026-11-06T22:10+00:00"
    ]
   ]
  },

@@ -314,7 +314,6 @@
  },
  "news": {
   "seen": [
-   "27909202cb",
    "77904cd95b",
    "62fd752576",
    "9cf0c9b6d3",
@@ -913,7 +912,8 @@
    "ea6722e06f",
    "d1031a6404",
    "b86cf2d5de",
-   "75a09a9e7a"
+   "75a09a9e7a",
+   "a620113455"
   ],
   "started": [
    "Sportando",
@@ -921,10 +921,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "PJ Dozier injury: guard expected to miss 2-3 weeks",
-    "2026-10-18T17:35+00:00"
-   ],
    [
     "P.J. Dozier out for two to three weeks with back injury",
     "2026-10-18T17:55+00:00"
@@ -1160,6 +1156,10 @@
    [
     "Navarro leaves Motley in Belgrade, Koloko in the team for Olympiacos",
     "2026-11-05T15:50+00:00"
+   ],
+   [
+    "Devin Booker to miss three months as Milano enters the market",
+    "2026-11-06T15:25+00:00"
    ]
   ]
  },

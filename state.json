@@ -314,7 +314,6 @@
  },
  "news": {
   "seen": [
-   "77904cd95b",
    "62fd752576",
    "9cf0c9b6d3",
    "3605bf5b80",
@@ -913,7 +912,8 @@
    "d1031a6404",
    "b86cf2d5de",
    "75a09a9e7a",
-   "a620113455"
+   "a620113455",
+   "f2958c9203"
   ],
   "started": [
    "Sportando",
@@ -921,10 +921,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "P.J. Dozier out for two to three weeks with back injury",
-    "2026-10-18T17:55+00:00"
-   ],
    [
     "Partizan's Jekiri out after groin strain",
     "2026-10-18T18:05+00:00"
@@ -1160,6 +1156,10 @@
    [
     "Devin Booker to miss three months as Milano enters the market",
     "2026-11-06T15:25+00:00"
+   ],
+   [
+    "Kevarrius Hayes is reportedly set to miss the clash against Maccabi",
+    "2026-11-06T15:40+00:00"
    ]
   ]
  },

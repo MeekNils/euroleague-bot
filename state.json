@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "ea229c577c",
    "5e1a1976a4",
    "78003f1d86",
    "5707fa41dc",
@@ -937,7 +936,8 @@
    "059559520a",
    "460404a736",
    "23414d846c",
-   "7078a2d602"
+   "7078a2d602",
+   "2028b4dd24"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Partizan's Jekiri out after groin strain",
-    "2026-10-18T18:05+00:00"
-   ],
    [
     "Davion Mintz’s dogs bring 'a piece of home' to every move",
     "2026-10-19T09:25+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Kevarrius Hayes is reportedly set to miss the clash against Maccabi",
     "2026-11-06T15:40+00:00"
+   ],
+   [
+    "Zalgiris storms past Besiktas, extends win-streak to 4",
+    "2026-11-06T20:50+00:00"
    ]
   ]
  },

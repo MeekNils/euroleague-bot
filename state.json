@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "5e1a1976a4",
    "78003f1d86",
    "5707fa41dc",
    "101e8dcddc",
@@ -937,7 +936,8 @@
    "460404a736",
    "23414d846c",
    "7078a2d602",
-   "2028b4dd24"
+   "2028b4dd24",
+   "85bacbaf82"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Davion Mintz’s dogs bring 'a piece of home' to every move",
-    "2026-10-19T09:25+00:00"
-   ],
    [
     "Olympiacos reportedly more active in the market: Robinson-Earl and Poulakidas on the radar",
     "2026-10-20T09:55+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Zalgiris storms past Besiktas, extends win-streak to 4",
     "2026-11-06T20:50+00:00"
+   ],
+   [
+    "Alimpijevic cuts short timeout question after Besiktas defeat: “Next question, please?”",
+    "2026-11-06T21:25+00:00"
    ]
   ]
  },

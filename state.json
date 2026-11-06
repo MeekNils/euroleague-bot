@@ -314,7 +314,6 @@
  },
  "news": {
   "seen": [
-   "f82e6761c3",
    "7e0e6a3bba",
    "d691ce9ed4",
    "e58c6d2fef",
@@ -913,7 +912,8 @@
    "be05f44584",
    "7c41183c79",
    "7b4f8e6fb6",
-   "03c773f7e1"
+   "03c773f7e1",
+   "f7a7258702"
   ],
   "started": [
    "Sportando",
@@ -1315,7 +1315,7 @@
   },
   "injury-report-round-10-fantasy": {
    "done": false,
-   "published": "2026-11-05T16:05:46.053Z",
+   "published": "2026-11-06T13:14:48.256Z",
    "round": 10,
    "teams": {
     "ASVEL": {
@@ -1357,7 +1357,7 @@
       "398ddd91b6",
       "1c88b7fe35"
      ],
-     "s": "9233fc0f84"
+     "s": "37c0a2862e"
     },
     "Crvena Zvezda": {
      "n": [
@@ -1441,7 +1441,7 @@
     },
     "Partizan": {
      "n": [
-      "0d865f2153",
+      "fd4db87319",
       "bb486c1877",
       "8cd0985def"
      ],

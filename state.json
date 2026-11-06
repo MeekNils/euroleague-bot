@@ -1333,7 +1333,7 @@
   },
   "injury-report-round-10-fantasy": {
    "done": false,
-   "published": "2026-11-06T07:00:00.000Z",
+   "published": "2026-11-06T17:39:46.158Z",
    "round": 10,
    "teams": {
     "ASVEL": {
@@ -1461,9 +1461,10 @@
      "n": [
       "fd4db87319",
       "bb486c1877",
-      "8cd0985def"
+      "8cd0985def",
+      "8c31cd2d97"
      ],
-     "s": "a742501a4d"
+     "s": "927f3d29a1"
     },
     "Real Madrid": {
      "n": [

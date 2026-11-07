@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "0a71ff24fa",
    "e81ebc1905",
    "dd030cea51",
    "6ecf3698cd",
@@ -937,7 +936,8 @@
    "ff47a441df",
    "0389081ca5",
    "89f3400f52",
-   "deb8f0c828"
+   "deb8f0c828",
+   "a57b20741d"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Iffe Lundberg suffers an injury and will be sidelined for 6 to 8 weeks",
-    "2026-10-20T15:25+00:00"
-   ],
    [
     "Evan Fournier set to miss 20 days, Jean Montero questionable for Fenerbahce",
     "2026-10-20T16:15+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Partizan, Penarroya: “We played as a team despite the injuries”",
     "2026-11-07T10:20+00:00"
+   ],
+   [
+    "Pierria Henry close to returning to the EuroLeague and signing with Maccabi",
+    "2026-11-07T12:35+00:00"
    ]
   ]
  },
@@ -2874,7 +2874,7 @@
   "E2026_10"
  ],
  "schedule": {
-  "checked": "2026-11-07T06:35:19+00:00",
+  "checked": "2026-11-07T12:35:20+00:00",
   "rounds": [],
   "season": "E2026"
  }

@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "f1cf0e5d05",
    "e1ca0cce0c",
    "f3bdf391a8",
    "236c121891",
@@ -937,7 +936,8 @@
    "0f872e837c",
    "a082d4467a",
    "d0997a17b4",
-   "511e9b6df6"
+   "511e9b6df6",
+   "f3797a6578"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Baskonia reportedly paying Markus Howard around €2 million in compensation",
-    "2026-10-20T10:15+00:00"
-   ],
    [
     "Iffe Lundberg suffers an injury and will be sidelined for 6 to 8 weeks",
     "2026-10-20T15:25+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Zvezda's defensive wall leaves Olympiacos stunned",
     "2026-11-06T22:10+00:00"
+   ],
+   [
+    "Partizan, Penarroya: “We played as a team despite the injuries”",
+    "2026-11-07T10:20+00:00"
    ]
   ]
  },

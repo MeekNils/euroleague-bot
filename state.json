@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "a9b882bee7",
    "1af1d2a156",
    "3945b0b748",
    "302f62eac1",
@@ -937,7 +936,8 @@
    "292a3bf7e3",
    "d03cd301df",
    "a5e890f973",
-   "0cef229eec"
+   "0cef229eec",
+   "0d4374c8c4"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Evan Fournier set to miss 20 days, Jean Montero questionable for Fenerbahce",
-    "2026-10-20T16:15+00:00"
-   ],
    [
     "Eleven years after leaving, Bryant Dunston is back where it all began",
     "2026-10-21T08:30+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Pierria Henry close to returning to the EuroLeague and signing with Maccabi",
     "2026-11-07T12:35+00:00"
+   ],
+   [
+    "Luca Banchi-Olimpia Milano, agreement with Italbasket: all the details",
+    "2026-11-07T16:50+00:00"
    ]
   ]
  },

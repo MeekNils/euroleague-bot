@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "6c6e83f697",
    "471e980e4f",
    "9061ee0861",
    "47d5a9e9eb",
@@ -937,7 +936,8 @@
    "cfcdd029f2",
    "f6d56aaad1",
    "377aa857d0",
-   "19da9bd5cd"
+   "19da9bd5cd",
+   "661709f6cc"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Eleven years after leaving, Bryant Dunston is back where it all began",
-    "2026-10-21T08:30+00:00"
-   ],
    [
     "Barcelona to Face Olimpia Milano Without Key Player, but Justin Minaya Returns",
     "2026-10-21T12:25+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Luca Banchi-Olimpia Milano, agreement with Italbasket: all the details",
     "2026-11-07T16:50+00:00"
+   ],
+   [
+    "EuroLeague, Hapoel Tel Aviv set to receive a franchise license",
+    "2026-11-08T09:15+00:00"
    ]
   ]
  },

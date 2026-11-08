@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "5e9cd97da8",
    "4fac086815",
    "a3ff2ccaae",
    "c00c352f5e",
@@ -937,7 +936,8 @@
    "852e80a6b5",
    "340c713db7",
    "8a145e905e",
-   "cc047c49be"
+   "cc047c49be",
+   "45d6bfe393"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Olympiacos initiates roster move for free agent John Konchar",
-    "2026-10-22T06:20+00:00"
-   ],
    [
     "Partizan reportedly nears agreement with experienced forward Robert Franks",
     "2026-10-22T09:30+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Olimpia Milano, Banchi signs at dawn: first practice tomorrow",
     "2026-11-08T10:35+00:00"
+   ],
+   [
+    "Milan appoints Banchi as head coach",
+    "2026-11-08T10:40+00:00"
    ]
   ]
  },

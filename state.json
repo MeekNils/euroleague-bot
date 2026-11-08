@@ -338,8 +338,6 @@
  },
  "news": {
   "seen": [
-   "8faaa159fa",
-   "5c6fbfab66",
    "5e9cd97da8",
    "4fac086815",
    "a3ff2ccaae",
@@ -937,7 +935,9 @@
    "661709f6cc",
    "5e2fc0c090",
    "852e80a6b5",
-   "340c713db7"
+   "340c713db7",
+   "8a145e905e",
+   "cc047c49be"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Partizan Belgrade Sign Antonio Reeves",
-    "2026-10-21T16:05+00:00"
-   ],
    [
     "Olympiacos initiates roster move for free agent John Konchar",
     "2026-10-22T06:20+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Luca Banchi officially returns to Olimpia Milano as head coach",
     "2026-11-08T10:30+00:00"
+   ],
+   [
+    "Olimpia Milano, Banchi signs at dawn: first practice tomorrow",
+    "2026-11-08T10:35+00:00"
    ]
   ]
  },

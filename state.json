@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "47d5a9e9eb",
    "8faaa159fa",
    "5c6fbfab66",
    "5e9cd97da8",
@@ -937,7 +936,8 @@
    "19da9bd5cd",
    "661709f6cc",
    "5e2fc0c090",
-   "852e80a6b5"
+   "852e80a6b5",
+   "340c713db7"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Barcelona to Face Olimpia Milano Without Key Player, but Justin Minaya Returns",
-    "2026-10-21T12:25+00:00"
-   ],
    [
     "Partizan Belgrade Sign Antonio Reeves",
     "2026-10-21T16:05+00:00"
@@ -1184,6 +1180,10 @@
    [
     "EuroLeague, Hapoel Tel Aviv set to receive a franchise license",
     "2026-11-08T09:15+00:00"
+   ],
+   [
+    "Luca Banchi officially returns to Olimpia Milano as head coach",
+    "2026-11-08T10:30+00:00"
    ]
   ]
  },

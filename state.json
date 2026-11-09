@@ -338,8 +338,6 @@
  },
  "news": {
   "seen": [
-   "96849f4b34",
-   "a367974434",
    "f64d63a829",
    "46e2135d54",
    "37c2fde5b9",
@@ -937,7 +935,9 @@
    "f96c7a8100",
    "ae897d6163",
    "7185b6006e",
-   "040667dd9d"
+   "040667dd9d",
+   "5d8cb17164",
+   "f79fa0e1b1"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Keenan Evans reunites with Zalgiris after London Lions loan",
-    "2026-10-23T11:25+00:00"
-   ],
    [
     "Split marks return with victory over FMP",
     "2026-10-23T14:00+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Kevin Punter, sidelined for three weeks with ankle injury",
     "2026-11-09T14:25+00:00"
+   ],
+   [
+    "Thomas Walkup will miss the clash against Olympiacos due to injury",
+    "2026-11-09T14:45+00:00"
    ]
   ]
  },

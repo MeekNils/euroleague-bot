@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "c90532e880",
    "7f89263af9",
    "2272e3b68c",
    "a884872639",
@@ -937,7 +936,8 @@
    "3cc9f1a951",
    "de966794f1",
    "75e602c724",
-   "64031e6bdd"
+   "64031e6bdd",
+   "fe3af0e109"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Konchar officially signed with Olympiacos, Dorsey out of the team for one month",
-    "2026-10-22T16:10+00:00"
-   ],
    [
     "Nunn returns as Panathinaikos edges Baskonia",
     "2026-10-22T22:30+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Zalgiris signs Mantas Rubstavicius, loans him to Tofas",
     "2026-11-09T09:30+00:00"
+   ],
+   [
+    "Real Madrid basketball budget reportedly reaches record €67.2M for 2026-27",
+    "2026-11-09T10:05+00:00"
    ]
   ]
  },

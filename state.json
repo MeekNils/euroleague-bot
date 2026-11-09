@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "b95549dbbf",
    "96849f4b34",
    "a367974434",
    "f64d63a829",
@@ -937,7 +936,8 @@
    "208b57ce13",
    "f96c7a8100",
    "ae897d6163",
-   "7185b6006e"
+   "7185b6006e",
+   "040667dd9d"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Robert Franks heads to Serbia, signing EuroLeague deal with Partizan",
-    "2026-10-23T07:15+00:00"
-   ],
    [
     "Keenan Evans reunites with Zalgiris after London Lions loan",
     "2026-10-23T11:25+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Marcelinho Huertas set for EuroLeague return with Dubai Basketball",
     "2026-11-09T13:20+00:00"
+   ],
+   [
+    "Kevin Punter, sidelined for three weeks with ankle injury",
+    "2026-11-09T14:25+00:00"
    ]
   ]
  },

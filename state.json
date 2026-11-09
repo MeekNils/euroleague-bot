@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "3ad858a971",
    "61d44e79af",
    "4f8f30d859",
    "906e88fdbe",
@@ -937,7 +936,8 @@
    "f490628ade",
    "8b2fe0c866",
    "3a289b2ad8",
-   "8b99d83b2d"
+   "8b99d83b2d",
+   "05a52b3d5d"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Jasikevicius after the comeback win against Olympiacos: “I didn’t expect it to be so ugly”",
-    "2026-10-23T21:20+00:00"
-   ],
    [
     "Jabari Parker and Partizan mutually agree to part ways",
     "2026-10-23T21:25+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Fenerbahçe center Chris Silva closing in on Partizan move",
     "2026-11-09T17:15+00:00"
+   ],
+   [
+    "Maxima Roma reportedly set for permanent EuroLeague spot, Partizan, Zvezda, Virtus and Napoli in line for licenses through 2030",
+    "2026-11-09T17:30+00:00"
    ]
   ]
  },

@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "fbae70a269",
    "6628a19674",
    "31174d94bc",
    "97e9c0c4f7",
@@ -937,7 +936,8 @@
    "96263efcbb",
    "66a1a50d3b",
    "5b95ef0e6d",
-   "5f65bc3e46"
+   "5f65bc3e46",
+   "4ae13ea9c2"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Partizan reportedly nears agreement with experienced forward Robert Franks",
-    "2026-10-22T09:30+00:00"
-   ],
    [
     "Greece bribery scandal hits Athens courts with postponement granted",
     "2026-10-22T09:45+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Milan appoints Banchi as head coach",
     "2026-11-08T10:40+00:00"
+   ],
+   [
+    "Virtus Bologna draws interest from UAE investors: full takeover or major stake on the table",
+    "2026-11-09T07:30+00:00"
    ]
   ]
  },

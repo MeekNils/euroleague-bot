@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "83d22efc79",
    "0ffe77f51a",
    "6ca30659bd",
    "8eebadb658",
@@ -937,7 +936,8 @@
    "e1a6303f4e",
    "7acc8384a5",
    "bb0e81528a",
-   "6d955ecb01"
+   "6d955ecb01",
+   "c8d2e6a3da"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Nunn returns as Panathinaikos edges Baskonia",
-    "2026-10-22T22:30+00:00"
-   ],
    [
     "Robert Franks heads to Serbia, signing EuroLeague deal with Partizan",
     "2026-10-23T07:15+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Real Madrid basketball budget reportedly reaches record €67.2M for 2026-27",
     "2026-11-09T10:05+00:00"
+   ],
+   [
+    "Marcelinho Huertas set for EuroLeague return with Dubai Basketball",
+    "2026-11-09T13:20+00:00"
    ]
   ]
  },

@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "46e5df0b5d",
    "3ad858a971",
    "61d44e79af",
    "4f8f30d859",
@@ -937,7 +936,8 @@
    "d9f5c7a454",
    "f490628ade",
    "8b2fe0c866",
-   "3a289b2ad8"
+   "3a289b2ad8",
+   "8b99d83b2d"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Split marks return with victory over FMP",
-    "2026-10-23T14:00+00:00"
-   ],
    [
     "Jasikevicius after the comeback win against Olympiacos: “I didn’t expect it to be so ugly”",
     "2026-10-23T21:20+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Thomas Walkup will miss the clash against Olympiacos due to injury",
     "2026-11-09T14:45+00:00"
+   ],
+   [
+    "Fenerbahçe center Chris Silva closing in on Partizan move",
+    "2026-11-09T17:15+00:00"
    ]
   ]
  },

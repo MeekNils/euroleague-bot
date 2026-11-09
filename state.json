@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "d6a47a9911",
    "c90532e880",
    "7f89263af9",
    "2272e3b68c",
@@ -937,7 +936,8 @@
    "14798ebc49",
    "3cc9f1a951",
    "de966794f1",
-   "75e602c724"
+   "75e602c724",
+   "64031e6bdd"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Greece bribery scandal hits Athens courts with postponement granted",
-    "2026-10-22T09:45+00:00"
-   ],
    [
     "Konchar officially signed with Olympiacos, Dorsey out of the team for one month",
     "2026-10-22T16:10+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Virtus Bologna draws interest from UAE investors: full takeover or major stake on the table",
     "2026-11-09T07:30+00:00"
+   ],
+   [
+    "Zalgiris signs Mantas Rubstavicius, loans him to Tofas",
+    "2026-11-09T09:30+00:00"
    ]
   ]
  },

@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "7b68039fff",
    "68779c1d42",
    "7a8aab34fb",
    "b8aa0fb437",
@@ -937,7 +936,8 @@
    "a2ed943a94",
    "fd8123d33b",
    "3ee7467f76",
-   "d95a02c41d"
+   "d95a02c41d",
+   "3d0cdd7abb"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Maccabi reportedly target Killian Hayes alongside Nedovic",
-    "2026-10-26T13:45+00:00"
-   ],
    [
     "Valencia’s Nate Reuvers sidelined indefinitely",
     "2026-10-26T15:55+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Baskonia in advanced talks to sign Rolands Smits",
     "2026-11-10T14:35+00:00"
+   ],
+   [
+    "Besiktas’s Jaylen Nowell undergoes nose surgery",
+    "2026-11-10T14:45+00:00"
    ]
   ]
  },

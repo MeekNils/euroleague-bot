@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "a6e1194276",
    "22f2142f05",
    "df3c41e0fa",
    "02f4262818",
@@ -937,7 +936,8 @@
    "b6cb2766d8",
    "3ab30bc8de",
    "482cc8edcc",
-   "3c11283748"
+   "3c11283748",
+   "b0d65e5e30"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Valencia’s Nate Reuvers sidelined indefinitely",
-    "2026-10-26T15:55+00:00"
-   ],
    [
     "Nick Smith Jr. to miss Real Madrid’s trip to Baskonia",
     "2026-10-26T18:55+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Besiktas’s Jaylen Nowell undergoes nose surgery",
     "2026-11-10T14:45+00:00"
+   ],
+   [
+    "Maccabi Tel Aviv officially sign Kamar Baldwin",
+    "2026-11-10T16:35+00:00"
    ]
   ]
  },

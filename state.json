@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "2d162bab72",
    "ee689ccf6b",
    "0e396d903e",
    "c203c3efb9",
@@ -937,7 +936,8 @@
    "124fe9b2ea",
    "33a27ba21b",
    "f09f8b0ca1",
-   "34724f2d05"
+   "34724f2d05",
+   "0a0b42572c"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Dwight Powell Drawing Interest from EuroLeague Teams, Barcelona Among Suitors",
-    "2026-10-24T19:15+00:00"
-   ],
    [
     "Nate Reuvers sidelined with a foot bone injury",
     "2026-10-25T16:20+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Olympiacos: Tyler Dorsey suspension set to expire on November 15",
     "2026-11-10T10:55+00:00"
+   ],
+   [
+    "Zvezda’s Stefan Miljenovic out after ankle surgery",
+    "2026-11-10T12:25+00:00"
    ]
   ]
  },

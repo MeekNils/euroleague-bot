@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "12edaf57a0",
    "2d162bab72",
    "ee689ccf6b",
    "0e396d903e",
@@ -937,7 +936,8 @@
    "a4cfc49131",
    "124fe9b2ea",
    "33a27ba21b",
-   "f09f8b0ca1"
+   "f09f8b0ca1",
+   "34724f2d05"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Partizan, Mijailović: “Parker had the biggest contract in Partizan’s history, it was our responsibility to find a solution”",
-    "2026-10-24T15:15+00:00"
-   ],
    [
     "Dwight Powell Drawing Interest from EuroLeague Teams, Barcelona Among Suitors",
     "2026-10-24T19:15+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Baskonia reportedly faces €2.8M bill after Galbiati, Laso and Howard exits",
     "2026-11-10T10:40+00:00"
+   ],
+   [
+    "Olympiacos: Tyler Dorsey suspension set to expire on November 15",
+    "2026-11-10T10:55+00:00"
    ]
   ]
  },

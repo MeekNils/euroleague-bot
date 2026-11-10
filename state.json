@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "3e05543dcf",
    "33b2a18fa4",
    "05b9afd609",
    "99c594a73d",
@@ -937,7 +936,8 @@
    "ab3839a8af",
    "a674920f61",
    "388acaa419",
-   "9efa65377a"
+   "9efa65377a",
+   "687d6a7a3a"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Jabari Parker and Partizan mutually agree to part ways",
-    "2026-10-23T21:25+00:00"
-   ],
    [
     "Split survive Adi Sel3ct comeback, improve to 2-0",
     "2026-10-24T09:15+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Maxima Roma reportedly set for permanent EuroLeague spot, Partizan, Zvezda, Virtus and Napoli in line for licenses through 2030",
     "2026-11-09T17:30+00:00"
+   ],
+   [
+    "Barcelona battered by injuries to Kevin Punter, Tosan Evbuomwan",
+    "2026-11-10T06:30+00:00"
    ]
   ]
  },

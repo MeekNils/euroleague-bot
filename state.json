@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "7797b4c645",
    "c23ee6fb39",
    "ce1bd9406a",
    "7b68039fff",
@@ -937,7 +936,8 @@
    "2de0e6297a",
    "de5d4531a4",
    "8224ac45d5",
-   "a2ed943a94"
+   "a2ed943a94",
+   "fd8123d33b"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Nate Reuvers sidelined with a foot bone injury",
-    "2026-10-25T16:20+00:00"
-   ],
    [
     "Real Madrid reportedly explore Shulga loan and backcourt addition",
     "2026-10-26T13:45+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Zvezda’s Stefan Miljenovic out after ankle surgery",
     "2026-11-10T12:25+00:00"
+   ],
+   [
+    "Tonye Jekiri and Luca Vildoza are game-time decisions for Partizan",
+    "2026-11-10T14:05+00:00"
    ]
   ]
  },

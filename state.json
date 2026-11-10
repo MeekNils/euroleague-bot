@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "ce1bd9406a",
    "7b68039fff",
    "68779c1d42",
    "7a8aab34fb",
@@ -937,7 +936,8 @@
    "8224ac45d5",
    "a2ed943a94",
    "fd8123d33b",
-   "3ee7467f76"
+   "3ee7467f76",
+   "d95a02c41d"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Real Madrid reportedly explore Shulga loan and backcourt addition",
-    "2026-10-26T13:45+00:00"
-   ],
    [
     "Maccabi reportedly target Killian Hayes alongside Nedovic",
     "2026-10-26T13:45+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Tonye Jekiri and Luca Vildoza are game-time decisions for Partizan",
     "2026-11-10T14:05+00:00"
+   ],
+   [
+    "Baskonia in advanced talks to sign Rolands Smits",
+    "2026-11-10T14:35+00:00"
    ]
   ]
  },
@@ -1531,8 +1531,8 @@
     },
     "Baskonia": {
      "n": [
-      "9e5f831b73",
-      "ce3b6e5a40"
+      "840dd856b1",
+      "9e5f831b73"
      ],
      "s": "29131bd828"
     },

@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "50df05db58",
    "12edaf57a0",
    "2d162bab72",
    "ee689ccf6b",
@@ -937,7 +936,8 @@
    "b4929585ab",
    "a4cfc49131",
    "124fe9b2ea",
-   "33a27ba21b"
+   "33a27ba21b",
+   "f09f8b0ca1"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Split survive Adi Sel3ct comeback, improve to 2-0",
-    "2026-10-24T09:15+00:00"
-   ],
    [
     "Partizan, Mijailović: “Parker had the biggest contract in Partizan’s history, it was our responsibility to find a solution”",
     "2026-10-24T15:15+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Barcelona battered by injuries to Kevin Punter, Tosan Evbuomwan",
     "2026-11-10T06:30+00:00"
+   ],
+   [
+    "Baskonia reportedly faces €2.8M bill after Galbiati, Laso and Howard exits",
+    "2026-11-10T10:40+00:00"
    ]
   ]
  },

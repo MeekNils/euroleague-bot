@@ -1,5 +1,5 @@
 {
- "fails": 1,
+ "fails": 0,
  "games": {
   "E2026_100": {
    "final": 1,
@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "464725168c",
    "424981386d",
    "0989ff2e2f",
    "e9ef1f15d4",
@@ -937,7 +936,8 @@
    "b08da35b2b",
    "0194f92e30",
    "1fa4f43e7d",
-   "6047961999"
+   "6047961999",
+   "9fc0b7feac"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "EuroLeague official injury updates, key returns and absences in Round 8",
-    "2026-10-28T10:15+00:00"
-   ],
    [
     "Olimpia Milano reportedly targets Nico Laprovittola",
     "2026-10-29T07:10+00:00"
@@ -1184,6 +1180,10 @@
    [
     "EuroLeague and Panini extend collectibles partnership through 2029",
     "2026-11-11T14:30+00:00"
+   ],
+   [
+    "Partizan welcomes Chris Silva for medicals to complete transfer from Fenerbahce",
+    "2026-11-11T14:45+00:00"
    ]
   ]
  },

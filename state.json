@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "dc6f74c43e",
    "8d8264d85f",
    "c5ca528f97",
    "40085a8b70",
@@ -937,7 +936,8 @@
    "99eaa38d7e",
    "58f85a643b",
    "8410a00613",
-   "b8f9264f92"
+   "b8f9264f92",
+   "01fd34440f"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Peppe Poeta: “We’ll have to move the ball to counter Panathinaikos’ physicality”",
-    "2026-10-27T16:20+00:00"
-   ],
    [
     "Nadir Hifi’s return sparks Paris in Dubai",
     "2026-10-27T18:45+00:00"
@@ -1184,6 +1180,10 @@
    [
     "EuroLeague three-year licenses reportedly cost €1.5m per season",
     "2026-11-11T13:35+00:00"
+   ],
+   [
+    "Marcelinho Huertas leaves Tenerife after eight seasons. Next stop Dubai Basketball",
+    "2026-11-11T13:50+00:00"
    ]
   ]
  },

@@ -338,8 +338,6 @@
  },
  "news": {
   "seen": [
-   "b1b1fd3e44",
-   "6d40bb994f",
    "67645e569a",
    "464725168c",
    "424981386d",
@@ -937,7 +935,9 @@
    "330d69233a",
    "50c307487c",
    "bbcea46a6f",
-   "b08da35b2b"
+   "b08da35b2b",
+   "0194f92e30",
+   "1fa4f43e7d"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Nadir Hifi’s return sparks Paris in Dubai",
-    "2026-10-27T18:45+00:00"
-   ],
    [
     "EuroLeague official injury updates, key returns and absences in Round 8",
     "2026-10-28T10:15+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Marcelinho Huertas leaves Tenerife after eight seasons. Next stop Dubai Basketball",
     "2026-11-11T13:50+00:00"
+   ],
+   [
+    "EuroLeague and Panini extend collectibles partnership through 2029",
+    "2026-11-11T14:30+00:00"
    ]
   ]
  },

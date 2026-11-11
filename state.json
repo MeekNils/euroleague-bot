@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "9b81cf20fd",
    "f315126c89",
    "444eff89ce",
    "dc6f74c43e",
@@ -937,7 +936,8 @@
    "a634f0e8fa",
    "731fb59e57",
    "ab68ff44a8",
-   "99eaa38d7e"
+   "99eaa38d7e",
+   "58f85a643b"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "EuroLeague Final Four to return to Abu Dhabi in 2027 and 2029, bringing leading European club basketball to the emirate",
-    "2026-10-27T14:00+00:00"
-   ],
    [
     "Nikola Milutinov out for Olympiacos road clash against Besiktas",
     "2026-10-27T14:05+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Rolands Smits returns to the EuroLeague with struggling Baskonia",
     "2026-11-11T10:20+00:00"
+   ],
+   [
+    "Baskonia nearing loan deal for Kenan Kamenjas from Dubai",
+    "2026-11-11T12:30+00:00"
    ]
   ]
  },

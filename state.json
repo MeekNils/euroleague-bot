@@ -1508,7 +1508,7 @@
   },
   "injury-report-round-11-fantasy": {
    "done": false,
-   "published": "2026-11-11T09:14:17.190Z",
+   "published": "2026-11-11T13:24:40.530Z",
    "round": 11,
    "teams": {
     "ASVEL": {
@@ -1633,10 +1633,11 @@
     },
     "Valencia": {
      "n": [
+      "9ee7fb7395",
       "2f5fce74e3",
       "6f07b9334b"
      ],
-     "s": "6b51f051a0"
+     "s": "496eae11a3"
     },
     "Virtus": {
      "n": [

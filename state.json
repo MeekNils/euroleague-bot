@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "6b1dbc0bea",
    "8821cd9aeb",
    "66d61c811f",
    "969f2bad99",
@@ -937,7 +936,8 @@
    "35cd47284f",
    "aeee8b02f1",
    "4d5499170d",
-   "c83356e49f"
+   "c83356e49f",
+   "7c13724263"
   ],
   "started": [
    "Sportando",
@@ -1305,6 +1305,7 @@
     "Partizan": {
      "n": [
       "1ce8364af1",
+      "2d420bd89a",
       "c9cd4f41da",
       "8cd0985def",
       "4a7a9bc3b7"

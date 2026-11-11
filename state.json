@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "c2d3b54523",
    "8f77d03cbb",
    "6b1dbc0bea",
    "8821cd9aeb",
@@ -937,7 +936,8 @@
    "9fc0b7feac",
    "09ae2226b7",
    "35cd47284f",
-   "aeee8b02f1"
+   "aeee8b02f1",
+   "4d5499170d"
   ],
   "started": [
    "Sportando",
@@ -1188,6 +1188,158 @@
   ]
  },
  "reports": {
+  "euroleague-injury-report-round-11-fantasy": {
+   "done": false,
+   "published": "2026-11-11T16:42:54.464Z",
+   "round": 11,
+   "teams": {
+    "ASVEL": {
+     "n": [
+      "671ecb30b9",
+      "1f64533a08",
+      "6e720183cd"
+     ],
+     "s": "d6735582df"
+    },
+    "Barcelona": {
+     "n": [
+      "cb679bb53c",
+      "fcd8ad9a32",
+      "18b2b44f13",
+      "0fabd8679b",
+      "21a131ff03"
+     ],
+     "s": "f6a3555d15"
+    },
+    "Baskonia": {
+     "n": [
+      "840dd856b1",
+      "9e5f831b73"
+     ],
+     "s": "29131bd828"
+    },
+    "Bayern": {
+     "n": [
+      "7b9a5484ec"
+     ],
+     "s": "d9a18527d4"
+    },
+    "Besiktas": {
+     "n": [
+      "aac4817d31",
+      "75a3c6a285",
+      "1c88b7fe35"
+     ],
+     "s": "a5e57c4964"
+    },
+    "Crvena Zvezda": {
+     "n": [
+      "b6486feb6a"
+     ],
+     "s": "9c3aa38206"
+    },
+    "Dubai": {
+     "n": [
+      "075ed1e07b",
+      "dbb45e4bbe"
+     ],
+     "s": "11cb25331a"
+    },
+    "Efes": {
+     "n": [
+      "aec98b302c",
+      "4492faa90b",
+      "dad5b88c9e"
+     ],
+     "s": "debf19e622"
+    },
+    "Fenerbahce": {
+     "n": [
+      "b6b3d714bb",
+      "87b2095d34",
+      "73222af2a0"
+     ],
+     "s": "a1bd8c96d2"
+    },
+    "Hapoel": {
+     "n": [
+      "21489a95cd"
+     ],
+     "s": "3587766965"
+    },
+    "Maccabi": {
+     "n": [
+      "0d17f7a331"
+     ],
+     "s": "30d9f88503"
+    },
+    "Milan": {
+     "n": [
+      "ad10146313"
+     ],
+     "s": "ff8932afe4"
+    },
+    "Olympiacos": {
+     "n": [
+      "17da853b00",
+      "faaf809342",
+      "2658dfd417"
+     ],
+     "s": "1b199b984e"
+    },
+    "Panathinaikos": {
+     "n": [
+      "e42a8ad4ba"
+     ],
+     "s": "cdb174fefb"
+    },
+    "Paris": {
+     "n": [
+      "0d1ec4d61c"
+     ],
+     "s": "6fcc8f797e"
+    },
+    "Partizan": {
+     "n": [
+      "1ce8364af1",
+      "c9cd4f41da",
+      "8cd0985def",
+      "4a7a9bc3b7"
+     ],
+     "s": "cbab86c8fa"
+    },
+    "Real Madrid": {
+     "n": [
+      "badab5e561",
+      "d96c8bb150",
+      "b272ae0f52",
+      "67a2f118b7",
+      "2264b6f139"
+     ],
+     "s": "1cddbde0aa"
+    },
+    "Valencia": {
+     "n": [
+      "9ee7fb7395",
+      "2f5fce74e3",
+      "6f07b9334b"
+     ],
+     "s": "496eae11a3"
+    },
+    "Virtus": {
+     "n": [
+      "e941ec58a2"
+     ],
+     "s": "ff40fe61e0"
+    },
+    "Zalgiris": {
+     "n": [
+      "6e41473cec"
+     ],
+     "s": "1b32c7b1eb"
+    }
+   }
+  },
   "euroleague-injury-report-round-4-el2627": {
    "done": true,
    "published": "2026-10-09T13:14:00.000Z",
@@ -1655,83 +1807,6 @@
       "6e41473cec"
      ],
      "s": "1b32c7b1eb"
-    }
-   }
-  },
-  "injury-report-round-2-el2627": {
-   "done": true,
-   "published": "2026-09-29T23:28:37.221Z",
-   "round": 2,
-   "teams": {
-    "Barcelona": {
-     "n": [
-      "7ec47ed99b",
-      "f4a3309f27",
-      "32bf241737"
-     ],
-     "s": "da39a3ee5e"
-    },
-    "Bayern": {
-     "n": [
-      "facf937c65"
-     ],
-     "s": "da39a3ee5e"
-    },
-    "Efes": {
-     "n": [
-      "dad5b88c9e",
-      "d57f251371",
-      "7f2d5adc6f",
-      "2264b6f139"
-     ],
-     "s": "59fe555bdc"
-    },
-    "Fenerbahce": {
-     "n": [
-      "74ecaf3794"
-     ],
-     "s": "da39a3ee5e"
-    },
-    "Hapoel": {
-     "n": [
-      "ea4edb14ed",
-      "1a0a39e202"
-     ],
-     "s": "da39a3ee5e"
-    },
-    "Milan": {
-     "n": [
-      "3bd333ce65"
-     ],
-     "s": "da39a3ee5e"
-    },
-    "Olympiacos": {
-     "n": [
-      "1c9e574d15",
-      "edca329d2c"
-     ],
-     "s": "da39a3ee5e"
-    },
-    "Panathinaikos": {
-     "n": [
-      "fa68e54262",
-      "c2bc839ab6",
-      "2b5bdc1ca5"
-     ],
-     "s": "1b880beaa6"
-    },
-    "Partizan": {
-     "n": [
-      "f6173e6771",
-      "a7a0668519"
-     ],
-     "s": "da39a3ee5e"
-    },
-    "Virtus": {
-     "n": [
-      "750167bf86"
-     ],
-     "s": "da39a3ee5e"
     }
    }
   },

@@ -338,7 +338,6 @@
  },
  "news": {
   "seen": [
-   "444eff89ce",
    "dc6f74c43e",
    "8d8264d85f",
    "c5ca528f97",
@@ -937,7 +936,8 @@
    "ab68ff44a8",
    "99eaa38d7e",
    "58f85a643b",
-   "8410a00613"
+   "8410a00613",
+   "b8f9264f92"
   ],
   "started": [
    "Sportando",
@@ -945,10 +945,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Nikola Milutinov out for Olympiacos road clash against Besiktas",
-    "2026-10-27T14:05+00:00"
-   ],
    [
     "Peppe Poeta: “We’ll have to move the ball to counter Panathinaikos’ physicality”",
     "2026-10-27T16:20+00:00"
@@ -1184,6 +1180,10 @@
    [
     "Baskonia nearing loan deal for Kenan Kamenjas from Dubai",
     "2026-11-11T12:30+00:00"
+   ],
+   [
+    "EuroLeague three-year licenses reportedly cost €1.5m per season",
+    "2026-11-11T13:35+00:00"
    ]
   ]
  },

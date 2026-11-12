@@ -350,7 +350,6 @@
  },
  "news": {
   "seen": [
-   "af0044c364",
    "cbd3212009",
    "639c22c140",
    "18a28a1f91",
@@ -949,7 +948,8 @@
    "21303d35d0",
    "814936331e",
    "86e48e65be",
-   "43ce2cb83b"
+   "43ce2cb83b",
+   "cfcf4be4a1"
   ],
   "started": [
    "Sportando",
@@ -957,10 +957,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Olimpia Milano reportedly targets Nico Laprovittola",
-    "2026-10-29T07:10+00:00"
-   ],
    [
     "Nikola Mirotic sidelined with adductor injury",
     "2026-10-29T12:10+00:00"
@@ -1196,6 +1192,10 @@
    [
     "Partizan welcomes Chris Silva for medicals to complete transfer from Fenerbahce",
     "2026-11-11T14:45+00:00"
+   ],
+   [
+    "Latest disciplinary sanctions",
+    "2026-11-12T09:35+00:00"
    ]
   ]
  },

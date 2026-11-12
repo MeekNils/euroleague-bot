@@ -1202,7 +1202,7 @@
  "reports": {
   "euroleague-injury-report-round-11-fantasy": {
    "done": false,
-   "published": "2026-11-11T16:42:54.464Z",
+   "published": "2026-11-12T09:23:47.147Z",
    "round": 11,
    "teams": {
     "ASVEL": {
@@ -1246,9 +1246,9 @@
     },
     "Crvena Zvezda": {
      "n": [
-      "6b04a0b799",
+      "10374a28c0",
       "39d824cdb0",
-      "b6486feb6a"
+      "f7afbb07f0"
      ],
      "s": "9c3aa38206"
     },
@@ -1292,7 +1292,7 @@
      "n": [
       "ad10146313"
      ],
-     "s": "ff8932afe4"
+     "s": "6b6a452d16"
     },
     "Olympiacos": {
      "n": [
@@ -1300,7 +1300,7 @@
       "faaf809342",
       "2658dfd417"
      ],
-     "s": "1b199b984e"
+     "s": "7318015aa7"
     },
     "Panathinaikos": {
      "n": [
@@ -1340,7 +1340,7 @@
       "2f5fce74e3",
       "6f07b9334b"
      ],
-     "s": "496eae11a3"
+     "s": "e2b7a74123"
     },
     "Virtus": {
      "n": [
@@ -1352,7 +1352,7 @@
      "n": [
       "6e41473cec"
      ],
-     "s": "1b32c7b1eb"
+     "s": "d3157ef932"
     }
    }
   },

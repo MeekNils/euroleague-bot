@@ -370,7 +370,6 @@
  },
  "news": {
   "seen": [
-   "807ffe70c9",
    "9d12d5bafa",
    "c181212520",
    "290273c35f",
@@ -969,7 +968,8 @@
    "fd4574c8a3",
    "0d50ea40ae",
    "bd1f05210d",
-   "48d08a8206"
+   "48d08a8206",
+   "632a5eabbb"
   ],
   "started": [
    "Sportando",
@@ -977,10 +977,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Sloukas and Rogkavopoulos will miss the game against Anadolu Efes",
-    "2026-10-29T16:30+00:00"
-   ],
    [
     "Olympiacos, Bartzokas provides injury update: Milutinov and Fournier still being evaluated",
     "2026-10-29T20:50+00:00"
@@ -1216,6 +1212,10 @@
    [
     "Tomas Satoransky targets return from scary injury, reflects on NBA years",
     "2026-11-12T11:25+00:00"
+   ],
+   [
+    "Ethan Thompson avoids fracture after fall against Baskonia",
+    "2026-11-12T18:30+00:00"
    ]
   ]
  },

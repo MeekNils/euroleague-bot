@@ -1202,7 +1202,7 @@
  "reports": {
   "euroleague-injury-report-round-11-fantasy": {
    "done": false,
-   "published": "2026-11-12T10:45:47.341Z",
+   "published": "2026-11-12T13:06:41.653Z",
    "round": 11,
    "teams": {
     "ASVEL": {
@@ -1238,11 +1238,11 @@
     },
     "Besiktas": {
      "n": [
-      "aac4817d31",
+      "643d0717d3",
       "75a3c6a285",
       "1c88b7fe35"
      ],
-     "s": "a5e57c4964"
+     "s": "c5bbb8a8d2"
     },
     "Crvena Zvezda": {
      "n": [
@@ -1261,11 +1261,11 @@
     },
     "Efes": {
      "n": [
-      "aec98b302c",
+      "9e8db5addc",
       "4492faa90b",
       "dad5b88c9e"
      ],
-     "s": "debf19e622"
+     "s": "6b2b837c32"
     },
     "Fenerbahce": {
      "n": [

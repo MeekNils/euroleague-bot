@@ -350,7 +350,6 @@
  },
  "news": {
   "seen": [
-   "d2e0e86c0f",
    "ccaf5e242e",
    "c7df6af3d7",
    "9f2949c96d",
@@ -949,7 +948,8 @@
    "615c4db1b7",
    "8194058f15",
    "330e0cba5c",
-   "8edef3391b"
+   "8edef3391b",
+   "43e5d5726c"
   ],
   "started": [
    "Sportando",
@@ -957,10 +957,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Barcelona: Juan Núñez suffers right ankle sprain, expected to miss around 10 days",
-    "2026-10-29T14:25+00:00"
-   ],
    [
     "Sloukas and Rogkavopoulos will miss the game against Anadolu Efes",
     "2026-10-29T16:30+00:00"
@@ -1196,6 +1192,10 @@
    [
     "Euroleague Basketball slaps Partizan and Besiktas with fan misconduct fines",
     "2026-11-12T11:00+00:00"
+   ],
+   [
+    "Tomas Satoransky targets return from scary injury, reflects on NBA years",
+    "2026-11-12T11:25+00:00"
    ]
   ]
  },

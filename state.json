@@ -380,7 +380,6 @@
  },
  "news": {
   "seen": [
-   "d5e7463016",
    "5ced0d88c2",
    "cbbd1c20c8",
    "e1e519ca04",
@@ -979,7 +978,8 @@
    "149fd07782",
    "aa92af106f",
    "6028b53d69",
-   "68fe9501d1"
+   "68fe9501d1",
+   "603411d69d"
   ],
   "started": [
    "Sportando",
@@ -987,10 +987,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Mikael Jantunen injury clouds Real Madrid’s winning streak",
-    "2026-10-30T05:05+00:00"
-   ],
    [
     "Olimpia Milano and Leandro Bolmaro reached an agreement on a contract extension",
     "2026-10-30T07:20+00:00"
@@ -1226,6 +1222,10 @@
    [
     "Dorsey returns to Olympiacos practices, expected to be in the active roster against Aris",
     "2026-11-12T22:10+00:00"
+   ],
+   [
+    "Valanciunas makes history as Zalgiris survives Milan comeback",
+    "2026-11-12T23:25+00:00"
    ]
   ]
  },

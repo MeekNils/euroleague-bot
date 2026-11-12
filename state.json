@@ -350,7 +350,6 @@
  },
  "news": {
   "seen": [
-   "6150ad30b4",
    "9c35374d5c",
    "e0680f7264",
    "f2d03e2bf1",
@@ -949,7 +948,8 @@
    "43e5d5726c",
    "95a5c46516",
    "ad5cca20a1",
-   "91f5659cb2"
+   "91f5659cb2",
+   "178bbbd94c"
   ],
   "started": [
    "Sportando",
@@ -1202,7 +1202,7 @@
  "reports": {
   "euroleague-injury-report-round-11-fantasy": {
    "done": false,
-   "published": "2026-11-12T14:14:24.510Z",
+   "published": "2026-11-12T15:44:01.889Z",
    "round": 11,
    "teams": {
     "ASVEL": {
@@ -1217,11 +1217,11 @@
      "n": [
       "cb679bb53c",
       "fcd8ad9a32",
-      "18b2b44f13",
+      "2882e2718e",
       "0fabd8679b",
       "21a131ff03"
      ],
-     "s": "f6a3555d15"
+     "s": "153edf6b12"
     },
     "Baskonia": {
      "n": [

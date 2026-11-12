@@ -350,7 +350,6 @@
  },
  "news": {
   "seen": [
-   "639c22c140",
    "18a28a1f91",
    "a2891b8aeb",
    "b589060dbd",
@@ -949,7 +948,8 @@
    "86e48e65be",
    "43ce2cb83b",
    "cfcf4be4a1",
-   "fd28ccd80e"
+   "fd28ccd80e",
+   "615c4db1b7"
   ],
   "started": [
    "Sportando",
@@ -1202,7 +1202,7 @@
  "reports": {
   "euroleague-injury-report-round-11-fantasy": {
    "done": false,
-   "published": "2026-11-12T09:23:47.147Z",
+   "published": "2026-11-12T10:45:47.341Z",
    "round": 11,
    "teams": {
     "ASVEL": {
@@ -1346,7 +1346,7 @@
      "n": [
       "e941ec58a2"
      ],
-     "s": "ff40fe61e0"
+     "s": "eadb483b21"
     },
     "Zalgiris": {
      "n": [

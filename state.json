@@ -1202,7 +1202,7 @@
  "reports": {
   "euroleague-injury-report-round-11-fantasy": {
    "done": false,
-   "published": "2026-11-12T13:06:41.653Z",
+   "published": "2026-11-12T14:14:24.510Z",
    "round": 11,
    "teams": {
     "ASVEL": {
@@ -1304,9 +1304,9 @@
     },
     "Panathinaikos": {
      "n": [
-      "e42a8ad4ba"
+      "d799e0247b"
      ],
-     "s": "cdb174fefb"
+     "s": "2b53abdbe0"
     },
     "Paris": {
      "n": [

@@ -350,7 +350,6 @@
  },
  "news": {
   "seen": [
-   "18a28a1f91",
    "a2891b8aeb",
    "b589060dbd",
    "d2e0e86c0f",
@@ -949,7 +948,8 @@
    "43ce2cb83b",
    "cfcf4be4a1",
    "fd28ccd80e",
-   "615c4db1b7"
+   "615c4db1b7",
+   "8194058f15"
   ],
   "started": [
    "Sportando",
@@ -957,10 +957,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Nikola Mirotic sidelined with adductor injury",
-    "2026-10-29T12:10+00:00"
-   ],
    [
     "Barcelona: Juan Núñez suffers right ankle sprain, expected to miss around 10 days",
     "2026-10-29T14:25+00:00"
@@ -1196,6 +1192,10 @@
    [
     "Latest disciplinary sanctions",
     "2026-11-12T09:35+00:00"
+   ],
+   [
+    "Euroleague Basketball slaps Partizan and Besiktas with fan misconduct fines",
+    "2026-11-12T11:00+00:00"
    ]
   ]
  },

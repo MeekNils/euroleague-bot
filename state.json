@@ -380,7 +380,6 @@
  },
  "news": {
   "seen": [
-   "62b539abd1",
    "1101ee0f52",
    "8dcbca3c2c",
    "9ed98be1dc",
@@ -979,7 +978,8 @@
    "632a5eabbb",
    "e588f17af6",
    "fb96b69a21",
-   "fee81efeb2"
+   "fee81efeb2",
+   "5e6b67764a"
   ],
   "started": [
    "Sportando",
@@ -987,10 +987,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Olympiacos, Bartzokas provides injury update: Milutinov and Fournier still being evaluated",
-    "2026-10-29T20:50+00:00"
-   ],
    [
     "Mikael Jantunen injury clouds Real Madrid’s winning streak",
     "2026-10-30T05:05+00:00"
@@ -1226,6 +1222,10 @@
    [
     "Ethan Thompson avoids fracture after fall against Baskonia",
     "2026-11-12T18:30+00:00"
+   ],
+   [
+    "Dorsey returns to Olympiacos practices, expected to be in the active roster against Aris",
+    "2026-11-12T22:10+00:00"
    ]
   ]
  },

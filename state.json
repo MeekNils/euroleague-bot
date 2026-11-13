@@ -380,7 +380,6 @@
  },
  "news": {
   "seen": [
-   "285441d88f",
    "5caea5efe0",
    "11addc4ad7",
    "1d95997df8",
@@ -979,7 +978,8 @@
    "7b7c6c8a92",
    "6c8c4b403d",
    "2d24cbdfcc",
-   "235cc4a848"
+   "235cc4a848",
+   "8e55b1fc8b"
   ],
   "started": [
    "Sportando",
@@ -987,10 +987,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Olimpia Milano and Leandro Bolmaro reached an agreement on a contract extension",
-    "2026-10-30T07:20+00:00"
-   ],
    [
     "Fenerbahce is set to add Dwight Powell to EuroLeague roster",
     "2026-10-30T09:40+00:00"
@@ -1226,6 +1222,10 @@
    [
     "Valanciunas makes history as Zalgiris survives Milan comeback",
     "2026-11-12T23:25+00:00"
+   ],
+   [
+    "Chris Silva leaves Fenerbahce and officially joins Partizan",
+    "2026-11-13T07:55+00:00"
    ]
   ]
  },

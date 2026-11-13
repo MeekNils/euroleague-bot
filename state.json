@@ -380,8 +380,6 @@
  },
  "news": {
   "seen": [
-   "c6f0b473fc",
-   "f455d28541",
    "e8d43e8029",
    "8d1ed213c2",
    "ccb59c8c8b",
@@ -979,7 +977,9 @@
    "8fb10aa718",
    "eb0af3e5b5",
    "0f16922adc",
-   "752fa99d82"
+   "752fa99d82",
+   "a7f0db182f",
+   "dba7fbaa4a"
   ],
   "started": [
    "Sportando",
@@ -987,10 +987,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Olympiacos-Olimpia Milan, Jean Montero out: possible meniscus surgery",
-    "2026-10-30T13:25+00:00"
-   ],
    [
     "Real Madrid’s Théo Maledon suffers right knee sprain",
     "2026-10-30T13:35+00:00"
@@ -1226,6 +1222,10 @@
    [
     "Motorola and Euroleague Basketball Extend Partnership for a Fourth Consecutive Season",
     "2026-11-13T10:25+00:00"
+   ],
+   [
+    "Motorola and Euroleague extend partnership: “Technology brings people closer”",
+    "2026-11-13T11:00+00:00"
    ]
   ]
  },

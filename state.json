@@ -380,7 +380,6 @@
  },
  "news": {
   "seen": [
-   "a308efaec6",
    "c6f0b473fc",
    "f455d28541",
    "e8d43e8029",
@@ -979,7 +978,8 @@
    "18fb24e522",
    "8fb10aa718",
    "eb0af3e5b5",
-   "0f16922adc"
+   "0f16922adc",
+   "752fa99d82"
   ],
   "started": [
    "Sportando",
@@ -987,10 +987,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "EuroLeague releases official injury updates to close two-game week",
-    "2026-10-30T12:10+00:00"
-   ],
    [
     "Olympiacos-Olimpia Milan, Jean Montero out: possible meniscus surgery",
     "2026-10-30T13:25+00:00"
@@ -1226,6 +1222,10 @@
    [
     "Euroleague confirms latest injury updates before final Round 11 games",
     "2026-11-13T09:25+00:00"
+   ],
+   [
+    "Motorola and Euroleague Basketball Extend Partnership for a Fourth Consecutive Season",
+    "2026-11-13T10:25+00:00"
    ]
   ]
  },

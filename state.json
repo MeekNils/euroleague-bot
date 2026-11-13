@@ -1249,7 +1249,7 @@
  },
  "reports": {
   "euroleague-injury-report-round-11-fantasy": {
-   "done": false,
+   "done": true,
    "published": "2026-11-13T08:56:54.804Z",
    "round": 11,
    "teams": {

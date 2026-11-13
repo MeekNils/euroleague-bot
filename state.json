@@ -380,7 +380,6 @@
  },
  "news": {
   "seen": [
-   "e8d43e8029",
    "8d1ed213c2",
    "ccb59c8c8b",
    "d61e80dfcc",
@@ -979,7 +978,8 @@
    "0f16922adc",
    "752fa99d82",
    "a7f0db182f",
-   "dba7fbaa4a"
+   "dba7fbaa4a",
+   "d737249974"
   ],
   "started": [
    "Sportando",
@@ -987,10 +987,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Real Madrid’s Théo Maledon suffers right knee sprain",
-    "2026-10-30T13:35+00:00"
-   ],
    [
     "EuroLeague, scary fall for Tomas Satoransky: Czech guard leaves court on stretcher",
     "2026-10-30T18:45+00:00"
@@ -1226,6 +1222,10 @@
    [
     "Motorola and Euroleague extend partnership: “Technology brings people closer”",
     "2026-11-13T11:00+00:00"
+   ],
+   [
+    "Tyler Dorsey returns to Olympiacos practice after one-month suspension",
+    "2026-11-13T11:15+00:00"
    ]
   ]
  },

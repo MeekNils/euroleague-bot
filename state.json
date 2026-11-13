@@ -380,8 +380,6 @@
  },
  "news": {
   "seen": [
-   "8d1ed213c2",
-   "ccb59c8c8b",
    "d61e80dfcc",
    "69056000ac",
    "43b43f10c4",
@@ -979,7 +977,9 @@
    "752fa99d82",
    "a7f0db182f",
    "dba7fbaa4a",
-   "d737249974"
+   "d737249974",
+   "a7d66010ab",
+   "0c3fd243ad"
   ],
   "started": [
    "Sportando",
@@ -987,10 +987,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "EuroLeague, scary fall for Tomas Satoransky: Czech guard leaves court on stretcher",
-    "2026-10-30T18:45+00:00"
-   ],
    [
     "Lonnie Walker erupts for a EuroLeague career high in Besiktas’ comeback win",
     "2026-10-30T22:05+00:00"
@@ -1226,6 +1222,10 @@
    [
     "Tyler Dorsey returns to Olympiacos practice after one-month suspension",
     "2026-11-13T11:15+00:00"
+   ],
+   [
+    "Kenneth Faried out as Baskonia injury woes continue mounting",
+    "2026-11-13T12:20+00:00"
    ]
   ]
  },

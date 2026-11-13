@@ -380,8 +380,6 @@
  },
  "news": {
   "seen": [
-   "b2e78c4e74",
-   "b8bbf9fdfe",
    "39c6fa3185",
    "b9c83910f0",
    "97f99573db",
@@ -979,7 +977,9 @@
    "77ae611679",
    "a495244a24",
    "acf4af68ed",
-   "dc736180b4"
+   "dc736180b4",
+   "5541072e9b",
+   "474abdbb00"
   ],
   "started": [
    "Sportando",
@@ -987,10 +987,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Lonnie Walker erupts for a EuroLeague career high in Besiktas’ comeback win",
-    "2026-10-30T22:05+00:00"
-   ],
    [
     "Tomas Satoransky breaks silence following EuroLeague injury scare in Dubai",
     "2026-10-31T11:05+00:00"
@@ -1226,6 +1222,10 @@
    [
     "Kenneth Faried out as Baskonia injury woes continue mounting",
     "2026-11-13T12:20+00:00"
+   ],
+   [
+    "Barcelona, Sekulic: “With our injury problems, other players have to step up”",
+    "2026-11-13T14:15+00:00"
    ]
   ]
  },

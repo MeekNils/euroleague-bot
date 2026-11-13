@@ -398,9 +398,6 @@
  },
  "news": {
   "seen": [
-   "f0f6996539",
-   "006ccff579",
-   "74e94c6be4",
    "57505d450a",
    "b983a799e9",
    "2159c4aefd",
@@ -997,7 +994,10 @@
    "e76031345c",
    "957d8cc503",
    "c831ca01b3",
-   "d02e9e0fb7"
+   "d02e9e0fb7",
+   "f54418d39b",
+   "7c962d4029",
+   "e2df036250"
   ],
   "started": [
    "Sportando",
@@ -1005,14 +1005,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Tomas Satoransky breaks silence following EuroLeague injury scare in Dubai",
-    "2026-10-31T11:05+00:00"
-   ],
-   [
-    "Marinkovic is back for Partizan, Willis and Jekiri eye November returns",
-    "2026-10-31T11:30+00:00"
-   ],
    [
     "Oded Kattash on Killian Hayes: “We agreed to all his conditions”",
     "2026-10-31T18:05+00:00"
@@ -1244,6 +1236,14 @@
    [
     "Barcelona, Sekulic: “With our injury problems, other players have to step up”",
     "2026-11-13T14:15+00:00"
+   ],
+   [
+    "NovaSports bombshell | Three-team trade in the works, with Dorsey and Guduric involved? The latest market rumor…",
+    "2026-11-13T21:00+00:00"
+   ],
+   [
+    "Pablo Laso on Bruno Fernando’s injury: “I can’t say anything without MRI, he told me he’s fine”",
+    "2026-11-13T21:00+00:00"
    ]
   ]
  },

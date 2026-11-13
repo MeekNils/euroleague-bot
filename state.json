@@ -380,7 +380,6 @@
  },
  "news": {
   "seen": [
-   "d298cf398e",
    "7b1e71f060",
    "a308efaec6",
    "c6f0b473fc",
@@ -979,7 +978,8 @@
    "8e55b1fc8b",
    "39cf8ccaf5",
    "18fb24e522",
-   "8fb10aa718"
+   "8fb10aa718",
+   "eb0af3e5b5"
   ],
   "started": [
    "Sportando",
@@ -987,10 +987,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Fenerbahce is set to add Dwight Powell to EuroLeague roster",
-    "2026-10-30T09:40+00:00"
-   ],
    [
     "EuroLeague releases official injury updates to close two-game week",
     "2026-10-30T12:10+00:00"
@@ -1226,6 +1222,10 @@
    [
     "Chris Silva leaves Fenerbahce and officially joins Partizan",
     "2026-11-13T07:55+00:00"
+   ],
+   [
+    "Euroleague confirms latest injury updates before final Round 11 games",
+    "2026-11-13T09:25+00:00"
    ]
   ]
  },

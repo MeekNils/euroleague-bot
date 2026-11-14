@@ -398,22 +398,6 @@
  },
  "news": {
   "seen": [
-   "3e29cb5c03",
-   "5656ee47d2",
-   "34dadc48d9",
-   "66d5a26376",
-   "a5207b1287",
-   "b71457573b",
-   "f8953e0b7f",
-   "78fc0eeaac",
-   "7c048b1c21",
-   "1be2f68504",
-   "6f7a77fde5",
-   "7f4107ce11",
-   "1e070ba9b2",
-   "afd295e11e",
-   "5013ce072d",
-   "35875d30a6",
    "268a56e5bd",
    "42204c85b8",
    "10fccc2eef",
@@ -997,7 +981,23 @@
    "bab300246d",
    "53409b312f",
    "312c440f9c",
-   "5bbaa404ca"
+   "5bbaa404ca",
+   "25b45849ad",
+   "08473a8b0a",
+   "65591a5de3",
+   "edaa627f9b",
+   "5aac4c1f8a",
+   "2c9f6160ac",
+   "57d34ec104",
+   "0f4b33f0aa",
+   "fde898c75e",
+   "e1809e7a09",
+   "98ac38f53f",
+   "94dc8faafa",
+   "961a10981c",
+   "f2085af0fb",
+   "af327e35b7",
+   "50c4563177"
   ],
   "started": [
    "Sportando",
@@ -1005,22 +1005,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Real Madrid’s Facundo Campazzo suffers muscle injury: tests pending",
-    "2026-11-02T11:30+00:00"
-   ],
-   [
-    "Claudio Coldebella shuts down coaching rumors: “I take full responsibility”",
-    "2026-11-02T13:00+00:00"
-   ],
-   [
-    "Chris Duarte expected to return against Fenerbahce",
-    "2026-11-02T16:25+00:00"
-   ],
-   [
-    "Baskonia reportedly targeting Zach Perrin and Ignas Brazdeikis",
-    "2026-11-02T17:15+00:00"
-   ],
    [
     "Real Madrid, Campazzo out indefinitely: coach Martinez offers no return timeline",
     "2026-11-03T13:30+00:00"
@@ -1244,6 +1228,22 @@
    [
     "Olimpia Milano make moves in the transfer market: Lester Quiñones emerges as a target, Onyema closing in",
     "2026-11-14T09:31+00:00"
+   ],
+   [
+    "Anadolu Efes’ Bruno Fernando sidelined for 3-4 weeks with calf injury",
+    "2026-11-14T16:02+00:00"
+   ],
+   [
+    "Fenerbahce set to face Maccabi and Hapoel at Munich",
+    "2026-11-14T16:02+00:00"
+   ],
+   [
+    "Nikola Milutinov to miss EuroLeague game versus Maccabi in Cyprus",
+    "2026-11-14T16:02+00:00"
+   ],
+   [
+    "Kenneth Faried adds to Baskonia injury problems",
+    "2026-11-14T16:02+00:00"
    ]
   ]
  },
@@ -3003,7 +3003,7 @@
   "E2026_11"
  ],
  "schedule": {
-  "checked": "2026-11-14T09:31:43+00:00",
+  "checked": "2026-11-14T16:02:02+00:00",
   "rounds": [
    12
   ],

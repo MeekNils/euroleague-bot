@@ -398,17 +398,6 @@
  },
  "news": {
   "seen": [
-   "d0dd2135c2",
-   "e274341973",
-   "f7451ab427",
-   "c05ffb415f",
-   "1461687f2c",
-   "6a91b5c055",
-   "8c8547280d",
-   "35c31fa3aa",
-   "bcf7c63a04",
-   "298d1b8e4d",
-   "ecfcbbb743",
    "3e29cb5c03",
    "5656ee47d2",
    "34dadc48d9",
@@ -997,7 +986,18 @@
    "8649119080",
    "48f870274f",
    "de7d918745",
-   "aa36323e2a"
+   "aa36323e2a",
+   "52f78b54fb",
+   "61563629c3",
+   "bf04f351c9",
+   "0a58c89ba3",
+   "0bf68686c0",
+   "43bf77b468",
+   "f627706e66",
+   "bab300246d",
+   "53409b312f",
+   "312c440f9c",
+   "5bbaa404ca"
   ],
   "started": [
    "Sportando",
@@ -1005,10 +1005,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Oded Kattash on Killian Hayes: “We agreed to all his conditions”",
-    "2026-10-31T18:05+00:00"
-   ],
    [
     "Real Madrid’s Facundo Campazzo suffers muscle injury: tests pending",
     "2026-11-02T11:30+00:00"
@@ -1244,6 +1240,10 @@
    [
     "Pablo Laso on Bruno Fernando’s injury: “I can’t say anything without MRI, he told me he’s fine”",
     "2026-11-13T21:00+00:00"
+   ],
+   [
+    "Olimpia Milano make moves in the transfer market: Lester Quiñones emerges as a target, Onyema closing in",
+    "2026-11-14T09:31+00:00"
    ]
   ]
  },
@@ -3003,7 +3003,7 @@
   "E2026_11"
  ],
  "schedule": {
-  "checked": "2026-11-14T02:46:40+00:00",
+  "checked": "2026-11-14T09:31:43+00:00",
   "rounds": [
    12
   ],

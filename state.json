@@ -398,19 +398,6 @@
  },
  "news": {
   "seen": [
-   "4914831b64",
-   "60a6b12036",
-   "b591dd5d04",
-   "8245a05366",
-   "49ddbe6679",
-   "1ea74de131",
-   "9d0e27a560",
-   "788b868011",
-   "710068f188",
-   "0e8a308e25",
-   "16bb1a055f",
-   "b7ad61f555",
-   "71e6ec9db1",
    "9f9923a649",
    "dc1f3c0bfd",
    "933cb4b0bb",
@@ -997,7 +984,20 @@
    "ba8aebc302",
    "f714b290a6",
    "0a1e6f44f0",
-   "5237421823"
+   "5237421823",
+   "850acabc89",
+   "c8e0122e38",
+   "3ac069b7dc",
+   "b98e8c8468",
+   "a47c76ad1f",
+   "609153746a",
+   "82369355a8",
+   "a7ec8765ef",
+   "a16e279f3a",
+   "08c4007b69",
+   "4aeeae7c59",
+   "e423234ae2",
+   "31a56965e7"
   ],
   "started": [
    "Sportando",
@@ -1005,22 +1005,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Panathinaikos reportedly make a move for Virtus Bologna’s Aliou Diarra",
-    "2026-11-03T14:55+00:00"
-   ],
-   [
-    "Olympiacos, Jean Montero undergoes knee surgery and faces lengthy absence",
-    "2026-11-04T11:05+00:00"
-   ],
-   [
-    "Olimpia Milan, Devin Booker suffers tendon injury: recovery timetable pending",
-    "2026-11-04T14:15+00:00"
-   ],
-   [
-    "Hapoel Tel Aviv reportedly makes move for Tyler Dorsey",
-    "2026-11-05T13:50+00:00"
-   ],
    [
     "Navarro leaves Motley in Belgrade, Koloko in the team for Olympiacos",
     "2026-11-05T15:50+00:00"
@@ -1244,6 +1228,22 @@
    [
     "John Konchar considering leaving Olympiacos",
     "2026-11-15T00:16+00:00"
+   ],
+   [
+    "Virtus Bologna, Abass move on hold as club explores Achille Lonati option",
+    "2026-11-15T14:22+00:00"
+   ],
+   [
+    "Dubai, Thomas Walkup returns to action against Spartak Subotica",
+    "2026-11-15T14:22+00:00"
+   ],
+   [
+    "Kamar Baldwin arrives in Israel: set to make his debut against Olympiacos",
+    "2026-11-15T14:22+00:00"
+   ],
+   [
+    "Real Madrid recalls Eli Ndiaye from his loan at Joventut",
+    "2026-11-15T14:22+00:00"
    ]
   ]
  },
@@ -3003,7 +3003,7 @@
   "E2026_11"
  ],
  "schedule": {
-  "checked": "2026-11-15T06:49:34+00:00",
+  "checked": "2026-11-15T14:22:15+00:00",
   "rounds": [
    12
   ],

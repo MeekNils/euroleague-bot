@@ -398,8 +398,6 @@
  },
  "news": {
   "seen": [
-   "bfae872fc5",
-   "0ddef33da8",
    "4914831b64",
    "60a6b12036",
    "b591dd5d04",
@@ -997,7 +995,9 @@
    "50c4563177",
    "e4c9665916",
    "ba8aebc302",
-   "f714b290a6"
+   "f714b290a6",
+   "0a1e6f44f0",
+   "5237421823"
   ],
   "started": [
    "Sportando",
@@ -1005,10 +1005,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Real Madrid, Campazzo out indefinitely: coach Martinez offers no return timeline",
-    "2026-11-03T13:30+00:00"
-   ],
    [
     "Panathinaikos reportedly make a move for Virtus Bologna’s Aliou Diarra",
     "2026-11-03T14:55+00:00"
@@ -1244,6 +1240,10 @@
    [
     "Kenneth Faried adds to Baskonia injury problems",
     "2026-11-14T16:02+00:00"
+   ],
+   [
+    "John Konchar considering leaving Olympiacos",
+    "2026-11-15T00:16+00:00"
    ]
   ]
  },
@@ -3003,7 +3003,7 @@
   "E2026_11"
  ],
  "schedule": {
-  "checked": "2026-11-14T16:02:02+00:00",
+  "checked": "2026-11-15T00:16:58+00:00",
   "rounds": [
    12
   ],

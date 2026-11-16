@@ -398,21 +398,6 @@
  },
  "news": {
   "seen": [
-   "b653ac83c8",
-   "4ff022d192",
-   "4bbd23cfdb",
-   "97244ee3c9",
-   "1e35287e05",
-   "e1942fc532",
-   "847f8fee3e",
-   "580ff6d000",
-   "595390b7a0",
-   "77d6709366",
-   "6353650323",
-   "df9131da12",
-   "4c26dc94a5",
-   "80d43d3167",
-   "f09fdd05f5",
    "b6a21258ab",
    "62a6e71bcc",
    "c3f1e22b46",
@@ -997,7 +982,22 @@
    "6e29a04faf",
    "835910470c",
    "ecc9de7cf0",
-   "4b43321b18"
+   "4b43321b18",
+   "7ed2dda204",
+   "58890c874b",
+   "6334d165fa",
+   "64cdbc92bb",
+   "1fa82ccfa6",
+   "0284d92592",
+   "44e4eb7839",
+   "586a8af2c2",
+   "7872cc29bf",
+   "ede402dbe2",
+   "2771113e7a",
+   "4be74c7d26",
+   "5bcfe98523",
+   "6c440562cf",
+   "68ea9abb0f"
   ],
   "started": [
    "Sportando",
@@ -1005,14 +1005,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Navarro leaves Motley in Belgrade, Koloko in the team for Olympiacos",
-    "2026-11-05T15:50+00:00"
-   ],
-   [
-    "Devin Booker to miss three months as Milano enters the market",
-    "2026-11-06T15:25+00:00"
-   ],
    [
     "Kevarrius Hayes is reportedly set to miss the clash against Maccabi",
     "2026-11-06T15:40+00:00"
@@ -1244,6 +1236,14 @@
    [
     "Real Madrid recalls Eli Ndiaye from his loan at Joventut",
     "2026-11-15T14:22+00:00"
+   ],
+   [
+    "Dubai Basketball signs Marcelinho Huertas through the end of the season",
+    "2026-11-16T11:08+00:00"
+   ],
+   [
+    "Nicolo Melli faces possible surgery, Braxton Key sustains finger injury",
+    "2026-11-16T11:08+00:00"
    ]
   ]
  },
@@ -3003,7 +3003,7 @@
   "E2026_11"
  ],
  "schedule": {
-  "checked": "2026-11-15T23:38:17+00:00",
+  "checked": "2026-11-16T11:08:48+00:00",
   "rounds": [
    12,
    13

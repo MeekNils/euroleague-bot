@@ -398,38 +398,6 @@
  },
  "news": {
   "seen": [
-   "b6a21258ab",
-   "62a6e71bcc",
-   "c3f1e22b46",
-   "6ce96124d0",
-   "a7276dcad3",
-   "5550b79ef6",
-   "1929a831c4",
-   "131525693d",
-   "5e231d6ccd",
-   "1ec367f3bf",
-   "7739ed2c57",
-   "ba7b9a6510",
-   "ccc81c62ca",
-   "783b9f7640",
-   "b4016d8b6d",
-   "057f02b918",
-   "217a67e887",
-   "bc1a5ee088",
-   "8ca32802c4",
-   "4b107c3b42",
-   "01146e3be0",
-   "a76c68b335",
-   "d692c93e75",
-   "669e5ff85f",
-   "59aaeaf1fc",
-   "f557d4b3fd",
-   "2e4bc9e9ac",
-   "ea95f7377c",
-   "89cf2ea162",
-   "bc136fddfd",
-   "08dfb848f8",
-   "d0e45d8fa1",
    "5ba212e0b1",
    "7c5cc93513",
    "a760b93098",
@@ -997,7 +965,39 @@
    "4be74c7d26",
    "5bcfe98523",
    "6c440562cf",
-   "68ea9abb0f"
+   "68ea9abb0f",
+   "da5b1e72fa",
+   "de7aed561b",
+   "1315e77a6b",
+   "f5967ceca6",
+   "7422394005",
+   "8d0386d3bb",
+   "2ed3aa8cf3",
+   "99857f374a",
+   "08b33c131b",
+   "e0a42c8a75",
+   "fdb7e09429",
+   "434218b8c7",
+   "68f70fba5d",
+   "fbccd393e6",
+   "9d73e5d73f",
+   "ad2279c2e5",
+   "7c92acdf38",
+   "e94c502c31",
+   "ea64dc8c4f",
+   "38bba06f4b",
+   "8c365ce4dc",
+   "d1b165a762",
+   "ac6102ec8f",
+   "97579ce103",
+   "ec6a392c53",
+   "ba8c4080b9",
+   "bd411fc05f",
+   "4c4be88f2c",
+   "1733a8ecad",
+   "052897de22",
+   "d4517ff37c",
+   "31fb233405"
   ],
   "started": [
    "Sportando",
@@ -1005,18 +1005,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Kevarrius Hayes is reportedly set to miss the clash against Maccabi",
-    "2026-11-06T15:40+00:00"
-   ],
-   [
-    "Zalgiris storms past Besiktas, extends win-streak to 4",
-    "2026-11-06T20:50+00:00"
-   ],
-   [
-    "Alimpijevic cuts short timeout question after Besiktas defeat: “Next question, please?”",
-    "2026-11-06T21:25+00:00"
-   ],
    [
     "Zvezda's defensive wall leaves Olympiacos stunned",
     "2026-11-06T22:10+00:00"
@@ -1244,6 +1232,18 @@
    [
     "Nicolo Melli faces possible surgery, Braxton Key sustains finger injury",
     "2026-11-16T11:08+00:00"
+   ],
+   [
+    "Partizan registers Chris Silva in EuroLeague, replacing Joffrey Lauvergne",
+    "2026-11-16T20:59+00:00"
+   ],
+   [
+    "Kyle Hines breaks down potential EuroLeague three-team move: “Dorsey can take charge of Olimpia”",
+    "2026-11-16T20:59+00:00"
+   ],
+   [
+    "Silva reportedly set to replace Lauvergne on Partizan’s EuroLeague roster",
+    "2026-11-16T20:59+00:00"
    ]
   ]
  },
@@ -1871,6 +1871,190 @@
       "6e41473cec"
      ],
      "s": "1b32c7b1eb"
+    }
+   }
+  },
+  "injury-report-round-12-fantasy-el2627": {
+   "done": false,
+   "published": "2026-11-16T17:15:21.889Z",
+   "round": 12,
+   "teams": {
+    "ASVEL": {
+     "n": [
+      "671ecb30b9",
+      "fe2588e14a",
+      "6fd7eaae00",
+      "daa60122de",
+      "1f64533a08"
+     ],
+     "s": "54e6d2954b"
+    },
+    "Barcelona": {
+     "n": [
+      "7db3c80b1c",
+      "1a21c653d3",
+      "e462581743",
+      "cf70f9dfbe",
+      "21a131ff03"
+     ],
+     "s": "871e2418fb"
+    },
+    "Baskonia": {
+     "n": [
+      "44fe1c63ae",
+      "661189075d",
+      "585c15f1f0",
+      "b047885ef7",
+      "d576c32779",
+      "9e5f831b73"
+     ],
+     "s": "333ab6935d"
+    },
+    "Bayern": {
+     "n": [
+      "94f35e4cee",
+      "159d492d95",
+      "9512e3cf29"
+     ],
+     "s": "e3812031d0"
+    },
+    "Besiktas": {
+     "n": [
+      "668705c47f",
+      "5dd26f001a",
+      "09649ea31a"
+     ],
+     "s": "7744006189"
+    },
+    "Crvena Zvezda": {
+     "n": [
+      "516aa468af",
+      "9486bb6f15",
+      "7dadfc46e1",
+      "1632222763"
+     ],
+     "s": "74ec61242e"
+    },
+    "Dubai": {
+     "n": [
+      "075ed1e07b",
+      "244066a788",
+      "47f8cc9b0b"
+     ],
+     "s": "c511c50d63"
+    },
+    "Efes": {
+     "n": [
+      "afbc84c3f7",
+      "a3cd60d162",
+      "4492faa90b",
+      "dad5b88c9e"
+     ],
+     "s": "b8a340990c"
+    },
+    "Fenerbahce": {
+     "n": [
+      "145b7755cc",
+      "0b98a8f56e",
+      "d97617073b"
+     ],
+     "s": "256728bcb1"
+    },
+    "Hapoel": {
+     "n": [
+      "a1678d4f29",
+      "9cff8ecc6c",
+      "795f9383bd",
+      "e1084def2c",
+      "a3b377b8bb"
+     ],
+     "s": "53c96822f2"
+    },
+    "Maccabi": {
+     "n": [
+      "0d17f7a331"
+     ],
+     "s": "fc30517d0b"
+    },
+    "Milan": {
+     "n": [
+      "f936e1ee09"
+     ],
+     "s": "8ae39a34c1"
+    },
+    "Olympiacos": {
+     "n": [
+      "69dd11bd14",
+      "3d06628c6c",
+      "fbd7eb6de1",
+      "af6ef371a8",
+      "faaf809342",
+      "2658dfd417"
+     ],
+     "s": "8a7c588788"
+    },
+    "Panathinaikos": {
+     "n": [
+      "20d0c9875c",
+      "446ea316d5",
+      "85bf043432",
+      "6c4c0c25c6"
+     ],
+     "s": "82dfc92c5a"
+    },
+    "Paris": {
+     "n": [
+      "6c4df26ce9",
+      "bfa298b70e",
+      "d3354b1dfe"
+     ],
+     "s": "4d4bd111a6"
+    },
+    "Partizan": {
+     "n": [
+      "c06248d4d1",
+      "bdf0e5dabe",
+      "ef5005771e",
+      "db08cea4e5",
+      "427c4de29e",
+      "704a45ed7f"
+     ],
+     "s": "028afcc711"
+    },
+    "Real Madrid": {
+     "n": [
+      "4b3cf42f7b",
+      "fd43fa5121",
+      "c816a2c801",
+      "67a2f118b7",
+      "2264b6f139"
+     ],
+     "s": "54d349d832"
+    },
+    "Valencia": {
+     "n": [
+      "2f5fce74e3",
+      "87f300004d",
+      "15d4e6e9a6"
+     ],
+     "s": "d0274464e3"
+    },
+    "Virtus": {
+     "n": [
+      "4e37d17c72",
+      "f65da102cd",
+      "232b40dd16"
+     ],
+     "s": "f90b82904f"
+    },
+    "Zalgiris": {
+     "n": [
+      "6e41473cec",
+      "0c67931485",
+      "b9db063ea1",
+      "ad8a2f1bbd"
+     ],
+     "s": "45c067dc97"
     }
    }
   },
@@ -2812,181 +2996,6 @@
     }
    }
   },
-  "pregame-quotes-and-injury-report-round-2-ec2627": {
-   "done": true,
-   "published": "2026-10-07T14:41:36.987Z",
-   "round": 2,
-   "teams": {
-    "Alessandro Magro, Roma head coach": {
-     "n": [],
-     "s": "b4549618e2"
-    },
-    "Andrea Trinchieri, PAOK head coach": {
-     "n": [],
-     "s": "df7f4c330f"
-    },
-    "Andrej Zakelj, Buducnost head coach": {
-     "n": [],
-     "s": "013c011298"
-    },
-    "Arturs Strautins, Roma forward": {
-     "n": [],
-     "s": "5fd9141ae4"
-    },
-    "Benjamin Shungu, Riga Zelli guard": {
-     "n": [],
-     "s": "be23b61b9f"
-    },
-    "Bruno Fitipaldo, Tenerife guard": {
-     "n": [],
-     "s": "51a326d7ab"
-    },
-    "Chase Audige, Burgos guard": {
-     "n": [],
-     "s": "da5ad72702"
-    },
-    "Devontae Cacok, Jerusalem center": {
-     "n": [],
-     "s": "a57759ae57"
-    },
-    "Dwayne Koroma, Ulm forward": {
-     "n": [],
-     "s": "815a1a45a5"
-    },
-    "Erick Green, Reyer guard": {
-     "n": [],
-     "s": "8cdef21ef5"
-    },
-    "Fabio Bongi, Trento assistant coach": {
-     "n": [],
-     "s": "f9ed556fe3"
-    },
-    "Frankfurt injury report:": {
-     "n": [],
-     "s": "dbec87f6eb"
-    },
-    "Frederic Fauthoux, Bourg head coach": {
-     "n": [],
-     "s": "5f413a9dab"
-    },
-    "Giordano Bortolani, Derthona guard": {
-     "n": [],
-     "s": "ed98644a35"
-    },
-    "Guillaume Vizade, Le Mans head coach": {
-     "n": [],
-     "s": "3bbc441d8f"
-    },
-    "Isaiah Bigelow, Trento forward": {
-     "n": [],
-     "s": "e58a6099bb"
-    },
-    "Jeremiah Robinson-Earl, Aris forward": {
-     "n": [],
-     "s": "1c925ef9ff"
-    },
-    "Jerusalem injury report:": {
-     "n": [],
-     "s": "db7d3c4c02"
-    },
-    "Juwan Morgan, Buducnost forward": {
-     "n": [],
-     "s": "cdede9e992"
-    },
-    "Klaus Perwas, Frankfurt head coach": {
-     "n": [],
-     "s": "5e1c046737"
-    },
-    "Lionel Gaudoux, Bourg center": {
-     "n": [],
-     "s": "fb145d9f3a"
-    },
-    "Malcolm Hill, Cluj guard": {
-     "n": [],
-     "s": "18899ee4c2"
-    },
-    "Mario Fioretti, Derthona head coach": {
-     "n": [],
-     "s": "8aa1544c45"
-    },
-    "Massimo Cancellieri, Tofas head coach": {
-     "n": [],
-     "s": "7bbd8df242"
-    },
-    "Mihai Silvasan, Cluj head coach": {
-     "n": [],
-     "s": "3b8d73cee5"
-    },
-    "Neven Spahija, Reyer head coach": {
-     "n": [],
-     "s": "ceee8a1c61"
-    },
-    "Noah Kirkwood, Cedevita Olimpija forward": {
-     "n": [],
-     "s": "27c7b8ffa2"
-    },
-    "Porfi Fisac, Burgos head coach": {
-     "n": [],
-     "s": "7d9314d01a"
-    },
-    "Przemyslaw Frasunkiewicz, Rostock head coach": {
-     "n": [],
-     "s": "a5848d0a46"
-    },
-    "Reyer injury report:": {
-     "n": [],
-     "s": "b978a885f6"
-    },
-    "Robin Amaize, Rostock forward": {
-     "n": [],
-     "s": "f1ca770aa0"
-    },
-    "Rok Radovic, Cedevita Olimpija forward": {
-     "n": [],
-     "s": "df541a14f0"
-    },
-    "Rokas Kondratavicius, Riga Zelli head coach": {
-     "n": [],
-     "s": "da51878d66"
-    },
-    "Sasa Obradovic, Jerusalem head coach": {
-     "n": [],
-     "s": "aa7a9196be"
-    },
-    "Tenerife injury report:": {
-     "n": [],
-     "s": "2ed7a987d2"
-    },
-    "Till Pape, Frankfurt forward": {
-     "n": [],
-     "s": "3356cf084c"
-    },
-    "Trevor Hudgins, PAOK guard": {
-     "n": [],
-     "s": "2b97c769fb"
-    },
-    "Ty Harrelson, Ulm head coach": {
-     "n": [],
-     "s": "af83243031"
-    },
-    "Ugo Doumbia Niang, Le Mans guard": {
-     "n": [],
-     "s": "a366fbfa91"
-    },
-    "Vassilis Spanoulis, Aris head coach": {
-     "n": [],
-     "s": "991afe85fc"
-    },
-    "Zach Nutall, Tofas guard": {
-     "n": [],
-     "s": "a24508d68a"
-    },
-    "Zvezdan Mitrovic, Cedevita Olimpija head coach": {
-     "n": [],
-     "s": "eceb3e1d8c"
-    }
-   }
-  },
   "pregame-quotes-injury-report-round-3-ec2627": {
    "done": true,
    "published": "2026-10-12T11:39:42.874Z",
@@ -3003,7 +3012,7 @@
   "E2026_11"
  ],
  "schedule": {
-  "checked": "2026-11-16T11:08:48+00:00",
+  "checked": "2026-11-16T20:59:51+00:00",
   "rounds": [
    12,
    13

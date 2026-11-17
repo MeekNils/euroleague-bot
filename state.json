@@ -398,8 +398,6 @@
  },
  "news": {
   "seen": [
-   "5ba212e0b1",
-   "7c5cc93513",
    "a760b93098",
    "277ccad398",
    "c9d425f53b",
@@ -997,7 +995,9 @@
    "1733a8ecad",
    "052897de22",
    "d4517ff37c",
-   "31fb233405"
+   "31fb233405",
+   "7524d64396",
+   "5be5292793"
   ],
   "started": [
    "Sportando",
@@ -1005,10 +1005,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Zvezda's defensive wall leaves Olympiacos stunned",
-    "2026-11-06T22:10+00:00"
-   ],
    [
     "Partizan, Penarroya: “We played as a team despite the injuries”",
     "2026-11-07T10:20+00:00"
@@ -1244,6 +1240,10 @@
    [
     "Silva reportedly set to replace Lauvergne on Partizan’s EuroLeague roster",
     "2026-11-16T20:59+00:00"
+   ],
+   [
+    "Killian Hayes reportedly has a deal with FC Barcelona",
+    "2026-11-17T03:39+00:00"
    ]
   ]
  },
@@ -3012,7 +3012,7 @@
   "E2026_11"
  ],
  "schedule": {
-  "checked": "2026-11-16T20:59:51+00:00",
+  "checked": "2026-11-17T03:39:59+00:00",
   "rounds": [
    12,
    13

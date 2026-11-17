@@ -398,27 +398,6 @@
  },
  "news": {
   "seen": [
-   "5cf5c3bdb4",
-   "0b00944076",
-   "c82fd67e5c",
-   "8a24b41251",
-   "de15049896",
-   "c449df8f6c",
-   "cea289368e",
-   "415b6d5f83",
-   "f20d41c3b6",
-   "850475706f",
-   "4e260d681d",
-   "6e6d507ba7",
-   "4319336d5e",
-   "b9dfd514b3",
-   "2b70ef5797",
-   "5e91e27e92",
-   "9e32818285",
-   "41d43b7841",
-   "9c6cf7608c",
-   "f61f80b00a",
-   "5abbae3423",
    "9be40f0bdb",
    "918672d1cb",
    "0a3b616a6d",
@@ -997,7 +976,28 @@
    "62d6f10734",
    "2d4499d023",
    "1393d60f09",
-   "151823b00d"
+   "151823b00d",
+   "cfdb6d0d82",
+   "1918d9e575",
+   "35883a531b",
+   "bab2f9f659",
+   "111e0b2f9f",
+   "08a9ccf255",
+   "21c4d7304e",
+   "197767b084",
+   "1a0d3441cb",
+   "2ee96bd314",
+   "01c1c3b40e",
+   "9918df3e11",
+   "39612490b8",
+   "39d61bc183",
+   "52e9cdd755",
+   "fa99e99d01",
+   "ee654677de",
+   "498f0e6503",
+   "575a27ff23",
+   "793e0e726f",
+   "cf4904e301"
   ],
   "started": [
    "Sportando",
@@ -1005,14 +1005,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Pierria Henry close to returning to the EuroLeague and signing with Maccabi",
-    "2026-11-07T12:35+00:00"
-   ],
-   [
-    "Luca Banchi-Olimpia Milano, agreement with Italbasket: all the details",
-    "2026-11-07T16:50+00:00"
-   ],
    [
     "EuroLeague, Hapoel Tel Aviv set to receive a franchise license",
     "2026-11-08T09:15+00:00"
@@ -1244,6 +1236,14 @@
    [
     "Virtus Bologna reached an agreement with Achille Lonati",
     "2026-11-17T12:28+00:00"
+   ],
+   [
+    "Olympiacos, Tyler Dorsey shares another cryptic social media message; he will miss the Maccabi game",
+    "2026-11-17T21:15+00:00"
+   ],
+   [
+    "Theo Maledon returns but Pedro Martinez cautions: “Without rushing things”",
+    "2026-11-17T21:15+00:00"
    ]
   ]
  },
@@ -1876,7 +1876,7 @@
   },
   "injury-report-round-12-fantasy-el2627": {
    "done": false,
-   "published": "2026-11-17T09:29:42.885Z",
+   "published": "2026-11-17T14:12:59.020Z",
    "round": 12,
    "teams": {
     "ASVEL": {
@@ -1916,15 +1916,15 @@
       "159d492d95",
       "9512e3cf29"
      ],
-     "s": "e3812031d0"
+     "s": "45f6f817d5"
     },
     "Besiktas": {
      "n": [
       "668705c47f",
-      "5dd26f001a",
+      "f34d1d3ba0",
       "09649ea31a"
      ],
-     "s": "7744006189"
+     "s": "29c8228475"
     },
     "Crvena Zvezda": {
      "n": [
@@ -3009,10 +3009,11 @@
   "E2026_8",
   "E2026_9",
   "E2026_10",
-  "E2026_11"
+  "E2026_11",
+  "E2026_12"
  ],
  "schedule": {
-  "checked": "2026-11-17T12:28:55+00:00",
+  "checked": "2026-11-17T21:15:20+00:00",
   "rounds": [
    12,
    13

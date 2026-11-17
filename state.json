@@ -398,19 +398,6 @@
  },
  "news": {
   "seen": [
-   "a760b93098",
-   "277ccad398",
-   "c9d425f53b",
-   "4b29ca1d8e",
-   "ac0647241f",
-   "c6dd17e976",
-   "f2d5eba355",
-   "632510111a",
-   "2be564fff1",
-   "04db9357af",
-   "d5d77cbf73",
-   "bb14d16490",
-   "476a952036",
    "5cf5c3bdb4",
    "0b00944076",
    "c82fd67e5c",
@@ -997,7 +984,20 @@
    "d4517ff37c",
    "31fb233405",
    "7524d64396",
-   "5be5292793"
+   "5be5292793",
+   "67fa0ec72e",
+   "49807bb772",
+   "5ae3a5246d",
+   "5447b38c0e",
+   "565fb082bc",
+   "722754d47a",
+   "ee838d4bb9",
+   "52ca829e6f",
+   "f63f05ee1b",
+   "62d6f10734",
+   "2d4499d023",
+   "1393d60f09",
+   "151823b00d"
   ],
   "started": [
    "Sportando",
@@ -1005,10 +1005,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Partizan, Penarroya: “We played as a team despite the injuries”",
-    "2026-11-07T10:20+00:00"
-   ],
    [
     "Pierria Henry close to returning to the EuroLeague and signing with Maccabi",
     "2026-11-07T12:35+00:00"
@@ -1244,6 +1240,10 @@
    [
     "Killian Hayes reportedly has a deal with FC Barcelona",
     "2026-11-17T03:39+00:00"
+   ],
+   [
+    "Virtus Bologna reached an agreement with Achille Lonati",
+    "2026-11-17T12:28+00:00"
    ]
   ]
  },
@@ -1876,7 +1876,7 @@
   },
   "injury-report-round-12-fantasy-el2627": {
    "done": false,
-   "published": "2026-11-16T17:15:21.889Z",
+   "published": "2026-11-17T09:29:42.885Z",
    "round": 12,
    "teams": {
     "ASVEL": {
@@ -1897,7 +1897,7 @@
       "cf70f9dfbe",
       "21a131ff03"
      ],
-     "s": "871e2418fb"
+     "s": "5ecc5061a4"
     },
     "Baskonia": {
      "n": [
@@ -1968,7 +1968,7 @@
       "e1084def2c",
       "a3b377b8bb"
      ],
-     "s": "53c96822f2"
+     "s": "137803b73e"
     },
     "Maccabi": {
      "n": [
@@ -3012,7 +3012,7 @@
   "E2026_11"
  ],
  "schedule": {
-  "checked": "2026-11-17T03:39:59+00:00",
+  "checked": "2026-11-17T12:28:55+00:00",
   "rounds": [
    12,
    13

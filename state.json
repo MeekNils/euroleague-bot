@@ -398,19 +398,6 @@
  },
  "news": {
   "seen": [
-   "c5bc2f0680",
-   "62860e6ada",
-   "98401dee48",
-   "63021ae0ff",
-   "31d8ef88e1",
-   "0bbc3f9146",
-   "77498eb17a",
-   "1e8b160e64",
-   "aa679c36ea",
-   "880b426279",
-   "e3dff9e8bd",
-   "4a55d834cb",
-   "3d032279c6",
    "24f350e005",
    "a45f94a5bd",
    "d50c373528",
@@ -997,7 +984,20 @@
    "378b53430b",
    "93b4f49c99",
    "38ee011855",
-   "4aa0bc31cd"
+   "4aa0bc31cd",
+   "f4c3a096b5",
+   "32b8974d54",
+   "e1ada6c391",
+   "c5d16b31a5",
+   "81d2855da2",
+   "61a6741e47",
+   "168f3b4c21",
+   "bbf83eecdd",
+   "8a7cc92465",
+   "6528930b91",
+   "132efefca5",
+   "d536eb23e4",
+   "3d589368c7"
   ],
   "started": [
    "Sportando",
@@ -1005,10 +1005,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "EuroLeague, Hapoel Tel Aviv set to receive a franchise license",
-    "2026-11-08T09:15+00:00"
-   ],
    [
     "Luca Banchi officially returns to Olimpia Milano as head coach",
     "2026-11-08T10:30+00:00"
@@ -1244,6 +1240,10 @@
    [
     "Theo Maledon returns but Pedro Martinez cautions: “Without rushing things”",
     "2026-11-17T21:15+00:00"
+   ],
+   [
+    "Iffe Lundberg requires knee surgery, out for months",
+    "2026-11-18T11:27+00:00"
    ]
   ]
  },
@@ -1876,7 +1876,7 @@
   },
   "injury-report-round-12-fantasy-el2627": {
    "done": false,
-   "published": "2026-11-17T14:12:59.020Z",
+   "published": "2026-11-18T09:25:52.662Z",
    "round": 12,
    "teams": {
     "ASVEL": {
@@ -3013,7 +3013,7 @@
   "E2026_12"
  ],
  "schedule": {
-  "checked": "2026-11-17T21:15:20+00:00",
+  "checked": "2026-11-18T11:27:17+00:00",
   "rounds": [
    12,
    13

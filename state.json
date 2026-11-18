@@ -398,23 +398,6 @@
  },
  "news": {
   "seen": [
-   "24f350e005",
-   "a45f94a5bd",
-   "d50c373528",
-   "5fa24eb475",
-   "38137fde8e",
-   "08838ba19d",
-   "eb2c86aeb0",
-   "03fd33e3f0",
-   "56b7b1861d",
-   "9cc90d8943",
-   "f97a85ed89",
-   "1b85ba5857",
-   "fbd19b9d0f",
-   "ba5984bf93",
-   "d7b7fb5dfc",
-   "ea591bf555",
-   "ac3fad17c5",
    "939f5ae023",
    "383ebb1efb",
    "56e0fd197b",
@@ -997,7 +980,24 @@
    "6528930b91",
    "132efefca5",
    "d536eb23e4",
-   "3d589368c7"
+   "3d589368c7",
+   "f31cefc272",
+   "cf878c5bbf",
+   "987857aaa4",
+   "dc47f1b4c8",
+   "4f6dce8f58",
+   "0f6bd34188",
+   "ac1ea5d9de",
+   "693a5db1da",
+   "5ea917e7e3",
+   "148d4c251a",
+   "22e5c21077",
+   "1b316536e6",
+   "419e257581",
+   "a1deb79a1c",
+   "220b150041",
+   "834ec6d0ae",
+   "9f5667c017"
   ],
   "started": [
    "Sportando",
@@ -1005,22 +1005,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Luca Banchi officially returns to Olimpia Milano as head coach",
-    "2026-11-08T10:30+00:00"
-   ],
-   [
-    "Olimpia Milano, Banchi signs at dawn: first practice tomorrow",
-    "2026-11-08T10:35+00:00"
-   ],
-   [
-    "Milan appoints Banchi as head coach",
-    "2026-11-08T10:40+00:00"
-   ],
-   [
-    "Virtus Bologna draws interest from UAE investors: full takeover or major stake on the table",
-    "2026-11-09T07:30+00:00"
-   ],
    [
     "Zalgiris signs Mantas Rubstavicius, loans him to Tofas",
     "2026-11-09T09:30+00:00"
@@ -1244,6 +1228,22 @@
    [
     "Iffe Lundberg requires knee surgery, out for months",
     "2026-11-18T11:27+00:00"
+   ],
+   [
+    "Official: Achille Lonati joins Virtus Bologna",
+    "2026-11-18T19:30+00:00"
+   ],
+   [
+    "Barcelona officially signs Killian Hayes through June 2027",
+    "2026-11-18T19:30+00:00"
+   ],
+   [
+    "Fenerbahce: Nicolo Melli and Braxton Key undergo surgery",
+    "2026-11-18T19:30+00:00"
+   ],
+   [
+    "Melli, Key expected to be sidelined for six to eight weeks",
+    "2026-11-18T19:30+00:00"
    ]
   ]
  },
@@ -1875,7 +1875,7 @@
    }
   },
   "injury-report-round-12-fantasy-el2627": {
-   "done": false,
+   "done": true,
    "published": "2026-11-18T09:25:52.662Z",
    "round": 12,
    "teams": {
@@ -3013,7 +3013,7 @@
   "E2026_12"
  ],
  "schedule": {
-  "checked": "2026-11-18T11:27:17+00:00",
+  "checked": "2026-11-18T19:30:54+00:00",
   "rounds": [
    12,
    13

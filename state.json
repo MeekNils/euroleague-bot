@@ -398,17 +398,6 @@
  },
  "news": {
   "seen": [
-   "939f5ae023",
-   "383ebb1efb",
-   "56e0fd197b",
-   "951c75a292",
-   "0686bbd628",
-   "2cbaed8238",
-   "d3803ac430",
-   "e1e1a12e33",
-   "c4b2b6ff01",
-   "0908772532",
-   "502d96ccb5",
    "1fc3371af1",
    "eccc84c3eb",
    "455872739f",
@@ -997,7 +986,18 @@
    "a1deb79a1c",
    "220b150041",
    "834ec6d0ae",
-   "9f5667c017"
+   "9f5667c017",
+   "49e44de1e6",
+   "0b4511e239",
+   "2e8ca396f1",
+   "d9385783af",
+   "db2429e5b0",
+   "1c594dce6c",
+   "f27f96cd03",
+   "57df159c2b",
+   "78da64067b",
+   "3b7333b819",
+   "c19c592681"
   ],
   "started": [
    "Sportando",
@@ -1005,10 +1005,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Zalgiris signs Mantas Rubstavicius, loans him to Tofas",
-    "2026-11-09T09:30+00:00"
-   ],
    [
     "Real Madrid basketball budget reportedly reaches record €67.2M for 2026-27",
     "2026-11-09T10:05+00:00"
@@ -1244,6 +1240,10 @@
    [
     "Melli, Key expected to be sidelined for six to eight weeks",
     "2026-11-18T19:30+00:00"
+   ],
+   [
+    "London Lions target EuroLeague entry in 2030 amid new arena plans",
+    "2026-11-19T09:22+00:00"
    ]
   ]
  },
@@ -3013,9 +3013,8 @@
   "E2026_12"
  ],
  "schedule": {
-  "checked": "2026-11-18T19:30:54+00:00",
+  "checked": "2026-11-19T09:22:16+00:00",
   "rounds": [
-   12,
    13
   ],
   "season": "E2026"

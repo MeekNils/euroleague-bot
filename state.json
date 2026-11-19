@@ -67,6 +67,27 @@
    "start": 1,
    "t": "2026-11-13T19:15+00:00"
   },
+  "E2026_121": {
+   "final": 1,
+   "start": 1,
+   "t": "2026-11-19T18:00+00:00"
+  },
+  "E2026_123": {
+   "squad": 1,
+   "t": "2026-11-19T19:30+00:00"
+  },
+  "E2026_124": {
+   "squad": 1,
+   "t": "2026-11-19T19:00+00:00"
+  },
+  "E2026_125": {
+   "squad": 1,
+   "t": "2026-11-19T20:00+00:00"
+  },
+  "E2026_126": {
+   "squad": 1,
+   "t": "2026-11-19T19:45+00:00"
+  },
   "E2026_41": {
    "final": 1,
    "start": 1,
@@ -398,49 +419,6 @@
  },
  "news": {
   "seen": [
-   "1fc3371af1",
-   "eccc84c3eb",
-   "455872739f",
-   "61246ded5c",
-   "687bf57a70",
-   "c4f8256c81",
-   "d30c4180c5",
-   "239adbb3af",
-   "c15a2ff5cd",
-   "602f162e66",
-   "dfc322db74",
-   "8f7718a477",
-   "5e66ac447b",
-   "9f0d571527",
-   "615c2234f6",
-   "1def3fece2",
-   "147da12f4d",
-   "3f108bc29e",
-   "fe35e478a9",
-   "0f3d990d15",
-   "086dcdfe27",
-   "75763ab8b5",
-   "4311fbd74f",
-   "64894a8173",
-   "db32d670a7",
-   "6e6c85f1d7",
-   "e3db09a6d1",
-   "d24a8418d0",
-   "3fdfe39510",
-   "e35b822d73",
-   "606eb20431",
-   "ea739db3b4",
-   "de88f2f5fa",
-   "e9bcbf9a8d",
-   "c1784a6106",
-   "d80eefee13",
-   "e48c0d0e36",
-   "0684d99374",
-   "d35a30c11c",
-   "26b124e7a5",
-   "e05b396e11",
-   "7559c68633",
-   "9d8480b503",
    "5dfe615c98",
    "96a5003628",
    "9e66854db4",
@@ -997,7 +975,50 @@
    "57df159c2b",
    "78da64067b",
    "3b7333b819",
-   "c19c592681"
+   "c19c592681",
+   "aeba1f6ca3",
+   "c97642ac12",
+   "dfa8c21de9",
+   "40ead01a35",
+   "d599ab49eb",
+   "4f02efef43",
+   "e872b0ee7c",
+   "8d369b03ab",
+   "8672407ab2",
+   "041ad3b953",
+   "a18d5ae5fa",
+   "1b184dbb93",
+   "29e629791d",
+   "2b7a308953",
+   "7cda6f059d",
+   "7d6b93e5e0",
+   "7f55b6aaae",
+   "23b76dd736",
+   "231bc1a040",
+   "c1bc76daa1",
+   "db97fd9a88",
+   "6761a8c5b0",
+   "171821c463",
+   "bc4997cc2c",
+   "ad95dc00d6",
+   "4b4f3c7acb",
+   "138b13c3cd",
+   "ac5dcc56cc",
+   "6c9201bfdb",
+   "c555a48f3d",
+   "647f1f9383",
+   "bb31f239e7",
+   "ed780ae509",
+   "c676546566",
+   "0bf4db50a4",
+   "f5da34691c",
+   "4b4d0597c6",
+   "2282447a63",
+   "e0159962d0",
+   "6eebb2a5a7",
+   "2c994e9101",
+   "47c51442a9",
+   "6c6cf40c29"
   ],
   "started": [
    "Sportando",
@@ -1005,10 +1026,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Real Madrid basketball budget reportedly reaches record €67.2M for 2026-27",
-    "2026-11-09T10:05+00:00"
-   ],
    [
     "Marcelinho Huertas set for EuroLeague return with Dubai Basketball",
     "2026-11-09T13:20+00:00"
@@ -1244,6 +1261,10 @@
    [
     "London Lions target EuroLeague entry in 2030 amid new arena plans",
     "2026-11-19T09:22+00:00"
+   ],
+   [
+    "Bartzokas rules out Dorsey, expects Milutinov to miss Real Madrid",
+    "2026-11-19T18:25+00:00"
    ]
   ]
  },
@@ -1401,155 +1422,6 @@
       "6e41473cec"
      ],
      "s": "d3157ef932"
-    }
-   }
-  },
-  "euroleague-injury-report-round-4-el2627": {
-   "done": true,
-   "published": "2026-10-09T13:14:00.000Z",
-   "round": 4,
-   "teams": {
-    "ASVEL": {
-     "n": [
-      "94cdf7d714"
-     ],
-     "s": "c8ee1c0222"
-    },
-    "Barcelona": {
-     "n": [
-      "c436dbd475",
-      "aa5fa0a413",
-      "12c7657b4c",
-      "c80a99ec33"
-     ],
-     "s": "8c6ca5fc41"
-    },
-    "Baskonia": {
-     "n": [
-      "70b676559c"
-     ],
-     "s": "f8a9d792e0"
-    },
-    "Bayern": {
-     "n": [
-      "bdbd7d0adc"
-     ],
-     "s": "aa61f0faf2"
-    },
-    "Besiktas": {
-     "n": [
-      "20c945bbad"
-     ],
-     "s": "15c4a81ac2"
-    },
-    "Crvena Zvezda": {
-     "n": [
-      "43feb3116b",
-      "901ce8791f"
-     ],
-     "s": "55aab652c4"
-    },
-    "Dubai": {
-     "n": [
-      "9ce00bb7e7"
-     ],
-     "s": "2d3923f913"
-    },
-    "Efes": {
-     "n": [
-      "4492faa90b",
-      "dad5b88c9e",
-      "d57f251371"
-     ],
-     "s": "cd9d8edaeb"
-    },
-    "Fenerbahce": {
-     "n": [
-      "65cd44ed67"
-     ],
-     "s": "83311d87f0"
-    },
-    "Hapoel": {
-     "n": [
-      "26aed053ff",
-      "25199f8eb7"
-     ],
-     "s": "e777c39d28"
-    },
-    "Maccabi": {
-     "n": [
-      "2369318027",
-      "e2a08a7615",
-      "b30e076c35"
-     ],
-     "s": "51a193786d"
-    },
-    "Milan": {
-     "n": [
-      "64a95e4e7d",
-      "eb6c57c8c0"
-     ],
-     "s": "6117d208ef"
-    },
-    "Olympiacos": {
-     "n": [
-      "3c91d458e5",
-      "0cba7376dc"
-     ],
-     "s": "344baf4e7d"
-    },
-    "Panathinaikos": {
-     "n": [
-      "698a185d86",
-      "1687eabd25",
-      "c67192001a",
-      "19a09db89c"
-     ],
-     "s": "27f3df5647"
-    },
-    "Paris": {
-     "n": [
-      "c330372a66",
-      "e7b0a01055",
-      "83e39cd3aa"
-     ],
-     "s": "43f5197b0c"
-    },
-    "Partizan": {
-     "n": [
-      "e834046846",
-      "91a9d65feb",
-      "a7a0668519"
-     ],
-     "s": "5fe8b4b1d1"
-    },
-    "Real Madrid": {
-     "n": [
-      "2264b6f139"
-     ],
-     "s": "6af6945acf"
-    },
-    "Valencia": {
-     "n": [
-      "bf0211eabe",
-      "96419d9d23",
-      "57c9ab103e"
-     ],
-     "s": "3d0ff994af"
-    },
-    "Virtus": {
-     "n": [
-      "93fd23dfdb"
-     ],
-     "s": "63d0d9d458"
-    },
-    "Zalgiris": {
-     "n": [
-      "4e221aacdf",
-      "8559c19112",
-      "c87e7ef310"
-     ],
-     "s": "db438e651e"
     }
    }
   },
@@ -2055,6 +1927,188 @@
       "ad8a2f1bbd"
      ],
      "s": "45c067dc97"
+    }
+   }
+  },
+  "injury-report-round-13-fantasy-el2627": {
+   "done": false,
+   "published": "2026-11-19T13:14:01.606Z",
+   "round": 13,
+   "teams": {
+    "ASVEL": {
+     "n": [
+      "273110fb1a",
+      "cc9a28f24d",
+      "bc70039e34",
+      "671ecb30b9",
+      "6fd7eaae00"
+     ],
+     "s": "3c734763bd"
+    },
+    "Barcelona": {
+     "n": [
+      "5d331da052",
+      "7db3c80b1c",
+      "e462581743",
+      "cf70f9dfbe",
+      "21a131ff03"
+     ],
+     "s": "7c0b09ff92"
+    },
+    "Baskonia": {
+     "n": [
+      "a4eee40f22",
+      "e05926cce2",
+      "b047885ef7",
+      "d576c32779",
+      "9e5f831b73"
+     ],
+     "s": "9c732e3b18"
+    },
+    "Bayern": {
+     "n": [
+      "20a53c6190",
+      "828f226925",
+      "c1350b6b34",
+      "9512e3cf29"
+     ],
+     "s": "8646e7fe63"
+    },
+    "Besiktas": {
+     "n": [
+      "83439dcedc",
+      "a734657a7a"
+     ],
+     "s": "68957901fa"
+    },
+    "Crvena Zvezda": {
+     "n": [
+      "ecc9f25087",
+      "4e45af281e",
+      "16a8d083a1",
+      "c6d94d6031"
+     ],
+     "s": "5a3f166169"
+    },
+    "Dubai": {
+     "n": [
+      "9e393e2285",
+      "244066a788",
+      "db548fb987",
+      "38f3ca4910"
+     ],
+     "s": "2761bd681d"
+    },
+    "Efes": {
+     "n": [
+      "a3cd60d162",
+      "59b3da2908",
+      "4492faa90b",
+      "dad5b88c9e"
+     ],
+     "s": "8c404d7675"
+    },
+    "Fenerbahce": {
+     "n": [
+      "98ad1a98aa",
+      "db00016972",
+      "aa86e7566f",
+      "d97617073b"
+     ],
+     "s": "9ddc496628"
+    },
+    "Hapoel": {
+     "n": [
+      "f7da651d80",
+      "5ae8781b5a",
+      "e1084def2c",
+      "a3b377b8bb"
+     ],
+     "s": "b8bd691aed"
+    },
+    "Maccabi": {
+     "n": [
+      "e0b21056ea",
+      "0d17f7a331"
+     ],
+     "s": "15e99e373a"
+    },
+    "Milan": {
+     "n": [
+      "f936e1ee09"
+     ],
+     "s": "a409e259a0"
+    },
+    "Olympiacos": {
+     "n": [
+      "69dd11bd14",
+      "468ee48f0b",
+      "faaf809342",
+      "2658dfd417"
+     ],
+     "s": "09967e8455"
+    },
+    "Panathinaikos": {
+     "n": [
+      "20d0c9875c",
+      "8347579438",
+      "f8d0de9e52",
+      "85bf043432"
+     ],
+     "s": "a4c1c74aee"
+    },
+    "Paris": {
+     "n": [
+      "ba47771def",
+      "6c4df26ce9",
+      "bfa298b70e"
+     ],
+     "s": "f807b98b77"
+    },
+    "Partizan": {
+     "n": [
+      "739a9f17e2",
+      "2c77f0cd11",
+      "8cd0985def",
+      "8b0ee932cd",
+      "e1b33e4f77"
+     ],
+     "s": "e238955f61"
+    },
+    "Real Madrid": {
+     "n": [
+      "90fc6142a7",
+      "d58bc94c77",
+      "fd43fa5121",
+      "c816a2c801",
+      "67a2f118b7",
+      "2264b6f139"
+     ],
+     "s": "3ad66ff6f8"
+    },
+    "Valencia": {
+     "n": [
+      "2f5fce74e3",
+      "87f300004d",
+      "15d4e6e9a6"
+     ],
+     "s": "3405a01654"
+    },
+    "Virtus": {
+     "n": [
+      "da73e2ee7c",
+      "71b0edfc3e"
+     ],
+     "s": "17a522c44f"
+    },
+    "Zalgiris": {
+     "n": [
+      "6e41473cec",
+      "368053a461",
+      "b9db063ea1",
+      "ad8a2f1bbd"
+     ],
+     "s": "9c454680bc"
     }
    }
   },
@@ -3010,10 +3064,11 @@
   "E2026_9",
   "E2026_10",
   "E2026_11",
-  "E2026_12"
+  "E2026_12",
+  "E2026_13"
  ],
  "schedule": {
-  "checked": "2026-11-19T09:22:16+00:00",
+  "checked": "2026-11-19T18:25:28+00:00",
   "rounds": [
    13
   ],

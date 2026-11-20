@@ -419,21 +419,6 @@
  },
  "news": {
   "seen": [
-   "7d489c0728",
-   "dbb8d43c2e",
-   "fdf6fd635d",
-   "e073dd9a8c",
-   "77217553ec",
-   "3c26af283f",
-   "e90d92d2c2",
-   "627496b354",
-   "4e25bbc346",
-   "2af7992396",
-   "59e6304e3d",
-   "23edc0e253",
-   "72a6152a6c",
-   "4f86174a8c",
-   "e2bb2d3e48",
    "ccdb628677",
    "079de62d80",
    "6bd4b0062a",
@@ -1018,7 +1003,22 @@
    "9d9a7a385d",
    "7e943c30b2",
    "74c46ccedc",
-   "24c5dd5909"
+   "24c5dd5909",
+   "638339c6b4",
+   "4ce4098eb4",
+   "de6a1422cc",
+   "a209411597",
+   "5a2f6e4a38",
+   "d57096c8d4",
+   "1657c44d09",
+   "1193acbb5e",
+   "1b41c95000",
+   "ed2d323664",
+   "e55ab246e3",
+   "ed1a6d4489",
+   "6d0faa2173",
+   "e77d59943c",
+   "96f77fdf98"
   ],
   "started": [
    "Sportando",
@@ -1026,18 +1026,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Barcelona battered by injuries to Kevin Punter, Tosan Evbuomwan",
-    "2026-11-10T06:30+00:00"
-   ],
-   [
-    "Baskonia reportedly faces €2.8M bill after Galbiati, Laso and Howard exits",
-    "2026-11-10T10:40+00:00"
-   ],
-   [
-    "Olympiacos: Tyler Dorsey suspension set to expire on November 15",
-    "2026-11-10T10:55+00:00"
-   ],
    [
     "Zvezda’s Stefan Miljenovic out after ankle surgery",
     "2026-11-10T12:25+00:00"
@@ -1265,6 +1253,18 @@
    [
     "History Lesson: The Comeback Kids go back-to-back",
     "2026-11-20T16:26+00:00"
+   ],
+   [
+    "Partizan without Stevens and Vildoza against Besiktas, Hayes returns",
+    "2026-11-20T22:46+00:00"
+   ],
+   [
+    "Tyson Carter’s comeback reaches new heights in Barcelona",
+    "2026-11-20T22:46+00:00"
+   ],
+   [
+    "Efes sets season highs to dismiss ASVEL",
+    "2026-11-20T22:46+00:00"
    ]
   ]
  },
@@ -1931,8 +1931,8 @@
    }
   },
   "injury-report-round-13-fantasy-el2627": {
-   "done": false,
-   "published": "2026-11-20T09:14:17.066Z",
+   "done": true,
+   "published": "2026-11-20T17:22:26.272Z",
    "round": 13,
    "teams": {
     "ASVEL": {
@@ -2070,10 +2070,10 @@
       "739a9f17e2",
       "2c77f0cd11",
       "8cd0985def",
-      "8b0ee932cd",
+      "94590e6a5c",
       "e1b33e4f77"
      ],
-     "s": "e238955f61"
+     "s": "5189f9280f"
     },
     "Real Madrid": {
      "n": [
@@ -3068,9 +3068,10 @@
   "E2026_13"
  ],
  "schedule": {
-  "checked": "2026-11-20T16:26:15+00:00",
+  "checked": "2026-11-20T22:46:15+00:00",
   "rounds": [
-   13
+   13,
+   14
   ],
   "season": "E2026"
  }

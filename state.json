@@ -419,29 +419,6 @@
  },
  "news": {
   "seen": [
-   "5dfe615c98",
-   "96a5003628",
-   "9e66854db4",
-   "c9411b76de",
-   "b71f39d9a6",
-   "9987259eeb",
-   "75441ce0cf",
-   "e14f43663d",
-   "4a8d3d6a43",
-   "2d607bdc64",
-   "6a945176b9",
-   "39d9feb0cc",
-   "4a2b4086ff",
-   "e88e36ce4b",
-   "cf64d2c2ca",
-   "58b93de1f0",
-   "855c0f53ae",
-   "ae6329e27b",
-   "96143d37bb",
-   "7b5dd9a5ef",
-   "5716d38930",
-   "558f146c8e",
-   "64e5e33446",
    "5991f5c264",
    "eecb1c523e",
    "390ec6cb15",
@@ -1018,7 +995,30 @@
    "6eebb2a5a7",
    "2c994e9101",
    "47c51442a9",
-   "6c6cf40c29"
+   "6c6cf40c29",
+   "b0689ddee8",
+   "d5f1e59f3c",
+   "3a25aaa111",
+   "fb5c8bb061",
+   "c9ed168323",
+   "9e809865ee",
+   "dde2f4fe1b",
+   "38d2c18467",
+   "5d21df8158",
+   "efc0048ef5",
+   "1a2788ed8d",
+   "feed76630d",
+   "243766f557",
+   "671e98262f",
+   "bf8d006b7c",
+   "08e7f7c801",
+   "29e418e38d",
+   "82a2419092",
+   "9bbb8b8ed5",
+   "8aab0d97f9",
+   "46a9d081ba",
+   "a888984287",
+   "a964a5cd76"
   ],
   "started": [
    "Sportando",
@@ -1026,18 +1026,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Marcelinho Huertas set for EuroLeague return with Dubai Basketball",
-    "2026-11-09T13:20+00:00"
-   ],
-   [
-    "Kevin Punter, sidelined for three weeks with ankle injury",
-    "2026-11-09T14:25+00:00"
-   ],
-   [
-    "Thomas Walkup will miss the clash against Olympiacos due to injury",
-    "2026-11-09T14:45+00:00"
-   ],
    [
     "Fenerbahçe center Chris Silva closing in on Partizan move",
     "2026-11-09T17:15+00:00"
@@ -1265,6 +1253,18 @@
    [
     "Bartzokas rules out Dorsey, expects Milutinov to miss Real Madrid",
     "2026-11-19T18:25+00:00"
+   ],
+   [
+    "Partizan Belgrade appoint Sani Bećirović as new club director",
+    "2026-11-20T00:50+00:00"
+   ],
+   [
+    "Dzanan Musa suffered a severe eye injury",
+    "2026-11-20T00:50+00:00"
+   ],
+   [
+    "Dubai’s defensive dominance dooms Maccabi in comeback win",
+    "2026-11-20T00:50+00:00"
    ]
   ]
  },
@@ -3068,7 +3068,7 @@
   "E2026_13"
  ],
  "schedule": {
-  "checked": "2026-11-19T18:25:28+00:00",
+  "checked": "2026-11-20T00:50:55+00:00",
   "rounds": [
    13
   ],

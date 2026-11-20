@@ -419,20 +419,6 @@
  },
  "news": {
   "seen": [
-   "1b6aed2628",
-   "92580b1b4b",
-   "d17d2e9223",
-   "1363299f54",
-   "f82b6cdf71",
-   "b1ba907633",
-   "bb3f33844f",
-   "c4180d0217",
-   "7d468acb51",
-   "401ed621ef",
-   "ae1f8092c7",
-   "d286236ab1",
-   "3e007dbf6d",
-   "a566f70abb",
    "7d489c0728",
    "dbb8d43c2e",
    "fdf6fd635d",
@@ -1018,7 +1004,21 @@
    "a964a5cd76",
    "5b9c6d4ec1",
    "268a6352ca",
-   "cd277f14bd"
+   "cd277f14bd",
+   "cb24825d25",
+   "ba6e996ab6",
+   "8b3dea7799",
+   "90aba10476",
+   "3dd081697b",
+   "33a8e75adb",
+   "83ba78b32d",
+   "311d9c32fc",
+   "4147bc0ad9",
+   "712fb23d4f",
+   "9d9a7a385d",
+   "7e943c30b2",
+   "74c46ccedc",
+   "24c5dd5909"
   ],
   "started": [
    "Sportando",
@@ -1026,14 +1026,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Fenerbahçe center Chris Silva closing in on Partizan move",
-    "2026-11-09T17:15+00:00"
-   ],
-   [
-    "Maxima Roma reportedly set for permanent EuroLeague spot, Partizan, Zvezda, Virtus and Napoli in line for licenses through 2030",
-    "2026-11-09T17:30+00:00"
-   ],
    [
     "Barcelona battered by injuries to Kevin Punter, Tosan Evbuomwan",
     "2026-11-10T06:30+00:00"
@@ -1265,6 +1257,14 @@
    [
     "Dubai’s defensive dominance dooms Maccabi in comeback win",
     "2026-11-20T00:50+00:00"
+   ],
+   [
+    "Dubai announce Awudu Abass departure as Virtus Bologna return nears",
+    "2026-11-20T16:26+00:00"
+   ],
+   [
+    "History Lesson: The Comeback Kids go back-to-back",
+    "2026-11-20T16:26+00:00"
    ]
   ]
  },
@@ -1932,7 +1932,7 @@
   },
   "injury-report-round-13-fantasy-el2627": {
    "done": false,
-   "published": "2026-11-19T13:14:01.606Z",
+   "published": "2026-11-20T09:14:17.066Z",
    "round": 13,
    "teams": {
     "ASVEL": {
@@ -1953,7 +1953,7 @@
       "cf70f9dfbe",
       "21a131ff03"
      ],
-     "s": "7c0b09ff92"
+     "s": "72a026d150"
     },
     "Baskonia": {
      "n": [
@@ -1988,7 +1988,7 @@
       "16a8d083a1",
       "c6d94d6031"
      ],
-     "s": "5a3f166169"
+     "s": "28d2c36412"
     },
     "Dubai": {
      "n": [
@@ -3068,7 +3068,7 @@
   "E2026_13"
  ],
  "schedule": {
-  "checked": "2026-11-20T07:50:05+00:00",
+  "checked": "2026-11-20T16:26:15+00:00",
   "rounds": [
    13
   ],

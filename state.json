@@ -419,20 +419,6 @@
  },
  "news": {
   "seen": [
-   "6bd4b0062a",
-   "dbcc071af8",
-   "97538b883d",
-   "098f6fa816",
-   "c440be4644",
-   "e6b98d8f62",
-   "1618806474",
-   "d35d9af9b7",
-   "52de94bb09",
-   "f88b41277f",
-   "8bb2e9422a",
-   "75a704b850",
-   "ac789b0072",
-   "0566bfa5c5",
    "d5df4459de",
    "3c89d9ca02",
    "287dd9f5db",
@@ -1018,7 +1004,21 @@
    "e77d59943c",
    "96f77fdf98",
    "21a59f3f60",
-   "d39cfd28d0"
+   "d39cfd28d0",
+   "ebe5a1ea81",
+   "aecc4f3edc",
+   "480bf02a58",
+   "4e22baf537",
+   "11da2f1cb5",
+   "1425c1b972",
+   "acff546d58",
+   "5100ce370c",
+   "5a62f58a31",
+   "ea8c15ba09",
+   "361ac2c861",
+   "819e6de759",
+   "592c986689",
+   "c59db3ae05"
   ],
   "started": [
    "Sportando",
@@ -1026,18 +1026,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Zvezda’s Stefan Miljenovic out after ankle surgery",
-    "2026-11-10T12:25+00:00"
-   ],
-   [
-    "Tonye Jekiri and Luca Vildoza are game-time decisions for Partizan",
-    "2026-11-10T14:05+00:00"
-   ],
-   [
-    "Baskonia in advanced talks to sign Rolands Smits",
-    "2026-11-10T14:35+00:00"
-   ],
    [
     "Besiktas’s Jaylen Nowell undergoes nose surgery",
     "2026-11-10T14:45+00:00"
@@ -1265,6 +1253,18 @@
    [
     "Efes sets season highs to dismiss ASVEL",
     "2026-11-20T22:46+00:00"
+   ],
+   [
+    "Partizan extend Joan Peñarroya’s contract until 2029",
+    "2026-11-21T11:41+00:00"
+   ],
+   [
+    "Carlik Jones dismisses Olympiacos rumors: «I don’t pay attention to these things»",
+    "2026-11-21T11:41+00:00"
+   ],
+   [
+    "Partizan backs Joan Penarroya with long-term extension until 2029",
+    "2026-11-21T11:41+00:00"
    ]
   ]
  },
@@ -3068,9 +3068,8 @@
   "E2026_13"
  ],
  "schedule": {
-  "checked": "2026-11-20T22:46:15+00:00",
+  "checked": "2026-11-21T11:41:57+00:00",
   "rounds": [
-   13,
    14
   ],
   "season": "E2026"

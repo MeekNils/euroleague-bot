@@ -419,10 +419,6 @@
  },
  "news": {
   "seen": [
-   "a620113455",
-   "f2958c9203",
-   "39a1219b19",
-   "5d2842f3c9",
    "d532ac203a",
    "90d56d380c",
    "cf4d961aa3",
@@ -1018,7 +1014,11 @@
    "375a094f0e",
    "20ae9c0aa7",
    "98683aea51",
-   "45b08cb6f0"
+   "45b08cb6f0",
+   "a29ffc7ae7",
+   "c17ae34f8e",
+   "a14ba9dc1d",
+   "c43193b332"
   ],
   "started": [
    "Sportando",
@@ -1026,10 +1026,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Rolands Smits returns to the EuroLeague with struggling Baskonia",
-    "2026-11-11T10:20+00:00"
-   ],
    [
     "Baskonia nearing loan deal for Kenan Kamenjas from Dubai",
     "2026-11-11T12:30+00:00"
@@ -1265,6 +1261,10 @@
    [
     "Josh Nebo out three to four months with knee injury",
     "2026-11-22T18:39+00:00"
+   ],
+   [
+    "Baskonia reportedly set to sign Zach Perrin",
+    "2026-11-22T23:50+00:00"
    ]
   ]
  },

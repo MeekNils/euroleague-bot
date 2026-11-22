@@ -419,11 +419,6 @@
  },
  "news": {
   "seen": [
-   "fddbe53753",
-   "ea6722e06f",
-   "d1031a6404",
-   "b86cf2d5de",
-   "75a09a9e7a",
    "a620113455",
    "f2958c9203",
    "39a1219b19",
@@ -1018,7 +1013,12 @@
    "84d55bae10",
    "2111164af0",
    "a7a5831cd6",
-   "d00536f8d7"
+   "d00536f8d7",
+   "f15dc69954",
+   "375a094f0e",
+   "20ae9c0aa7",
+   "98683aea51",
+   "45b08cb6f0"
   ],
   "started": [
    "Sportando",
@@ -1026,10 +1026,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Maccabi Tel Aviv officially sign Kamar Baldwin",
-    "2026-11-10T16:35+00:00"
-   ],
    [
     "Rolands Smits returns to the EuroLeague with struggling Baskonia",
     "2026-11-11T10:20+00:00"
@@ -1265,6 +1261,10 @@
    [
     "Besiktas Reach Agreement with Bosna Sarajevo Standout Reggie Perry",
     "2026-11-21T23:21+00:00"
+   ],
+   [
+    "Josh Nebo out three to four months with knee injury",
+    "2026-11-22T18:39+00:00"
    ]
   ]
  },
@@ -3068,7 +3068,7 @@
   "E2026_13"
  ],
  "schedule": {
-  "checked": "2026-11-22T11:41:03+00:00",
+  "checked": "2026-11-22T18:39:21+00:00",
   "rounds": [
    14
   ],

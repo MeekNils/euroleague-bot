@@ -419,38 +419,6 @@
  },
  "news": {
   "seen": [
-   "d532ac203a",
-   "90d56d380c",
-   "cf4d961aa3",
-   "174cbc1b5c",
-   "059559520a",
-   "460404a736",
-   "23414d846c",
-   "7078a2d602",
-   "2028b4dd24",
-   "85bacbaf82",
-   "96f9cd22ee",
-   "62f6748d7e",
-   "9add9837aa",
-   "b3d0894955",
-   "ad6c24d8db",
-   "2f67fb007f",
-   "68f2f26e04",
-   "7bd1ff59df",
-   "a8ed8eaed3",
-   "3d1c6cae50",
-   "96642be913",
-   "350b50fa45",
-   "0a03fc2ce0",
-   "85edf9e701",
-   "44c99fbc83",
-   "750b632da0",
-   "d468c4062a",
-   "0f872e837c",
-   "a082d4467a",
-   "d0997a17b4",
-   "511e9b6df6",
-   "f3797a6578",
    "ff47a441df",
    "0389081ca5",
    "89f3400f52",
@@ -1018,7 +986,39 @@
    "a29ffc7ae7",
    "c17ae34f8e",
    "a14ba9dc1d",
-   "c43193b332"
+   "c43193b332",
+   "5b1683015e",
+   "d3ef5a9075",
+   "f4371b804d",
+   "a3873ffca3",
+   "4c3130d152",
+   "3371e88538",
+   "fbc4c528f6",
+   "bb73928f64",
+   "63be454e55",
+   "d38b555d9a",
+   "973389bbca",
+   "03caa94873",
+   "ef9db03486",
+   "6ad728cb25",
+   "84dea4b140",
+   "69576a1a78",
+   "516741c997",
+   "934c3a3395",
+   "35d0ef83b3",
+   "e760f6d9bd",
+   "4edad7be67",
+   "98b2ac12aa",
+   "96b05cb572",
+   "7e396cc4c8",
+   "42ffc48aef",
+   "52fa9606f4",
+   "857cad1bbb",
+   "7dcbd6d8e4",
+   "dd23473386",
+   "d70806ac53",
+   "98edd23434",
+   "a2cba15784"
   ],
   "started": [
    "Sportando",
@@ -1026,10 +1026,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Baskonia nearing loan deal for Kenan Kamenjas from Dubai",
-    "2026-11-11T12:30+00:00"
-   ],
    [
     "EuroLeague three-year licenses reportedly cost €1.5m per season",
     "2026-11-11T13:35+00:00"
@@ -1265,6 +1261,10 @@
    [
     "Baskonia reportedly set to sign Zach Perrin",
     "2026-11-22T23:50+00:00"
+   ],
+   [
+    "Baskonia sign Zacharie Perrin through 2030",
+    "2026-11-23T14:32+00:00"
    ]
   ]
  },
@@ -3068,7 +3068,7 @@
   "E2026_13"
  ],
  "schedule": {
-  "checked": "2026-11-23T04:05:37+00:00",
+  "checked": "2026-11-23T14:32:38+00:00",
   "rounds": [
    14
   ],

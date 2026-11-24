@@ -419,21 +419,6 @@
  },
  "news": {
   "seen": [
-   "ff47a441df",
-   "0389081ca5",
-   "89f3400f52",
-   "deb8f0c828",
-   "a57b20741d",
-   "2f085330f4",
-   "16bddf7723",
-   "292a3bf7e3",
-   "d03cd301df",
-   "a5e890f973",
-   "0cef229eec",
-   "0d4374c8c4",
-   "1d1bb7e2ce",
-   "a0ae6b53ae",
-   "20f8cff00a",
    "c2f67ec7d3",
    "12044cc18f",
    "90506fff9d",
@@ -1018,7 +1003,22 @@
    "dd23473386",
    "d70806ac53",
    "98edd23434",
-   "a2cba15784"
+   "a2cba15784",
+   "1870b166cb",
+   "96332a9884",
+   "f55bb28fcd",
+   "a411926be0",
+   "880c7a3035",
+   "27e55fec2e",
+   "5b664885d5",
+   "46849ff6f4",
+   "9f58854b08",
+   "a60bc2180e",
+   "40470a4e12",
+   "08f93f76cb",
+   "519c001766",
+   "a518ae8798",
+   "da41c697e1"
   ],
   "started": [
    "Sportando",
@@ -1026,14 +1026,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "EuroLeague three-year licenses reportedly cost €1.5m per season",
-    "2026-11-11T13:35+00:00"
-   ],
-   [
-    "Marcelinho Huertas leaves Tenerife after eight seasons. Next stop Dubai Basketball",
-    "2026-11-11T13:50+00:00"
-   ],
    [
     "EuroLeague and Panini extend collectibles partnership through 2029",
     "2026-11-11T14:30+00:00"
@@ -1265,6 +1257,14 @@
    [
     "Baskonia sign Zacharie Perrin through 2030",
     "2026-11-23T14:32+00:00"
+   ],
+   [
+    "Olimpia Milano without Peters, Bolmaro questionable against ASVEL",
+    "2026-11-24T01:51+00:00"
+   ],
+   [
+    "ASVEL and Myles Cale part ways by mutual agreement",
+    "2026-11-24T01:51+00:00"
    ]
   ]
  },
@@ -2109,6 +2109,211 @@
       "ad8a2f1bbd"
      ],
      "s": "9c454680bc"
+    }
+   }
+  },
+  "injury-report-round-14-fantasy-sloukas": {
+   "done": false,
+   "published": "2026-11-23T17:04:55.419Z",
+   "round": 14,
+   "teams": {
+    "ASVEL": {
+     "n": [
+      "458d4d3154",
+      "3706c357d7",
+      "24570a6dd8",
+      "c5357026ea",
+      "6fd7eaae00"
+     ],
+     "s": "2589f40034"
+    },
+    "Barcelona": {
+     "n": [
+      "84f643ce3c",
+      "d2752639dd",
+      "abfcbad2ed",
+      "7db3c80b1c",
+      "a85f51113e",
+      "cf70f9dfbe",
+      "21a131ff03"
+     ],
+     "s": "c948405172"
+    },
+    "Baskonia": {
+     "n": [
+      "d0cc76cfca",
+      "250f340afe",
+      "eba67bba4f",
+      "b047885ef7",
+      "d576c32779",
+      "9e5f831b73"
+     ],
+     "s": "00a919cb28"
+    },
+    "Bayern": {
+     "n": [
+      "584197b691",
+      "e08321d1d2",
+      "782e9c4fc3",
+      "d2348471d1"
+     ],
+     "s": "6d1df9bef1"
+    },
+    "Besiktas": {
+     "n": [
+      "a5e90a5f7c",
+      "96f6ce3e41",
+      "bed73f1214",
+      "90f71ea084"
+     ],
+     "s": "fa3c9b0f3d"
+    },
+    "Crvena Zvezda": {
+     "n": [
+      "0f99b87ffe",
+      "768637268b",
+      "662e5b4f6c",
+      "36f6d5f7a9",
+      "ded330722a"
+     ],
+     "s": "088e215d4f"
+    },
+    "Dubai": {
+     "n": [
+      "08ea9ab1bb",
+      "2edc0e469e",
+      "fdf7bbdded",
+      "6350bd2231",
+      "d91a85f1fa",
+      "15fa1a8262"
+     ],
+     "s": "f6b3fbe7c0"
+    },
+    "Efes": {
+     "n": [
+      "69713f3338",
+      "a3cd60d162",
+      "4492faa90b",
+      "dad5b88c9e"
+     ],
+     "s": "4e3548ed61"
+    },
+    "Fenerbahce": {
+     "n": [
+      "98ad1a98aa",
+      "db00016972",
+      "2b6fb1ee7e",
+      "fe59a3be1b"
+     ],
+     "s": "7923223e68"
+    },
+    "Hapoel": {
+     "n": [
+      "60374bb6af",
+      "e3dd3a5c75",
+      "649400631e",
+      "2ed1f3b67c",
+      "87563d1875"
+     ],
+     "s": "a8d4c65f5a"
+    },
+    "Maccabi": {
+     "n": [
+      "9fdec0fc47",
+      "a2ec692254",
+      "0d17f7a331"
+     ],
+     "s": "15e99e373a"
+    },
+    "Milan": {
+     "n": [
+      "f936e1ee09",
+      "eff69215ae",
+      "63f08e991e"
+     ],
+     "s": "fa32ce41b8"
+    },
+    "Olympiacos": {
+     "n": [
+      "7addf1c3ac",
+      "faaf809342",
+      "2658dfd417",
+      "133cf1bd96",
+      "400c71a143",
+      "69dd11bd14"
+     ],
+     "s": "ae87976230"
+    },
+    "Panathinaikos": {
+     "n": [
+      "aa3429a4ce",
+      "a39e3ac7b7",
+      "dfa60d7c60",
+      "6d7ba51b7e",
+      "ab5d850d71",
+      "97ede5a256"
+     ],
+     "s": "ecbf2f63d4"
+    },
+    "Paris": {
+     "n": [
+      "4f23877294",
+      "ea9238481b",
+      "8c216f55a0",
+      "4f900dd275"
+     ],
+     "s": "9cf17ec45d"
+    },
+    "Partizan": {
+     "n": [
+      "6d6287a504",
+      "594cfbe278",
+      "e73385b770",
+      "af4295db4f",
+      "54995985d4",
+      "8cd0985def"
+     ],
+     "s": "8de0d32f09"
+    },
+    "Real Madrid": {
+     "n": [
+      "6cc7f16a6a",
+      "7fca90dd71",
+      "fd43fa5121",
+      "c816a2c801",
+      "67a2f118b7",
+      "2264b6f139"
+     ],
+     "s": "c1f1ccad07"
+    },
+    "Valencia": {
+     "n": [
+      "2f5fce74e3",
+      "24b73cb63a",
+      "dfa8d1a64a",
+      "67e5e1a535"
+     ],
+     "s": "0698cb29cd"
+    },
+    "Virtus": {
+     "n": [
+      "276a59f4bd",
+      "702428fc50",
+      "5de200ca08",
+      "b535e94220",
+      "71b0edfc3e"
+     ],
+     "s": "6fe136a076"
+    },
+    "Zalgiris": {
+     "n": [
+      "6e41473cec",
+      "169b6fc0e5",
+      "a5b838bcb3",
+      "b9db063ea1",
+      "39d186cd6d"
+     ],
+     "s": "2ec77ffc49"
     }
    }
   },
@@ -3049,12 +3254,6 @@
      "s": "d87f3834e7"
     }
    }
-  },
-  "pregame-quotes-injury-report-round-3-ec2627": {
-   "done": true,
-   "published": "2026-10-12T11:39:42.874Z",
-   "round": 3,
-   "teams": {}
   }
  },
  "roundups": [
@@ -3068,7 +3267,7 @@
   "E2026_13"
  ],
  "schedule": {
-  "checked": "2026-11-23T14:32:38+00:00",
+  "checked": "2026-11-24T01:51:26+00:00",
   "rounds": [
    14
   ],

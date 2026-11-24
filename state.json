@@ -419,21 +419,6 @@
  },
  "news": {
   "seen": [
-   "340c713db7",
-   "8a145e905e",
-   "cc047c49be",
-   "45d6bfe393",
-   "96263efcbb",
-   "66a1a50d3b",
-   "5b95ef0e6d",
-   "5f65bc3e46",
-   "4ae13ea9c2",
-   "086eef6b2a",
-   "92ace7b931",
-   "14798ebc49",
-   "3cc9f1a951",
-   "de966794f1",
-   "75e602c724",
    "64031e6bdd",
    "fe3af0e109",
    "3c8ce09a11",
@@ -1018,7 +1003,22 @@
    "d6bba35032",
    "23e87d08ba",
    "f6c7426296",
-   "533fd8ddcf"
+   "533fd8ddcf",
+   "4ff63e284d",
+   "a812b8bb14",
+   "370b219ea8",
+   "d33ea69ee8",
+   "8b9fdf8c96",
+   "665075f11b",
+   "7a714f1510",
+   "0e5d7dbc62",
+   "22e9a166a6",
+   "f7c7851a3a",
+   "a425e0e124",
+   "1338aa37eb",
+   "46a07fd794",
+   "1f726aa21c",
+   "915af5aa74"
   ],
   "started": [
    "Sportando",
@@ -1026,18 +1026,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Euroleague Basketball slaps Partizan and Besiktas with fan misconduct fines",
-    "2026-11-12T11:00+00:00"
-   ],
-   [
-    "Tomas Satoransky targets return from scary injury, reflects on NBA years",
-    "2026-11-12T11:25+00:00"
-   ],
-   [
-    "Ethan Thompson avoids fracture after fall against Baskonia",
-    "2026-11-12T18:30+00:00"
-   ],
    [
     "Dorsey returns to Olympiacos practices, expected to be in the active roster against Aris",
     "2026-11-12T22:10+00:00"
@@ -1265,6 +1253,18 @@
    [
     "Bartzokas confirms Nikola Milutinov return, addresses Olympiacos market search",
     "2026-11-24T11:41+00:00"
+   ],
+   [
+    "Dubai Basketball-Partizan Belgrade, Pascual: “We have to recover our DNA”",
+    "2026-11-24T21:31+00:00"
+   ],
+   [
+    "Real Madrid’s Facundo Campazzo approaches return from hamstring injury",
+    "2026-11-24T21:31+00:00"
+   ],
+   [
+    "For Duane Washington Jr., Bayern is a return to where it all began",
+    "2026-11-24T21:31+00:00"
    ]
   ]
  },
@@ -2114,7 +2114,7 @@
   },
   "injury-report-round-14-fantasy-sloukas": {
    "done": false,
-   "published": "2026-11-24T09:32:22.107Z",
+   "published": "2026-11-24T15:47:14.068Z",
    "round": 14,
    "teams": {
     "ASVEL": {
@@ -2154,7 +2154,7 @@
      "n": [
       "584197b691",
       "e08321d1d2",
-      "782e9c4fc3",
+      "be1d4c9e04",
       "d2348471d1"
      ],
      "s": "6d1df9bef1"
@@ -2197,7 +2197,7 @@
       "4492faa90b",
       "dad5b88c9e"
      ],
-     "s": "4e3548ed61"
+     "s": "c895927f20"
     },
     "Fenerbahce": {
      "n": [
@@ -2222,7 +2222,7 @@
      "n": [
       "9fdec0fc47",
       "a2ec692254",
-      "0d17f7a331"
+      "f4c4c0dd23"
      ],
      "s": "15e99e373a"
     },
@@ -2236,14 +2236,14 @@
     },
     "Olympiacos": {
      "n": [
-      "7addf1c3ac",
+      "575a4a93df",
       "faaf809342",
       "2658dfd417",
       "133cf1bd96",
       "400c71a143",
       "69dd11bd14"
      ],
-     "s": "ae87976230"
+     "s": "6e50c3f7ee"
     },
     "Panathinaikos": {
      "n": [
@@ -2310,11 +2310,11 @@
      "n": [
       "6e41473cec",
       "169b6fc0e5",
-      "a5b838bcb3",
+      "cb72ffac4c",
       "b9db063ea1",
       "39d186cd6d"
      ],
-     "s": "2ec77ffc49"
+     "s": "633043550f"
     }
    }
   },
@@ -3265,10 +3265,11 @@
   "E2026_10",
   "E2026_11",
   "E2026_12",
-  "E2026_13"
+  "E2026_13",
+  "E2026_14"
  ],
  "schedule": {
-  "checked": "2026-11-24T11:41:15+00:00",
+  "checked": "2026-11-24T21:31:37+00:00",
   "rounds": [
    14
   ],

@@ -419,18 +419,6 @@
  },
  "news": {
   "seen": [
-   "c2f67ec7d3",
-   "12044cc18f",
-   "90506fff9d",
-   "1b23cb28ea",
-   "8c3b310062",
-   "cfcdd029f2",
-   "f6d56aaad1",
-   "377aa857d0",
-   "19da9bd5cd",
-   "661709f6cc",
-   "5e2fc0c090",
-   "852e80a6b5",
    "340c713db7",
    "8a145e905e",
    "cc047c49be",
@@ -1018,7 +1006,19 @@
    "08f93f76cb",
    "519c001766",
    "a518ae8798",
-   "da41c697e1"
+   "da41c697e1",
+   "6a28f1fc7b",
+   "c56323f373",
+   "09cb77194a",
+   "e888de2629",
+   "529aba01cd",
+   "b016e0df3b",
+   "7ac59e5e6c",
+   "b6b21d96a7",
+   "d6bba35032",
+   "23e87d08ba",
+   "f6c7426296",
+   "533fd8ddcf"
   ],
   "started": [
    "Sportando",
@@ -1026,18 +1026,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "EuroLeague and Panini extend collectibles partnership through 2029",
-    "2026-11-11T14:30+00:00"
-   ],
-   [
-    "Partizan welcomes Chris Silva for medicals to complete transfer from Fenerbahce",
-    "2026-11-11T14:45+00:00"
-   ],
-   [
-    "Latest disciplinary sanctions",
-    "2026-11-12T09:35+00:00"
-   ],
    [
     "Euroleague Basketball slaps Partizan and Besiktas with fan misconduct fines",
     "2026-11-12T11:00+00:00"
@@ -1265,6 +1253,18 @@
    [
     "ASVEL and Myles Cale part ways by mutual agreement",
     "2026-11-24T01:51+00:00"
+   ],
+   [
+    "Pokusevski talks Greek passport, PAOK, and Olympiacos: “Never say never”",
+    "2026-11-24T11:41+00:00"
+   ],
+   [
+    "EuroLeague shares key injury updates before Round 14 tipoff",
+    "2026-11-24T11:41+00:00"
+   ],
+   [
+    "Bartzokas confirms Nikola Milutinov return, addresses Olympiacos market search",
+    "2026-11-24T11:41+00:00"
    ]
   ]
  },
@@ -2114,7 +2114,7 @@
   },
   "injury-report-round-14-fantasy-sloukas": {
    "done": false,
-   "published": "2026-11-23T17:04:55.419Z",
+   "published": "2026-11-24T09:32:22.107Z",
    "round": 14,
    "teams": {
     "ASVEL": {
@@ -2163,7 +2163,8 @@
      "n": [
       "a5e90a5f7c",
       "96f6ce3e41",
-      "bed73f1214",
+      "0b7163c53c",
+      "9294743b1d",
       "90f71ea084"
      ],
      "s": "fa3c9b0f3d"
@@ -2273,7 +2274,7 @@
       "54995985d4",
       "8cd0985def"
      ],
-     "s": "8de0d32f09"
+     "s": "84cebd302a"
     },
     "Real Madrid": {
      "n": [
@@ -3267,7 +3268,7 @@
   "E2026_13"
  ],
  "schedule": {
-  "checked": "2026-11-24T01:51:26+00:00",
+  "checked": "2026-11-24T11:41:15+00:00",
   "rounds": [
    14
   ],

@@ -419,25 +419,6 @@
  },
  "news": {
   "seen": [
-   "8c71df8594",
-   "0c7f4ae96a",
-   "acd90961d5",
-   "7951d6619a",
-   "7c0e5c0732",
-   "41611a7197",
-   "cbfa57da86",
-   "4ebc65a63f",
-   "596fead02e",
-   "9260d175c5",
-   "e4c7dab413",
-   "d9f5c7a454",
-   "f490628ade",
-   "8b2fe0c866",
-   "3a289b2ad8",
-   "8b99d83b2d",
-   "05a52b3d5d",
-   "8059f71df7",
-   "9520c55741",
    "73aff79b87",
    "ab3839a8af",
    "a674920f61",
@@ -1018,7 +999,26 @@
    "f9734dfad3",
    "2f8c3b9095",
    "b883006398",
-   "b31abbdfb0"
+   "b31abbdfb0",
+   "ad1ab4cfc2",
+   "8f6eb0d5fc",
+   "6460793453",
+   "f7878057bc",
+   "d0c8c9f691",
+   "2714cf8e23",
+   "72bbdc015f",
+   "43c4e42cf1",
+   "cc3bbe162a",
+   "47991c42ca",
+   "cf385bf244",
+   "36ac61a438",
+   "d56823d45e",
+   "1c932b130f",
+   "eec48eab08",
+   "a7a1f40a73",
+   "0830bb290a",
+   "20f16a6162",
+   "89a29fc7fc"
   ],
   "started": [
    "Sportando",
@@ -1026,14 +1026,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Valanciunas makes history as Zalgiris survives Milan comeback",
-    "2026-11-12T23:25+00:00"
-   ],
-   [
-    "Chris Silva leaves Fenerbahce and officially joins Partizan",
-    "2026-11-13T07:55+00:00"
-   ],
    [
     "Euroleague confirms latest injury updates before final Round 11 games",
     "2026-11-13T09:25+00:00"
@@ -1265,6 +1257,14 @@
    [
     "Olimpia Milano officially sign Ze’Rik Onyema through end of season",
     "2026-11-25T14:51+00:00"
+   ],
+   [
+    "Baskonia Hold Off Anadolu Efes Comeback to Claim Second EuroLeague Win",
+    "2026-11-25T23:23+00:00"
+   ],
+   [
+    "Bad news for Besiktas, Wenyen Gabriel has torn his ACL",
+    "2026-11-25T23:23+00:00"
    ]
   ]
  },
@@ -2113,7 +2113,7 @@
    }
   },
   "injury-report-round-14-fantasy-sloukas": {
-   "done": false,
+   "done": true,
    "published": "2026-11-25T08:56:12.593Z",
    "round": 14,
    "teams": {
@@ -2237,6 +2237,7 @@
     },
     "Olympiacos": {
      "n": [
+      "1498637d92",
       "575a4a93df",
       "faaf809342",
       "2658dfd417",
@@ -2244,7 +2245,7 @@
       "400c71a143",
       "69dd11bd14"
      ],
-     "s": "6e50c3f7ee"
+     "s": "29788cfe3b"
     },
     "Panathinaikos": {
      "n": [
@@ -3270,7 +3271,7 @@
   "E2026_14"
  ],
  "schedule": {
-  "checked": "2026-11-25T14:51:32+00:00",
+  "checked": "2026-11-25T23:23:25+00:00",
   "rounds": [
    14
   ],

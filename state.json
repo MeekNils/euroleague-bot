@@ -419,22 +419,6 @@
  },
  "news": {
   "seen": [
-   "b940ee8206",
-   "011f657fbc",
-   "e1010f800a",
-   "d41ad5ff09",
-   "e95ea3fc3e",
-   "208b57ce13",
-   "f96c7a8100",
-   "ae897d6163",
-   "7185b6006e",
-   "040667dd9d",
-   "5d8cb17164",
-   "f79fa0e1b1",
-   "bdc0c7e25f",
-   "dc6359e0aa",
-   "05a3bbfe6a",
-   "82e58a8627",
    "8c71df8594",
    "0c7f4ae96a",
    "acd90961d5",
@@ -1018,7 +1002,23 @@
    "a3f3e46564",
    "55a3d684fe",
    "1f1539e4ee",
-   "3508d2de60"
+   "3508d2de60",
+   "112bbc6c81",
+   "bb7e6a8f2a",
+   "99410d1417",
+   "b7fa4f685b",
+   "d25fbbf637",
+   "346761f281",
+   "27cae544c6",
+   "bd6548da78",
+   "d394e797a3",
+   "c158cad870",
+   "865c2bd1a4",
+   "1c9f7cb129",
+   "f9734dfad3",
+   "2f8c3b9095",
+   "b883006398",
+   "b31abbdfb0"
   ],
   "started": [
    "Sportando",
@@ -1026,10 +1026,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Dorsey returns to Olympiacos practices, expected to be in the active roster against Aris",
-    "2026-11-12T22:10+00:00"
-   ],
    [
     "Valanciunas makes history as Zalgiris survives Milan comeback",
     "2026-11-12T23:25+00:00"
@@ -1265,6 +1261,10 @@
    [
     "For Duane Washington Jr., Bayern is a return to where it all began",
     "2026-11-24T21:31+00:00"
+   ],
+   [
+    "Olimpia Milano officially sign Ze’Rik Onyema through end of season",
+    "2026-11-25T14:51+00:00"
    ]
   ]
  },
@@ -2114,7 +2114,7 @@
   },
   "injury-report-round-14-fantasy-sloukas": {
    "done": false,
-   "published": "2026-11-24T15:47:14.068Z",
+   "published": "2026-11-25T08:56:12.593Z",
    "round": 14,
    "teams": {
     "ASVEL": {
@@ -2201,12 +2201,13 @@
     },
     "Fenerbahce": {
      "n": [
+      "875a292c14",
       "98ad1a98aa",
       "db00016972",
       "2b6fb1ee7e",
       "fe59a3be1b"
      ],
-     "s": "7923223e68"
+     "s": "ad1a0ef10e"
     },
     "Hapoel": {
      "n": [
@@ -3269,7 +3270,7 @@
   "E2026_14"
  ],
  "schedule": {
-  "checked": "2026-11-25T04:31:55+00:00",
+  "checked": "2026-11-25T14:51:32+00:00",
   "rounds": [
    14
   ],

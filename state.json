@@ -419,21 +419,6 @@
  },
  "news": {
   "seen": [
-   "ab3839a8af",
-   "a674920f61",
-   "388acaa419",
-   "9efa65377a",
-   "687d6a7a3a",
-   "6d16c3075b",
-   "0e20fb898f",
-   "cc336979ae",
-   "dc4f6a77c4",
-   "548ee3905a",
-   "b4929585ab",
-   "a4cfc49131",
-   "124fe9b2ea",
-   "33a27ba21b",
-   "f09f8b0ca1",
    "34724f2d05",
    "0a0b42572c",
    "2de0e6297a",
@@ -1018,7 +1003,22 @@
    "0830bb290a",
    "20f16a6162",
    "89a29fc7fc",
-   "7dc6f384e4"
+   "7dc6f384e4",
+   "5b09a6cd31",
+   "95c396d4dd",
+   "4b468ff25e",
+   "2ded130e10",
+   "b2ea33bb1a",
+   "8242d8c594",
+   "9f03e831fa",
+   "8f6858199b",
+   "d94f5d0beb",
+   "d24ebbca9e",
+   "ad2034ead3",
+   "6ed2450111",
+   "28d16c7a94",
+   "584b6d9869",
+   "52bb594af6"
   ],
   "started": [
    "Sportando",
@@ -1026,30 +1026,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "Euroleague confirms latest injury updates before final Round 11 games",
-    "2026-11-13T09:25+00:00"
-   ],
-   [
-    "Motorola and Euroleague Basketball Extend Partnership for a Fourth Consecutive Season",
-    "2026-11-13T10:25+00:00"
-   ],
-   [
-    "Motorola and Euroleague extend partnership: “Technology brings people closer”",
-    "2026-11-13T11:00+00:00"
-   ],
-   [
-    "Tyler Dorsey returns to Olympiacos practice after one-month suspension",
-    "2026-11-13T11:15+00:00"
-   ],
-   [
-    "Kenneth Faried out as Baskonia injury woes continue mounting",
-    "2026-11-13T12:20+00:00"
-   ],
-   [
-    "Barcelona, Sekulic: “With our injury problems, other players have to step up”",
-    "2026-11-13T14:15+00:00"
-   ],
    [
     "NovaSports bombshell | Three-team trade in the works, with Dorsey and Guduric involved? The latest market rumor…",
     "2026-11-13T21:00+00:00"
@@ -1265,6 +1241,30 @@
    [
     "Bad news for Besiktas, Wenyen Gabriel has torn his ACL",
     "2026-11-25T23:23+00:00"
+   ],
+   [
+    "Panathinaikos, Real Madrid, Fenerbahce and Valencia reportedly tracking Diarra",
+    "2026-11-26T15:28+00:00"
+   ],
+   [
+    "Carchia rules out McKissic’s Olympiacos return: “Chances are less than zero”",
+    "2026-11-26T15:28+00:00"
+   ],
+   [
+    "Fenerbahce open talks for Barcelona target Dain Dainja",
+    "2026-11-26T15:28+00:00"
+   ],
+   [
+    "Justin Anderson reportedly leaving Dubai for two-year PAOK deal",
+    "2026-11-26T15:28+00:00"
+   ],
+   [
+    "Shaw McKissic will stay at Turk Telekom despite interest from Olympiacos",
+    "2026-11-26T15:28+00:00"
+   ],
+   [
+    "ASVEL extends Juhann Begarin until the end of the season",
+    "2026-11-26T15:28+00:00"
    ]
   ]
  },
@@ -3271,10 +3271,8 @@
   "E2026_14"
  ],
  "schedule": {
-  "checked": "2026-11-25T23:23:25+00:00",
-  "rounds": [
-   14
-  ],
+  "checked": "2026-11-26T15:28:10+00:00",
+  "rounds": [],
   "season": "E2026"
  }
 }

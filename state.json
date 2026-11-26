@@ -419,9 +419,6 @@
  },
  "news": {
   "seen": [
-   "34724f2d05",
-   "0a0b42572c",
-   "2de0e6297a",
    "de5d4531a4",
    "8224ac45d5",
    "a2ed943a94",
@@ -1018,7 +1015,10 @@
    "6ed2450111",
    "28d16c7a94",
    "584b6d9869",
-   "52bb594af6"
+   "52bb594af6",
+   "0708a172d1",
+   "147e5c37d4",
+   "b924775a4f"
   ],
   "started": [
    "Sportando",
@@ -1026,14 +1026,6 @@
    "EuroLeague"
   ],
   "titles": [
-   [
-    "NovaSports bombshell | Three-team trade in the works, with Dorsey and Guduric involved? The latest market rumor…",
-    "2026-11-13T21:00+00:00"
-   ],
-   [
-    "Pablo Laso on Bruno Fernando’s injury: “I can’t say anything without MRI, he told me he’s fine”",
-    "2026-11-13T21:00+00:00"
-   ],
    [
     "Olimpia Milano make moves in the transfer market: Lester Quiñones emerges as a target, Onyema closing in",
     "2026-11-14T09:31+00:00"
@@ -1265,6 +1257,14 @@
    [
     "ASVEL extends Juhann Begarin until the end of the season",
     "2026-11-26T15:28+00:00"
+   ],
+   [
+    "Hapoel Tel Aviv could move EuroLeague home games from Sofia to Monaco",
+    "2026-11-26T23:58+00:00"
+   ],
+   [
+    "Nadir Hifi: “We are on a mission, I have no intention to leave Paris”",
+    "2026-11-26T23:58+00:00"
    ]
   ]
  },
@@ -3271,7 +3271,7 @@
   "E2026_14"
  ],
  "schedule": {
-  "checked": "2026-11-26T15:28:10+00:00",
+  "checked": "2026-11-26T23:58:12+00:00",
   "rounds": [],
   "season": "E2026"
  }
